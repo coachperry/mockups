@@ -1,31 +1,128 @@
-{"name":"High Quality Painters","town":"North Brunswick","phone":"(732) 585-8384","street":"500 Adams Ln",
-"address":"500 Adams Ln, North Brunswick Township, NJ 08902","schema_type":"HousePainter","rating":"5.0","review_count":"31",
-"areas":["North Brunswick NJ","New Brunswick NJ","Middlesex County NJ"],
-"palette":{"ink":"#20232a","accent":"#c0392b","paper":"#f7f4f1"},"font":"Archivo:wght@600;800",
-"hero":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rdlx6BdfC9j7hK771UP4oJbSv9q2owECG7_s4lfSTjvjaaQREg2xnVSfC0FE0hREtMf04xt7-rce-6cbgbL0T_cLLFf9GoCY3FJanqVJMsqpBOVblpabF_hxj1pkHi1b1sOdND-u1vWWEj=w203",
-"title":"House Painter in North Brunswick, NJ | High Quality Painters",
-"meta":"Interior painting, touch ups and full home repaints in North Brunswick, NJ. 5.0 stars from 31 Google reviews. Call (732) 585-8384.",
-"bar":"House painting in North Brunswick and Middlesex County","logo":"High Quality <span>Painters</span>",
-"h1":"House painting in North Brunswick, NJ","sub":"Homes, condos and touch ups. Wellington works clean, works fast and prices it fair.",
-"cta":"Get a free quote",
-"trust":[["5.0★","Google rating"],["31","Five star reviews"],["Clean","Work every time"],["Fair","Prices"]],
-"svc_h2":"Painting you can count on","work_h2":"Recent jobs",
-"services":[
- {"name":"Interior painting","photo":0,"text":"Bedrooms, living rooms and full homes painted with care and a clean finish."},
- {"name":"Condos and rentals","photo":3,"text":"Condos and homes painted between move outs, move ins and sales. Done on time."},
- {"name":"Touch ups","photo":4,"text":"Touch ups and fixes until it looks right. Easy to work with from start to finish."},
- {"name":"Trim and doors","photo":5,"text":"Trim, doors and detail work painted with sharp, clean lines."}],
-"photos":[
- {"url":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QeghEjy7-IveXxAI0Vvdip-FqxNTiErWQlipi00k28L1_MeK45rQW3gMFjEk0OZpv15_CdVV-JbQvgJN1dK6zqTJgCjVf78262FuMDTNqgBzCItGcBy2X-_tWnBdjutuaDNSMfpWgVEb1i=w203","cap":"Recent job"},
- {"url":"https://lh3.googleusercontent.com/grass-cs/AABkmLchdzKlecdhq__QNScln9vKtEF9TlVt62IRjbIVTgllxk8iHHUmZLmkBN6NtJaM3RdIq6HLtIami0SIrbEYmqeLkemmwsIQbc4hp_34ltRPv1IxnWmrE0-PSBjJzLmSocrmoU-wqWjTA7Id=w140","cap":"Finished room"},
- {"url":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SutWKkMLAVAYUnvt59K59DORDinUl_Fw8JRzSNggqRfBaUV4aS6wpfGumx9-TOfRJMBPc0adXqjbPYTt7lfWxCjjcZujMLKcTDNNEP0xod29kpR5O_7G-hDXKU_rW5XeoWBvrg=w203","cap":"Interior paint"},
- {"url":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SWGxOl23HEk3dKBANORDMKtjL19UUq_UfGrFGXvEFGSSfRoCOJ6KwEOT_VyOPb0YVaSwRvAPm7YLfa-6pIBrgOMO_s_9j7HSF32O0Vcg0r8vG9kFLUig10_ChpjREXPX5FdK8kk_uJOH3C=w203","cap":"Home repaint"},
- {"url":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3nO_cYahJ-m9fyeAO-e5KPmnD8GO6GaxQKV13IidP_2ZGLOl6JMAuZLytJZL0atysvXozmwjCzpmv1HkXnxVD6gyRH7sHuolqAPviqZK2zXt209Hi_Uzi6r8gMde_Oscs3On3h-tVZWLP=w203","cap":"Fresh coat"},
- {"url":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rdlx6BdfC9j7hK771UP4oJbSv9q2owECG7_s4lfSTjvjaaQREg2xnVSfC0FE0hREtMf04xt7-rce-6cbgbL0T_cLLFf9GoCY3FJanqVJMsqpBOVblpabF_hxj1pkHi1b1sOdND-u1vWWEj=w203","cap":"Finished project"}],
-"reviews":[
- {"who":"James Lew","text":"Was recommended by my realtor and Wellington did not disappoint. Received good paint job at a very fair price. He was friendly and easy to work with and did whatever touch up i asked for. Very honest too - I overpaid him because I forgot to deduct the deposit and he came back and refunded me!"},
- {"who":"Google reviewer","text":"Professional service, job well done and in good timing."},
- {"who":"Google reviewer","text":"His prices are quite reasonable and I highly recommend him!"}],
-"faqs":[["Do you give free quotes?","Yes. Call or text (732) 585-8384 and Wellington will take a look."],["Do you paint condos and rentals?","Yes. Homes, condos and units getting ready for a sale or new tenant."],["What areas do you serve?","North Brunswick and the nearby towns in Middlesex County."]],
-"quote_h2":"Get your free quote","quote_p":"Tell us what needs painting and Wellington will reach out.",
-"footer":"House painting in North Brunswick, NJ"}
+{
+ "name": "High Quality Painters",
+ "town": "North Brunswick",
+ "phone": "(732) 585-8384",
+ "street": "500 Adams Ln",
+ "address": "500 Adams Ln, North Brunswick Township, NJ 08902",
+ "schema_type": "HousePainter",
+ "rating": "5.0",
+ "review_count": "31",
+ "areas": [
+  "North Brunswick NJ",
+  "New Brunswick NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#20232a",
+  "accent": "#c0392b",
+  "paper": "#f7f4f1"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QeghEjy7-IveXxAI0Vvdip-FqxNTiErWQlipi00k28L1_MeK45rQW3gMFjEk0OZpv15_CdVV-JbQvgJN1dK6zqTJgCjVf78262FuMDTNqgBzCItGcBy2X-_tWnBdjutuaDNSMfpWgVEb1i=w203",
+ "title": "House Painter in North Brunswick, NJ | High Quality Painters",
+ "meta": "Interior painting, touch ups and full home repaints in North Brunswick, NJ. 5.0 stars from 31 Google reviews. Call (732) 585-8384.",
+ "bar": "House painting in North Brunswick and Middlesex County",
+ "logo": "High Quality <span>Painters</span>",
+ "h1": "House painting in North Brunswick, NJ",
+ "sub": "Interiors, doors, ceilings and decks. Wellington works clean, works fast and prices it fair.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0\u2605",
+   "Google rating"
+  ],
+  [
+   "31",
+   "Five star reviews"
+  ],
+  [
+   "Inside",
+   "and out"
+  ],
+  [
+   "Fair",
+   "Prices"
+  ]
+ ],
+ "svc_h2": "Painting you can count on",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 4,
+   "text": "Bedrooms, bathrooms, living rooms and full homes painted with care and a clean finish."
+  },
+  {
+   "name": "Doors",
+   "photo": 3,
+   "text": "Front doors painted or stained so the entry looks new again."
+  },
+  {
+   "name": "Ceilings and trim",
+   "photo": 2,
+   "text": "Ceilings, crown and trim painted with sharp, clean lines."
+  },
+  {
+   "name": "Decks",
+   "photo": 0,
+   "text": "Deck and railing work done right and finished clean."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QeghEjy7-IveXxAI0Vvdip-FqxNTiErWQlipi00k28L1_MeK45rQW3gMFjEk0OZpv15_CdVV-JbQvgJN1dK6zqTJgCjVf78262FuMDTNqgBzCItGcBy2X-_tWnBdjutuaDNSMfpWgVEb1i=w203",
+   "cap": "Deck and railings"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchdzKlecdhq__QNScln9vKtEF9TlVt62IRjbIVTgllxk8iHHUmZLmkBN6NtJaM3RdIq6HLtIami0SIrbEYmqeLkemmwsIQbc4hp_34ltRPv1IxnWmrE0-PSBjJzLmSocrmoU-wqWjTA7Id=w140",
+   "cap": "Front doors"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SutWKkMLAVAYUnvt59K59DORDinUl_Fw8JRzSNggqRfBaUV4aS6wpfGumx9-TOfRJMBPc0adXqjbPYTt7lfWxCjjcZujMLKcTDNNEP0xod29kpR5O_7G-hDXKU_rW5XeoWBvrg=w203",
+   "cap": "Coffered ceiling"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SWGxOl23HEk3dKBANORDMKtjL19UUq_UfGrFGXvEFGSSfRoCOJ6KwEOT_VyOPb0YVaSwRvAPm7YLfa-6pIBrgOMO_s_9j7HSF32O0Vcg0r8vG9kFLUig10_ChpjREXPX5FdK8kk_uJOH3C=w203",
+   "cap": "Stained entry door"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3nO_cYahJ-m9fyeAO-e5KPmnD8GO6GaxQKV13IidP_2ZGLOl6JMAuZLytJZL0atysvXozmwjCzpmv1HkXnxVD6gyRH7sHuolqAPviqZK2zXt209Hi_Uzi6r8gMde_Oscs3On3h-tVZWLP=w203",
+   "cap": "Bathroom repaint"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rdlx6BdfC9j7hK771UP4oJbSv9q2owECG7_s4lfSTjvjaaQREg2xnVSfC0FE0hREtMf04xt7-rce-6cbgbL0T_cLLFf9GoCY3FJanqVJMsqpBOVblpabF_hxj1pkHi1b1sOdND-u1vWWEj=w203",
+   "cap": "Closet doors"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "James Lew",
+   "text": "Was recommended by my realtor and Wellington did not disappoint. Received good paint job at a very fair price. He was friendly and easy to work with and did whatever touch up i asked for. Very honest too - I overpaid him because I forgot to deduct the deposit and he came back and refunded me!"
+  },
+  {
+   "who": "Google reviewer",
+   "text": "Professional service, job well done and in good timing."
+  },
+  {
+   "who": "Google reviewer",
+   "text": "His prices are quite reasonable and I highly recommend him!"
+  }
+ ],
+ "faqs": [
+  [
+   "Do you give free quotes?",
+   "Yes. Call or text (732) 585-8384 and Wellington will take a look."
+  ],
+  [
+   "Do you paint condos and rentals?",
+   "Yes. Homes, condos and units getting ready for a sale or new tenant."
+  ],
+  [
+   "What areas do you serve?",
+   "North Brunswick and the nearby towns in Middlesex County."
+  ]
+ ],
+ "quote_h2": "Get your free quote",
+ "quote_p": "Tell us what needs painting and Wellington will reach out.",
+ "footer": "House painting in North Brunswick, NJ"
+}
