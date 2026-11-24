@@ -1,0 +1,126 @@
+{
+ "name": "Garden State Power Washing",
+ "town": "Central Jersey",
+ "phone": "(732) 925-6354",
+ "street": "",
+ "address": "New Jersey",
+ "schema_type": "HomeAndConstructionBusiness",
+ "rating": "5.0",
+ "review_count": "100",
+ "areas": [
+  "Central New Jersey"
+ ],
+ "palette": {
+  "ink": "#123524",
+  "accent": "#2e9d5b",
+  "paper": "#f1f7f2"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLexe8IwZygZkSLs4tpO1f3dp5SYHDqpVHk_AQ6LLYmsGrr4QXurEEUBRr9Af4O2LccJ8KXvYmS0wjPeNdYn-2DFPFAvjmn-mRRV-A0Ok2JQRkZ4lz93zxteDDeDzadUH39WdFiBN9cWeFMq",
+ "title": "Power Washing in Central Jersey | Garden State Power Washing",
+ "meta": "House washing, pool decks, patios and fences power washed. 5.0 stars from 100 Google reviews. Call (732) 925-6354.",
+ "bar": "Power washing for homes, decks, patios and fences",
+ "logo": "Garden State <span>Power Washing</span>",
+ "h1": "Power washing that makes your home look new again",
+ "sub": "Houses, pool decks, patios and fences. On time, top to bottom, front to back.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "100",
+   "Google reviews"
+  ],
+  [
+   "Pool",
+   "decks and patios"
+  ],
+  [
+   "Fences",
+   "vinyl and wood"
+  ]
+ ],
+ "svc_h2": "What we clean",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 0,
+   "text": "Siding and brick washed top to bottom, front to back."
+  },
+  {
+   "name": "Pool decks",
+   "photo": 1,
+   "text": "Concrete pool decks cleaned so they look bright again."
+  },
+  {
+   "name": "Patios and steps",
+   "photo": 3,
+   "text": "Pavers, patios and steps brought back to life."
+  },
+  {
+   "name": "Fences",
+   "photo": 5,
+   "text": "Vinyl fences washed clean of green and grime."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexe8IwZygZkSLs4tpO1f3dp5SYHDqpVHk_AQ6LLYmsGrr4QXurEEUBRr9Af4O2LccJ8KXvYmS0wjPeNdYn-2DFPFAvjmn-mRRV-A0Ok2JQRkZ4lz93zxteDDeDzadUH39WdFiBN9cWeFMq",
+   "cap": "House wash"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QoRziiMEWNmON9qgsw6qBB9C8zeIXEUNVnmEtNCqkjLCH-fLGX6xrEQi4-BGXVB_Mn6IBn4AsxA5mqBnmrE9ABk1ELI5aFFFkLYoUGnI6RIZ54fdfP6tgIOxYIonZIrvEi78DLHnbsmdJ-",
+   "cap": "Pool deck cleaned"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SE1XJjawNh3ib6SZBSZJT3r2Cn_9wsCLOXJfszAArVouB0oQFwZfrYD03LE-kw7wIvwTO-ULgHSmCVuT6e9_s4dvvBZ9NVojWacNkkvYB2BYatnJEJ_e1AH9Vxglb9E66IB0A3mCx8ZfLc",
+   "cap": "Back deck and siding"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOR6xdhxZFiTj03lWmG-wnkVmFa0_xBD1GgkwA4wKLW4FRJ32xv0J7UMweUlbBskubSTGBOJVkCPZUE1HuZgdceMaJfAabk_qcFjhF0mMbsNvGjFX6fiu-6KBE2hfKGL6ty4c6e3iY1sKh",
+   "cap": "Brick patio and steps"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOCmvBRSwUlqc5PUTS2_gRXMJbadeT6uMqa684Udy6YK6RXH96A3aG_E3gjySYCQlGb0aOYcoyj7laRFDZbVxA2nOsHpwL07tXt-uMq5zXa_2UUK4FulKasucncrrUGaQSAtkRDpxlnqqk",
+   "cap": "Pool deck"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLFMs0HbU-mbfZ93DFL4PJmhKddEHhIQ1ZEYuCTCkhUeuIVArrqbd4E6ebuNLc2z1s8bpUbrW34G-5ktfyJoj2BCg5LnN6ABqUnsZsnHS0ZSTcBfsKkgoADPWAzGyX1Kc8t_QxiHzKKOJ3",
+   "cap": "Vinyl fence wash"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Liz M",
+   "text": "Alex did a wonderful job power washing my house and my fence. I would definitely recommend him. He's reliable and does a really good work.\n\nMy house and fence looks great!"
+  },
+  {
+   "who": "Timothy Simko",
+   "text": "Alex is the man. I got his number from a friend on 5/27 at 830pm and he took my 3200 sqft house in brick for a power wash top to bottom / front to back the next morning. It's 5pm now on 5/28 and I've got before and after pics of what's a job well done. Last minute too. I recommend him and will be using him again"
+  },
+  {
+   "who": "Rich D",
+   "text": "Alex came on time and ready to roll today.  Did my entire concrete pool deck, pool fence, back patio and front as well.\n\nAttention to detail, delivered as expected.  I will be calling Alex back to talk about Solar panel cleaning and window service on the future (as well as future cleaning jobs)"
+  }
+ ],
+ "faqs": [
+  [
+   "What do you power wash?",
+   "Houses, brick, pool decks, patios, steps and fences."
+  ],
+  [
+   "How do I get a price?",
+   "Send a few details with the form or call (732) 925-6354 and Alex will get back to you."
+  ],
+  [
+   "Do you take last minute jobs?",
+   "Reach out and ask. Customers have had jobs done the very next morning."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us what needs cleaning. Alex will get back to you fast.",
+ "footer": "Garden State Power Washing LLC · (732) 925-6354"
+}
