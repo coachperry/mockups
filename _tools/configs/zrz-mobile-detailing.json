@@ -1,0 +1,126 @@
+{
+ "name": "ZRZ Mobile Detailing",
+ "town": "New Jersey",
+ "phone": "(732) 310-5800",
+ "street": "",
+ "address": "New Jersey",
+ "schema_type": "AutomotiveBusiness",
+ "rating": "5.0",
+ "review_count": "63",
+ "areas": [
+  "New Jersey"
+ ],
+ "palette": {
+  "ink": "#0d0d0f",
+  "accent": "#c9a227",
+  "paper": "#f6f5f2"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLfosb8O6X9WNSnGnPJXt04uB3j-BpxjCT65Bi0UQEQWmoIBTAzbkEwOF0mLA_VeF4COckDURUaiCDsqnrwlL0x3rzOhMlS8jzkGTy0FOesYhzXoHzra8PkSRHZgYYUbcHZtuguX9XzTeMmW",
+ "title": "Mobile Car Detailing in New Jersey | ZRZ Mobile Detailing",
+ "meta": "Mobile car detailing that comes to your home. Luxury, exotic and classic cars. 5.0 stars from 63 Google reviews. Call (732) 310-5800.",
+ "bar": "Mobile detailing. We come to you.",
+ "logo": "ZRZ <span>Mobile Detailing</span>",
+ "h1": "Mobile detailing that comes to your driveway",
+ "sub": "Inside and out, at your home. Trusted with Ferraris, Maybachs and classics.",
+ "cta": "Book a detail",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "63",
+   "Google reviews"
+  ],
+  [
+   "Mobile",
+   "we come to you"
+  ],
+  [
+   "Luxury",
+   "and exotic cars"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent details",
+ "services": [
+  {
+   "name": "Full detail",
+   "photo": 0,
+   "text": "Inside and out, done right in your driveway."
+  },
+  {
+   "name": "Interior detail",
+   "photo": 4,
+   "text": "Seats, carpets and trim cleaned so the car looks and smells new."
+  },
+  {
+   "name": "Luxury and exotic",
+   "photo": 2,
+   "text": "Next level attention to detail for high end cars."
+  },
+  {
+   "name": "Classic cars",
+   "photo": 3,
+   "text": "Careful work for the cars you love most."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfosb8O6X9WNSnGnPJXt04uB3j-BpxjCT65Bi0UQEQWmoIBTAzbkEwOF0mLA_VeF4COckDURUaiCDsqnrwlL0x3rzOhMlS8jzkGTy0FOesYhzXoHzra8PkSRHZgYYUbcHZtuguX9XzTeMmW",
+   "cap": "Ferrari detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcWZHEA4Jy5spMStZWWxicYbi_7Cpg0pPovO20lE2paEIpaFdEfcw0MM8wVWfIw07_rtGD1zfYKFBA03EyHqnX1FVQGgdXvqqG9WJqI84UxZcrXY6Z5UJyC_19vVJdpjwdXOortJBHCorZ",
+   "cap": "Lamborghini Urus detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsX96l9O2FGb2Bm77SBWNMkPOlAxvXngpc9dZBhFaqQfKakSn448VJhBaOvJEy23xamFVfna3WScVGNVQb3DHptjzloOiOS0gzoHflH1k0LW0Tz68vESgfWDH1kDxReC-a39AE4oenjRk",
+   "cap": "Maybach detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc55-tXTtnJSTNIOvrpRr8H7izHjaDv_w3XgyuodG-Go8nYNnT3UIqTBvB8j6_bLb9APaqQa4ccw8OXwekYhh0DMVSSzgkG1r6Hzfkn6s7OVWQeZvWaNsvlDMMj9C9K-ZpG4xOd1XOh3BRD",
+   "cap": "Classic MG restored shine"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRCQJkhqjs52OqNWmMU4Io1yprSPu8uxpk8U9QrskDQtkqYe3aN0GgUpCx_qUrRtqT4c5xf5mvZI16PqCBPyBhfRiP0O-z4rshikCjfD9Y3KQL53UVRVa5Fgf794bt9uTpJ5aX5SpiBPeH",
+   "cap": "Leather seats cleaned"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgEEDDBrLpBFukG5lD-nhj3eRivzBbhmsN9pnnXS_ShQ_Foncen2scRueElKE_zjL8O7_nCuQRHFUehM9fBfe9ZwPQHKVG0BfyKP2YXZ69_iO05WAaW0PAPe34hBUdbVeR_nmFKZ1XjCon",
+   "cap": "Interior detail"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "H N",
+   "text": "Absolutely amazing service! They detailed my Maybach and did an incredible job. The attention to detail was next level, and the car looked absolutely spotless when they were finished. Very professional, friendly, and thorough. You can tell they genuinely take pride in their work. I highly recommend them to anyone looking for top-quality detailing, especially for a luxury vehicle. I’ll definitely be using them again! Thank you, Zo!"
+  },
+  {
+   "who": "Fasika Yeshanew",
+   "text": "What an exceptional service! Zoe and his team are absolutely wonderful. The fact that they offer a mobile service and came right to my home to clean my car was such a blessing and incredibly convenient.\n\nShay, the gentleman who did the cleaning, was very polite, professional, and did an amazing job. My car looks super clean - almost brand new - and smells fantastic!\n\nThank you so much, Zoe and Shay, for the excellent service. I truly appreciate your hard work and will definitely recommend you to others. God bless you both!"
+  },
+  {
+   "who": "John DeSimone",
+   "text": "Fantastic! Quality of work, professionalism of the owner and staff phenomenal. Will recommend their services to all."
+  }
+ ],
+ "faqs": [
+  [
+   "Do you come to me?",
+   "Yes. We are fully mobile and detail your car at your home."
+  ],
+  [
+   "Do you work on luxury cars?",
+   "Yes. We detail exotics, luxury and classic cars."
+  ],
+  [
+   "How do I book?",
+   "Fill out the form or call (732) 310-5800."
+  ]
+ ],
+ "quote_h2": "Book your detail",
+ "quote_p": "Tell us your car and what it needs. Zoe will get back to you fast.",
+ "footer": "ZRZ Mobile Detailing · (732) 310-5800"
+}
