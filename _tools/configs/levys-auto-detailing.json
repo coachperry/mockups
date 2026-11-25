@@ -1,0 +1,116 @@
+{
+ "name": "Levy's Auto Detailing",
+ "town": "New Jersey",
+ "phone": "(908) 415-2398",
+ "rating": "4.6",
+ "review_count": "20",
+ "areas": [
+  "New Jersey"
+ ],
+ "palette": {
+  "ink": "#14161a",
+  "accent": "#d8402b",
+  "paper": "#f4f3f0"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTfGNjsQA0wNoCfdKxjwF34rRKjMK3qvSjZzuTx_B1O5BJnUxpckBJMiJIIZsX7ZLB9VsMCI3RmvmdcFA2DSNrVIVFYq2yjyqE-nJl4Cryzzc3AtFu_BoGa1tAs32VgNEY9b6lr8-BE5rn",
+ "title": "Mobile Auto Detailing in NJ | Levy's Auto Detailing",
+ "meta": "Interior and exterior auto detailing in New Jersey, from Jeeps to Lotus. Call (908) 415-2398.",
+ "bar": "Interior and exterior detailing in NJ",
+ "logo": "Levy's <span>Auto Detailing</span>",
+ "h1": "Detailing that makes your car look showroom new",
+ "sub": "Inside and out, every detail. Trucks, SUVs and sports cars.",
+ "cta": "Book a detail",
+ "trust": [
+  [
+   "4.6★",
+   "Google rating"
+  ],
+  [
+   "20",
+   "Google reviews"
+  ],
+  [
+   "Inside",
+   "and out"
+  ],
+  [
+   "Trucks",
+   "SUVs and sports cars"
+  ]
+ ],
+ "svc_h2": "Detailing services",
+ "work_h2": "Recent details",
+ "services": [
+  {
+   "name": "Full detail",
+   "photo": 0,
+   "text": "Exterior wash and a full interior clean, done with care."
+  },
+  {
+   "name": "Interior detail",
+   "photo": 3,
+   "text": "Seats, dash, consoles and carpets, cleaned and protected."
+  },
+  {
+   "name": "Sports cars",
+   "photo": 1,
+   "text": "Careful hands for cars you care about."
+  },
+  {
+   "name": "Trucks and Jeeps",
+   "photo": 2,
+   "text": "Big vehicles brought back to clean."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTfGNjsQA0wNoCfdKxjwF34rRKjMK3qvSjZzuTx_B1O5BJnUxpckBJMiJIIZsX7ZLB9VsMCI3RmvmdcFA2DSNrVIVFYq2yjyqE-nJl4Cryzzc3AtFu_BoGa1tAs32VgNEY9b6lr8-BE5rn",
+   "cap": "Driveway detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R2L9KzuKRadaYoCn5Hl-tKsGi2nA0WfHZABfQBQHsUPp4q8xVQ9lJKDvb18RM_RwFhd5y8Eg0P1W0-sSGE7PH-tqwzaZz3wyY1_L_RdKyVZneK7VfstqKvEmx3U5UOERjS-r5kMx9ut9p8",
+   "cap": "Lotus after detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-Z1gez-HMQGV1glvw5V2mERaaHlSvLU4WO6H9o-PPiYhfHPPD_XZbBI9igzc52bfJoYw7Nn2n1Ln1l0-kueZm0LV7dNbmfNPavJXwGeGCsuySr85IuvXqQxaSwALFL1N_JdOd5kjJ1EPE",
+   "cap": "Pickup truck detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWgkv7gYbjyFs4AOsDXUUEZqVWYMk6ZvzjnparL-9rCc8IuwFg7NeZHdOHdtD_BOSKqA7ucfqpcLZ4RfypEfrTRTzGDqg7EzU4UrhYsalkR0UMLewZXOPnOnYklcGWBSe7CIDpgI-Y_QXk",
+   "cap": "Luxury interior detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SGrSOImkuKhWoVazuxk7A5Y-FsNK2FaxsxKHRkZdDx0wb2Q98T0rk-9p-18tAUXPtdelH6vIatF7SeQ7fLo9-21A94yF6OjmU6gdhjzywqfDmyHAfBSds1htXkIhjIfKRREzy1kOv5TAGT",
+   "cap": "Volvo SUV detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TippFEisWG6g4mX1Ln2fQBa-WeI-dKplLuzVkrWDa0fz1mB2xVm2cW8phI9DsrKX94m2fZgQaOy8Cr_cpreOuMbl6W8c1RJIZeDRh8OY88mIwAv4yvwvtKZu1LF7LwnJ9UTGybnAIsMXU",
+   "cap": "Jeep Wrangler detail"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "phil Cusimano",
+   "text": "He did a great job thoroughly cleaning both the interior and exterior of my car. He paid close attention to every detail and really took the time to make sure everything looked its best. When he was finished, the car looked showroom new. I was extremely impressed with the quality of his work and would definitely recommend him!"
+  }
+ ],
+ "faqs": [
+  [
+   "What do you clean?",
+   "Interiors, exteriors, or both."
+  ],
+  [
+   "What vehicles do you work on?",
+   "Cars, SUVs, trucks and sports cars."
+  ],
+  [
+   "How do I book?",
+   "Fill out the form or call (908) 415-2398."
+  ]
+ ],
+ "quote_h2": "Book your detail",
+ "quote_p": "Tell us your car and what it needs. We'll get back to you fast.",
+ "footer": "Levy's Auto Detailing · (908) 415-2398",
+ "schema_type": "AutomotiveBusiness"
+}

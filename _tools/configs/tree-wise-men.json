@@ -1,0 +1,111 @@
+{
+ "name": "Tree Wise Men",
+ "town": "Millstone Township",
+ "phone": "(732) 567-1300",
+ "rating": "4.8",
+ "review_count": "24",
+ "areas": [
+  "Millstone Township NJ",
+  "Jackson NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1a2414",
+  "accent": "#d23c2a",
+  "paper": "#f4f4ef"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTUC4RYY6bOteK8PCz69zvbfq1AawtTuN3hXYvzk334qQnqg4DaNPa-UWL-rSzUcru8VFoKd09Foi4nrOgFo5HTwJvXnlEdaxU2FaJilvIwGv2_oaxKaCRhccY_DWSqO7OF4Fd5kVrEI9r",
+ "title": "Tree Removal in Millstone Township, NJ | Tree Wise Men",
+ "meta": "Tree removal, stump grinding and storm damage in Millstone Township, Jackson and Monmouth County. 4.8 stars from 24 Google reviews. Call (732) 567-1300.",
+ "bar": "Tree removal and stump grinding in Millstone Township, NJ",
+ "logo": "Tree <span>Wise Men</span>",
+ "h1": "Tree removal in Millstone Township and Jackson",
+ "sub": "Big trees, tight spots and storm damage. Wayne and the crew show up, do it safe, and leave the yard clean.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.8★",
+   "Google rating"
+  ],
+  [
+   "24",
+   "Google reviews"
+  ],
+  [
+   "Crane",
+   "and lift work"
+  ],
+  [
+   "Storm",
+   "damage"
+  ]
+ ],
+ "svc_h2": "Tree services",
+ "work_h2": "On the job",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 0,
+   "text": "Large and hard-to-reach trees taken down safely, with a lift when needed."
+  },
+  {
+   "name": "Storm damage",
+   "photo": 1,
+   "text": "Tree on the house? We assess fast and get it off."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 2,
+   "text": "Stumps ground down and the area swept clean."
+  },
+  {
+   "name": "Cleanup",
+   "photo": 3,
+   "text": "Everything chipped, hauled and blown off before we leave."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTUC4RYY6bOteK8PCz69zvbfq1AawtTuN3hXYvzk334qQnqg4DaNPa-UWL-rSzUcru8VFoKd09Foi4nrOgFo5HTwJvXnlEdaxU2FaJilvIwGv2_oaxKaCRhccY_DWSqO7OF4Fd5kVrEI9r",
+   "cap": "Lift setup for a tree removal"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_Ep8tbP89XSGyPmbuaFpJGtaNxiVb0Zr4P3gE7LxY-qkOs8iPrDXi4ZIu95QKS2B-3XcAHte0RieCE6Fvq5ikTZuaAPZBabiWgg4b6Jy8X2Aepet0rF2_Hk59GPvfGwRvcjauxzvHux0",
+   "cap": "Lift at the top of a tall pine"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ql-9cLC72XYgIufdYSrstpr7cV9Eo6yyN3SOlxP76mu5HkotS06i2v3u__YAhjX7r9YKCUit1hXTiHmhBM7ZK9PBzZv-nnGnTNFFb10y9tDyiLJsoPCmR_K1ovbzoJCNVZDVYlY38xqd3W",
+   "cap": "Equipment on a winter job"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SwO7ZyfzflbeGDMwJkzbftNx2vz3tJqLkY-SNYeO4af3e8mcle-DYo8Dti2RqQ-z0CmDouDNuFLp6HjkIJ2_ldl5lXytf-n_wZlxgFZiThmvJKEBM_ql-jpw5pbymzt221Q2XL",
+   "cap": "Driveway cleanup"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Christopher Maskello",
+   "text": "Wayne and his crew were fantastic! A large tree fell on my house during the last snow storm. None of the other tree services I contacted called me back. Wayne got back to me, stopped by to assess the situation and scheduled to do the job the next day! He and his crew arrived early the next day, set up and got to work. They safely removed the tree, chipped it up and cleaned up the site. I can’t say enough good things about the company and my experience. Highly recommended, safe and professional. Outstanding job!!! Thank you!!!!"
+  }
+ ],
+ "faqs": [
+  [
+   "Do you handle storm damage?",
+   "Yes. Trees on houses and in tight spots."
+  ],
+  [
+   "Do you grind stumps?",
+   "Yes, and we clean up after."
+  ],
+  [
+   "How do I get a price?",
+   "Fill out the form or call (732) 567-1300 and Wayne will get back to you."
+  ]
+ ],
+ "quote_h2": "Get a free tree estimate",
+ "quote_p": "Tell us about the tree. Wayne will get back to you fast.",
+ "footer": "Tree Wise Men LLC · 4 Merkin Dr, Millstone Township, NJ 08535 · (732) 567-1300",
+ "street": "4 Merkin Dr",
+ "address": "Millstone Township, NJ 08535"
+}

@@ -1,0 +1,124 @@
+{
+ "name": "AK Auto Detailing NJ",
+ "town": "New Jersey",
+ "phone": "(732) 620-6297",
+ "rating": "5.0",
+ "review_count": "24",
+ "areas": [
+  "New Jersey"
+ ],
+ "palette": {
+  "ink": "#111418",
+  "accent": "#2f7de1",
+  "paper": "#f2f4f7"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUqhdKn750GEIM_AuDOgzKr1f5O9yR2qFzMhpe0QSy0q_UcpQH0ploKY_sElbzuIaC69Bcu3gzsTeh2fjx2IVUyE1tMGqCfzeIamttflXL0fz179NGFSTCni4T2W5tcv2fqF_sFa6exhrf",
+ "title": "Auto Detailing in NJ | AK Auto Detailing NJ",
+ "meta": "Interior and exterior auto detailing in New Jersey. 5.0 stars from 24 Google reviews. Call (732) 620-6297.",
+ "bar": "Interior and exterior detailing in NJ",
+ "logo": "AK <span>Auto Detailing</span>",
+ "h1": "Auto detailing that makes your car feel new",
+ "sub": "Inside and out, done thorough. SUVs, sedans and everything in between.",
+ "cta": "Book a detail",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "24",
+   "Google reviews"
+  ],
+  [
+   "Inside",
+   "and out"
+  ],
+  [
+   "SUVs",
+   "and sedans"
+  ]
+ ],
+ "svc_h2": "Detailing services",
+ "work_h2": "Recent details",
+ "services": [
+  {
+   "name": "Full detail",
+   "photo": 0,
+   "text": "Exterior wash, paint care and a full interior clean."
+  },
+  {
+   "name": "Interior detail",
+   "photo": 4,
+   "text": "Seats, carpets, cargo area and every panel cleaned."
+  },
+  {
+   "name": "Exterior detail",
+   "photo": 2,
+   "text": "Hand wash and shine that makes the paint pop."
+  },
+  {
+   "name": "SUVs and trucks",
+   "photo": 1,
+   "text": "Big vehicles get the same attention to detail."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUqhdKn750GEIM_AuDOgzKr1f5O9yR2qFzMhpe0QSy0q_UcpQH0ploKY_sElbzuIaC69Bcu3gzsTeh2fjx2IVUyE1tMGqCfzeIamttflXL0fz179NGFSTCni4T2W5tcv2fqF_sFa6exhrf",
+   "cap": "White Escalade detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RV22tQNirtKSJqdg-2I909-escm6Vzw1QdoGhjytk1HN5mraNAi8LaBLOd_15icKT3hUj8kyELzoljH_MG2ta9h8fm86y_0lVVs_pRtRpx7e3bCBr_JmfeZ8WteSC9T02tD31cfh3tz_8",
+   "cap": "Jeep Grand Cherokee detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SavHOFzbVVknJT-LZY6qvSs0aGnWY-rTIB0osCAVywY0Y8U6Lwbe0z1pcPWPuh8HnhDmMz92e7RynD__A6elbmydQnolCA9rCyDbT8DSMtqEeABALthafgInNpEzr5OunHqMOEVQj-FKA",
+   "cap": "Audi detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tfxh5r-W2ZlqEZp4oOwLwHSUtkp-qD5Bgszh8nyZxTmfpMz9qZtDYrDE_zNCCL9GF8jV02jR_IVi6LdvNJF9s44121B1sOAh5Ja5tmXyzE8brPVo5gpXyFdl01raSBflKPv-WMgvolGwI",
+   "cap": "BMW detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3f6puT8_yk_f3B-WJv130guMpUUivWSDtj3_R5-W_cF_puI_K2W0h3DyO7_keKHEEXTxrmvBzqaByfn9n4AjBvVHjAyDpVo6qSbwpdVxSat6B4y_7TAm7FacJt_ZiKmWvyB77ZL-jUis",
+   "cap": "Interior detail"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQ6hCQFuT4zzgF7N7an8spUbz4D57_IV4wxLjwR9lpo0487Xi_JSWSayuIqKJxjAKnCbjY3DyDGcvLgdBdPwxvLzI0vMSfoH-D3ByPj190hm8cYKgA8h_6QvGwXKk3j3I_faICTme86IM",
+   "cap": "Escalade front detail"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "kyle wise",
+   "text": "AK Auto Detailing went above and beyond expectations.  They were very thorough and i couldn’t be happier with the results.  I definitely plan on using them again."
+  },
+  {
+   "who": "Mikey O'Neal",
+   "text": "Very hard worker. Came early and was very proficient with his work. Car came out excellent"
+  },
+  {
+   "who": "Michael Bialoblocki",
+   "text": "He did my car so good I should’ve paid triple the price"
+  }
+ ],
+ "faqs": [
+  [
+   "What do you clean?",
+   "Interiors, exteriors, or both."
+  ],
+  [
+   "What cars do you work on?",
+   "Sedans, SUVs and trucks."
+  ],
+  [
+   "How do I book?",
+   "Fill out the form or call (732) 620-6297."
+  ]
+ ],
+ "quote_h2": "Book your detail",
+ "quote_p": "Tell us your car and what it needs. We'll get back to you fast.",
+ "footer": "AK Auto Detailing NJ · (732) 620-6297",
+ "schema_type": "AutomotiveBusiness"
+}

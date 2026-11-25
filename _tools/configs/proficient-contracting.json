@@ -1,0 +1,123 @@
+{
+ "name": "Proficient Contracting",
+ "town": "Toms River",
+ "phone": "(732) 604-6845",
+ "rating": "4.9",
+ "review_count": "40",
+ "areas": [
+  "Toms River NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#e2862b",
+  "paper": "#f5f3ef"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_cO_7YrGZmGzKiu-GSjjmIo3Bj85FkAWCILNxLj-DGGA7nyS1Aj_vwZ_WDMTXYpNN3HQXgZq2rV1U2dCT4cTvUHh4rm3ivJRbLhW09IDeF-X2_e8NixaS6i7dGh70xceUNzJP",
+ "title": "Roofing and Home Repair in Toms River, NJ | Proficient Contracting",
+ "meta": "Roof replacement, storm and flood damage repair, kitchens, decks and pavers in Toms River and Ocean County. 4.9 stars from 40 Google reviews. Call (732) 604-6845.",
+ "bar": "Roofing, repairs and remodeling in Toms River, NJ",
+ "logo": "Proficient <span>Contracting</span>",
+ "h1": "Roofs, repairs and remodels in Toms River",
+ "sub": "New roofs, storm and flood damage, kitchens, decks and patios. Rob helps you work with your insurance company.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "40",
+   "Google reviews"
+  ],
+  [
+   "Insurance",
+   "claim help"
+  ],
+  [
+   "Roofs",
+   "to kitchens"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Roof replacement",
+   "photo": 0,
+   "text": "Damaged roofs replaced, with updates the whole way through."
+  },
+  {
+   "name": "Storm and flood damage",
+   "photo": 3,
+   "text": "Drywall, flooring, trim and paint after damage, plus help with the insurance claim."
+  },
+  {
+   "name": "Kitchens and interiors",
+   "photo": 1,
+   "text": "Kitchens and interior remodels finished with care."
+  },
+  {
+   "name": "Decks and pavers",
+   "photo": 4,
+   "text": "Decks, steps and paver patios built to last."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_cO_7YrGZmGzKiu-GSjjmIo3Bj85FkAWCILNxLj-DGGA7nyS1Aj_vwZ_WDMTXYpNN3HQXgZq2rV1U2dCT4cTvUHh4rm3ivJRbLhW09IDeF-X2_e8NixaS6i7dGh70xceUNzJP",
+   "cap": "Crew on a roof replacement"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJUAhxtPEDHLKkp-UI6RVSEaS1cISt5DwwyB5nY9FSrVvOFbjcJycIzFATNYhY2NoELmkLOP8wBZTbFX4vo3TPaoYJUXoPtZSS_YtgAftd4cRyt0zhT7oD5B2go2YCqFBScXkjow",
+   "cap": "Remodeled kitchen"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QX-yhduJ4pEaFKYLy31pDijQvxCiQWLV_vecQYLeqzd9QD-GwxL2F3gW_61pUcKxWJHaJ7pbxSbZzdU2xiBgan1BMua3gVe3rF1m0AAx_EtSR2OuTDryfN7qswCRxx4Uv6fJpBBe3SgXQC",
+   "cap": "Roof tear-off on a ranch"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QOkzcuqkKewKfwKSX_Sq97OUDPi6DNrl8wDrbSPWLXvpJoq2qIkhfsgprQbbLrDXu45WocPlsjTRPy1NgIZRYsvyWGpnM8ErbWKqv3_-p9JREa-Wm0QWv6rFLbDK0pSAJF-4bJ",
+   "cap": "Decking a roof"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpDCuAYc44DVXGizHkDkeIzv2idKjueORFA7najH8mgGrd0W0dbED6aRJEE-ZW8inRrw-LErwf7oArUkUZbY3VbLBybjomRlV20ru5bT3uAmIae7z4yjrE9amt5HVRXa2IBG-d",
+   "cap": "Pool deck build"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QL2LEc5KAi5qYkCGiUfG7686cxRXEhOMWlrWa2pXFt3WLdo71qJrLpRYZihqYRKhrOUX8M2TcqnrBpGD_x74pd9HEA6Qyhz44rrY4-6m0A29ljm5glwgYoIA4wP4f_m61GZpU",
+   "cap": "New steps and paver walkway"
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Sharon Ustaris",
+   "text": "Robert and his team were exceptional!!! They were very professional and did an amazing job replacing our damaged roof. He even helped with our insurance company with a claim for our roof. Great with providing updates and communicating with us.\nI am so happy with his work and our new roof. I highly recommend this contractor. A++"
+  },
+  {
+   "who": "Edward Raymond Burke",
+   "text": "Rob was an amazing contractor. We brought him in on to repair flood damage in the house. For multiple rooms, he installed drywall, wood flooring, and shoe molding, and he painted. His attention to detail was amazing and he would even come in on Saturday to apply extra coats of paint. He even negotiated with insurance to cover work the adjuster failed to include. My dog even loved him- that’s him laying on Rob’s feet!"
+  }
+ ],
+ "faqs": [
+  [
+   "Can you help with my insurance claim?",
+   "Customers say Rob helped them work with their insurance company."
+  ],
+  [
+   "Do you do more than roofs?",
+   "Yes. Repairs, kitchens, decks and pavers too."
+  ],
+  [
+   "How do I get a price?",
+   "Fill out the form or call (732) 604-6845."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about the project. Rob will get back to you fast.",
+ "footer": "Proficient Contracting LLC · 1159 Lewison Dr, Toms River, NJ 08753 · (732) 604-6845",
+ "street": "1159 Lewison Dr",
+ "address": "Toms River, NJ 08753",
+ "schema_type": "GeneralContractor"
+}
