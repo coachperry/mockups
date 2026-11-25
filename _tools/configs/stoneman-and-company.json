@@ -1,0 +1,118 @@
+{
+ "name": "The Stoneman and Company",
+ "town": "West Creek",
+ "phone": "(609) 597-1767",
+ "rating": "5.0",
+ "review_count": "26",
+ "areas": [
+  "West Creek NJ",
+  "Long Beach Island NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrK3npbqBuHAK4243AYwgLePY4ncQDwqgVS5LNvVT7HomLgKoq6wdiP5I5IliMwA8SfshiVROnm_2WYKf4J20Htx3jmHXicPuGrg3EjfQMQHOlIx_17x8CtzwAXItACJh0IRa1_g",
+ "title": "Hardscaping and pavers in West Creek, NJ | The Stoneman and Company",
+ "meta": "Hardscaping and pavers in West Creek, NJ. 5.0 stars from 26 Google reviews. Call (609) 597-1767.",
+ "bar": "Hardscaping and pavers in West Creek, NJ",
+ "logo": "The <span>Stoneman</span>",
+ "h1": "Stone yards and driveways for shore homes",
+ "sub": "Delivered and installed. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "26",
+   "Google reviews"
+  ],
+  [
+   "West Creek",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Stone delivery and install",
+   "photo": 1,
+   "text": "White stone and gravel spread right."
+  },
+  {
+   "name": "Stone yards",
+   "photo": 2,
+   "text": "Low maintenance shore yards."
+  },
+  {
+   "name": "Driveways",
+   "photo": 3,
+   "text": "Gravel driveways that drain."
+  },
+  {
+   "name": "Stepping stones and walkways",
+   "photo": 4,
+   "text": "Paths through stone yards."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrK3npbqBuHAK4243AYwgLePY4ncQDwqgVS5LNvVT7HomLgKoq6wdiP5I5IliMwA8SfshiVROnm_2WYKf4J20Htx3jmHXicPuGrg3EjfQMQHOlIx_17x8CtzwAXItACJh0IRa1_g",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXXfmX80Vm30heChguG2lu2WEl5Xb-Ieh8bH7Py-Y3ihgwizN4um5ik9ahwHX8mq_SC1ZWpIVMEdMmmw27MDh_oIpFaeqGqE5w_yyCIbSwbY6FW0vdDQoB23CV72bXnl8AWF-XVw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrfB_oFagDxZfbskejtp-eNqWSzDgSi6YgBuCJwueoH0rWhXaTB-2-UDJ_PKLzmSyf8xCD6MGBqqKQ44bu3tIgsa2CxZsy2___EEQJJMxdwDv_4CRJt_efi3suVCzbmuAGl8G2",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RV892fyK30uaXM1Qr17QxwyP1yGktmOhwW6of7Klsar9aV2VRObhamOXh1lXz4zHXeXNeDcRWpSfEISdPR47tP4cXk6txMauhVE7bmwFCmlDaHgm6DiKEXsPYWDqWQMgKZTxFUBw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKoxfKbI-FsAodJv2NzgD-H3qNirJiYjF-r0ksuuChK__aOQK72ZyE8ct1vyNn4SQhoE3esZw6NjvXv4AmbjPGyKidZJdYdxCrDb0YHTknkE634iXGaJyRu21N5sokGWArfFbs",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHY7Wgak699CRt8_FBK2EeuMfENNglqsgIuW5aklblW4BPEf69VNHeIOjNbelpKRmbSIh-7Z90V4XZTWmrxLwPWN42x-C_FbvW6YcA-iKrViJmEpSQO0o0ZXa8pHDDewISPBiLig",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Steve L.",
+   "text": "Had the Stoneman and Company do a job on my Surf City property. Work was performed on time, within budget and excellent quality. Dealing with Sue was a pleasure, very honest and I highly recommend the business to others seeking stone work"
+  },
+  {
+   "who": "Patt Roscoe",
+   "text": "We just had The Stoneman bring ten tons of 5/8 inch local white stone to our seashore property.  They professionally applied it as well, giving us a 2 inch deep refresh.  It looks great!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 597-1767."
+  ],
+  [
+   "What areas do you cover?",
+   "West Creek and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Sue will get back to you.",
+ "footer": "The Stoneman and Company · West Creek, NJ · (609) 597-1767",
+ "schema_type": "HomeAndConstructionBusiness"
+}
