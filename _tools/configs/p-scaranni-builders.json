@@ -1,0 +1,122 @@
+{
+ "name": "P. Scaranni Builders",
+ "town": "Holmdel",
+ "phone": "(732) 822-7861",
+ "rating": "5.0",
+ "review_count": "36",
+ "areas": [
+  "Holmdel NJ",
+  "Middletown NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1qXjpX43p8o5yc5d6d8l0NkYQTwlSvDPIdn53ltVV6d7Sddz4MfazYIVWcdd_fM2P1bDZvQ1qBlK8Lw0nqo1x4v4BEl-ATAFK4e8_zWFu6tA5N7ZU3BDvr2fN5jz7jucltbA4KR_fH-U",
+ "title": "Remodeling in Holmdel, NJ | P. Scaranni Builders",
+ "meta": "Remodeling in Holmdel, NJ. 5.0 stars from 36 Google reviews. Call (732) 822-7861.",
+ "bar": "Remodeling in Holmdel, NJ",
+ "logo": "P. Scaranni <span>Builders</span>",
+ "h1": "Kitchens, baths and renovations in Holmdel",
+ "sub": "5.0 stars from 36 Google reviews. Customers who keep coming back for 10 years.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "36",
+   "Google reviews"
+  ],
+  [
+   "Holmdel",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 4,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1qXjpX43p8o5yc5d6d8l0NkYQTwlSvDPIdn53ltVV6d7Sddz4MfazYIVWcdd_fM2P1bDZvQ1qBlK8Lw0nqo1x4v4BEl-ATAFK4e8_zWFu6tA5N7ZU3BDvr2fN5jz7jucltbA4KR_fH-U",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn1KtBMHPJf_qGxOkF67LHfd4hApqhAzlL-1217CeC7GqeWh2hMNdA7ncLsB7lsOvbmxjdamvkN8h9iLvQzcIQ7ubUG0ondAwKTkX_e5BGg7EvyrK2PZ9XryGB00qnmUzzMvooyeEmwL9p",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SsZkxoBw6w-QZx_keDXcukwRWzlOWdMIDE1_7oudGDRChpH5dkSWcPLqHdJoTupFFxEye4eMQFtAmVgT6QKXyrr6ZIn0Ik2kigDvrG8WP0EZC5REh4hi7LNnurzBXpTSTWmevcbFsWAXE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Reioxa83URuPuhWYHbGWqTYVeS8h4p8FAxqWuBAXnGDqa00Ok5wAYl0gA2vaXNnxdoDfS1vqgCp26vNdKiIlmiWBljs6msDvPsS_ZzZ3eOm3WB5kIy26E0BwF_jH_6tsAlRGD006T6muLw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tjj6WVuNZzMQ-MixJC6Aj66855cN9zgfyFdqMGr8x-G8f13jTw3cyREL9-oYN3_apcyJQdfqF1J-z4OYfpV8LAsjbV_71MfwyTygNakoccxKA_tzW06dwVGdqY6v3MIwRonU38kleEy5jM",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Src9K-ulxR_-97FiM4bZw1PaSCemuWO9gEBve_XtYdu-5gwHxVHpcKrAEGg19YYEPudZeckQMCo8SgmJIiJQeqJfrehAT6EbL1VQY88oA1v6m1r01JwdaVjc4GJfKzTzYV6vXQv7Sg609c",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "William Kluge",
+   "text": "Perry’s crew did an outstanding job on renovating my great room. They were prompt, friendly and highly skilled. I look forward to working them again in the future."
+  },
+  {
+   "who": "Alison LoPresti",
+   "text": "Wonderful experience with Perry and his team.  He installed our cabinets which were ordered thru Bella Cabinets.  Great attention to detail and very communicative.  Would highly recommend."
+  },
+  {
+   "who": "shaun duwe",
+   "text": "Perry is always very professional and courteous. I highly recommend Perry if you're looking for a contractor to deliver quality work for your home improvement projects. We have worked with Perry for the past 10 year + ..."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 822-7861."
+  ],
+  [
+   "What areas do you cover?",
+   "Holmdel and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Perry will get back to you.",
+ "footer": "P. Scaranni Builders · Holmdel, NJ · (732) 822-7861",
+ "schema_type": "GeneralContractor"
+}
