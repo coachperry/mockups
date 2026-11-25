@@ -1,0 +1,117 @@
+{
+ "name": "BuildCrafters",
+ "town": "South River",
+ "phone": "(732) 586-6441",
+ "rating": "5.0",
+ "review_count": "20",
+ "areas": [
+  "South River NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRvrvvccmCCnCHAhuIB2gSnj_h_nc_-zEx4HxN7tsNPds62_P9bosZzumZw0j_AP1-Xu16FW1UEBSDFsyennrDq92n2MZ_wc1Vdqdmik-Xiwwm8Ek515xn0Q3qM6VBy5XbAEObmA",
+ "title": "Remodeling in South River, NJ | BuildCrafters",
+ "meta": "Remodeling in South River, NJ. 5.0 stars from 20 Google reviews. Call (732) 586-6441.",
+ "bar": "Remodeling in South River, NJ",
+ "logo": "Build<span>Crafters</span>",
+ "h1": "Custom kitchens and bathrooms in South River",
+ "sub": "Viktor and his crew. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "20",
+   "Google reviews"
+  ],
+  [
+   "South River",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Custom kitchens",
+   "photo": 1,
+   "text": "Cabinets, islands and built-ins."
+  },
+  {
+   "name": "Bathrooms",
+   "photo": 2,
+   "text": "Vanities, tile and showers."
+  },
+  {
+   "name": "Built-ins and storage",
+   "photo": 3,
+   "text": "Custom millwork and under-stair builds."
+  },
+  {
+   "name": "Epoxy garage floors",
+   "photo": 4,
+   "text": "Decorative floors that last."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRvrvvccmCCnCHAhuIB2gSnj_h_nc_-zEx4HxN7tsNPds62_P9bosZzumZw0j_AP1-Xu16FW1UEBSDFsyennrDq92n2MZ_wc1Vdqdmik-Xiwwm8Ek515xn0Q3qM6VBy5XbAEObmA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sci-qGd9RgDHr8bsa3I5UvQy_UmvV4GgidZt-o8MEFFL8QiW7B-awEr5AUyUJFq3xVHYLVdBr5ucXM5DQss159Q-kq8Q0pFgxamXrjUkIndwlSMsbuN-GiPVT1MDX8-exQUH_pD5xLm4U",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TX_kKbHDAAN1nqN4VTkXZV38H-SAKA9UWzZoECcHNATIsJv0z2nwKMFIKLvx-hwG3ReCs1sHinhGeZvDCeybdHo8_nIqSR0bfa0XtnOFsCyNzHYFzBamCoQHlSGhBvUAOgBykZy3SUJi8l",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ROv1BmprpPFV011MmuoLoTR1u6YJhiwQjMyZBBfie9_en500o7AxmXT3uer_dq717b_gF5vsndbV58KSLyrW5m_tbnL-bY3xGIitaE-kVidsNU9Sfohf-gig6-a3jCZHLPuK7IN-cUcmwn",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUh7bPTIGj1rYshSLLlo_9jIJMiykcnYpiyO3F3hsoudaEYwvkjD_UL17KcqscWP9RncLwAb27DZKSZN7Y35oUNvt0Abyt-q3gjmt9aMwl-i8An0Bzy1WbBvXTwKrqnto4aIYSbijlVCo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZZ_9bLkWkp-HleI4GUBqNqmQ5qxM5HYAj7AT71q4X3tY0Ev67ZthhcmyKmxHWJbVlW4ftOrd-GwaMgucBesFFwk67KZBYvK09U_iiVnyJ6RJoQCxVqkLDdPsogTbNubDlJwhMmEtZt8Qm",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "WhyUMad",
+   "text": "BuildCrafters did an outstanding job remodeling my mother’s kitchen, and we couldn’t be happier with the results. From the very beginning, their team was professional, communicative, and genuinely cared about getting every detail right. They helped guide us through design choices, materials, and layout, making the whole process far less stressful than we expected. Most importantly, my mother absolutely loves her new kitchen, and that says everything. I would highly recommend BuildCrafters to anyone looking for reliable, high-quality kitchen, bathroom, or home improvement construction services."
+  },
+  {
+   "who": "Oleksandr Samodin",
+   "text": "Victor just finished our break room. The quality is crazy.. all the gaps are perfect. He is responsive and just gets it done without wasting time. Real pro."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 586-6441."
+  ],
+  [
+   "What areas do you cover?",
+   "South River and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Viktor will get back to you.",
+ "footer": "BuildCrafters · South River, NJ · (732) 586-6441",
+ "schema_type": "GeneralContractor"
+}
