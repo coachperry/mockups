@@ -1,0 +1,122 @@
+{
+ "name": "DK Lawn Service",
+ "town": "Eatontown",
+ "phone": "(732) 492-8636",
+ "rating": "5.0",
+ "review_count": "27",
+ "areas": [
+  "Eatontown NJ",
+  "Red Bank NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T113saUJ3HAK4Pw2b1PHz22sEwWddtz17Xe0kbbDusogGynyDtdhxHeVf6q8SYIUacdjy0EFWrEbVruxAgdSj388YtiASau4KV4OTo3xtzxU8DVjfdvglxaf17Utb_KoxGOtnb",
+ "title": "Landscaping in Eatontown, NJ | DK Lawn Service",
+ "meta": "Landscaping in Eatontown, NJ. 5.0 stars from 27 Google reviews. Call (732) 492-8636.",
+ "bar": "Landscaping in Eatontown, NJ",
+ "logo": "DK <span>Lawn Service</span>",
+ "h1": "Yards that look sharp all year in Eatontown",
+ "sub": "Maintenance, plantings and cleanups. 5.0 stars from 27 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "27",
+   "Google reviews"
+  ],
+  [
+   "Eatontown",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T113saUJ3HAK4Pw2b1PHz22sEwWddtz17Xe0kbbDusogGynyDtdhxHeVf6q8SYIUacdjy0EFWrEbVruxAgdSj388YtiASau4KV4OTo3xtzxU8DVjfdvglxaf17Utb_KoxGOtnb",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3b-18bx0M8OKEk0x_cwhIOKfZklQ654TM_N6E5DESYFzQTVbh0QICy6AcCo_AZf9_ErKQj9Nk8uA1dmH4zmVjcXsxBhoZ8eVtKgCBq0h5cGuJPUY3q2TFw397ew9GSMUtZQ-ilw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SecAg4ArzRTFLpYMinDsLuk0kJSDpEmNLbaSISrcfrWL74ItGaqOmjxH8X87cUHrj0Q39pIHuQzUNiikGJYKxvvctxrQ4jAe1wT4ACBzZzSkZIg9XGKVtUR1590nclVrUYJK0v",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlTPXhta9eB8-M6PbkHEPDthZ4ztJ853lJzI8ShKT0N75hurgqEla9HkA36N0m6D0wJzbh5gJCahDMzI6qKHPeOR5favMD9CYY_myGOlpgPfN6Fsgx0SmPnh80Sh2TNeO-z3tvClOyzHA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RqBMbYMBd4RFJSmnewSq-8pfPi-Y_Xm-CdHBZtWQYFUSepD5NGFvHCDu_q9drRMCq_QFiffL6_e_C5Ee_X8ui4yNw1zTjVYr3Zi9vApjtb_FGXS2bdPSI5W9jVA7hz5w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3dx_3iePnykV551nJNNRrNGG_h2EXpJJ-rsTdRfO39lQyMm1kJ7mqGKxKpudYu4MbhHwc5Y5sDMKUZe9_MzOtva_dz4-R9TyvluRB4UoMh-Mm0lG8KTUgN9Mh1uNa5czhgjr5gQ",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Al Spielman",
+   "text": "Deidrick and his team have maintained our property for several years now and have been great! They are consistent and dependable and their pricing is very fair. Hire them!"
+  },
+  {
+   "who": "Adam Porter",
+   "text": "DK's a good man, I definitely recommend him and his team.  He's very knowledgeable, brings creative ideas to make your outdoor space look good, and his fees are reasonable."
+  },
+  {
+   "who": "kim z",
+   "text": "Highly recommend them! They were quick to respond , gave me a reasonable great quote and communicated scheduling for yard cleanup. They came exactly  when they said he would and did a great job with weeding and cleanup. Will use again, thank you so much !"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 492-8636."
+  ],
+  [
+   "What areas do you cover?",
+   "Eatontown and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Dedrick will get back to you.",
+ "footer": "DK Lawn Service · Eatontown, NJ · (732) 492-8636",
+ "schema_type": "LandscapingBusiness"
+}

@@ -1,0 +1,118 @@
+{
+ "name": "Lopez Landscaping Solution",
+ "town": "New Brunswick",
+ "phone": "(732) 649-0133",
+ "rating": "5.0",
+ "review_count": "17",
+ "areas": [
+  "New Brunswick NJ",
+  "South Brunswick NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKeM7WVCtfwhH3KuWZCjrwhk4GT2aMbdTcbUGwM1ds-bKiPPYen3bAx_NJ-nI1bbIRm6cxSkA86EiW98OWskxHfOJDf7mXWgINh9FJp90UOe4v_ybuQzak-F0zNdb2tfiTJ7D3KQ",
+ "title": "Landscaping in New Brunswick, NJ | Lopez Landscaping Solution",
+ "meta": "Landscaping in New Brunswick, NJ. 5.0 stars from 17 Google reviews. Call (732) 649-0133.",
+ "bar": "Landscaping in New Brunswick, NJ",
+ "logo": "Lopez <span>Landscaping</span>",
+ "h1": "Landscaping, pavers and cleanups in New Brunswick",
+ "sub": "5.0 stars from 17 Google reviews. Same-day quotes.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "17",
+   "Google reviews"
+  ],
+  [
+   "New Brunswick",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKeM7WVCtfwhH3KuWZCjrwhk4GT2aMbdTcbUGwM1ds-bKiPPYen3bAx_NJ-nI1bbIRm6cxSkA86EiW98OWskxHfOJDf7mXWgINh9FJp90UOe4v_ybuQzak-F0zNdb2tfiTJ7D3KQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3XMzs2-sXd2UV0Z9gO6FrcseprOlPDJIuU8yuLmqAjs5dJfhTkUrqXlFQAbZ3CJHBZxKbMmD666MA8HvqJtCBuHr-oanx6a_q3FeBftVExOibdRX698wSnIS5nCuNsx8kPADz70QUtVgz",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RreOXE6fnZ_bc5htgVAjlxKSp7Vyep3fJqM4B2jTBBJ6jEjSsNRWEtPg5D94XGrJbsHSZ_gigONKmWZR5QAi1NN3I_cdDXhuEkfftsG-_H279xKxD1JVPSrZlVMSOtahv41l_bac1-LbMs",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QN_sUqoz8QddHMTI5kxh4iE7jRwTSy1rx37Q1HZBrRSOShkNypTNBnDZZb0GejTwfsgHDHm7PyieZsEiNyBDTmRpFyRZmSs7eaaMotHfZG9UP2jedlUw-eR-9OFnRdVx-wD8uo-cZaijJ1",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QpQMSNqTSHesmauqV4pGWtWFQUCzKtKh08iSLe2PocYyP1n1jXFPpKcqYyWB4FOJeZxnWsVqH7MPTMEZ8R7vsk9kUZcZ1RlfLFScQihxK-Q8tTIOXl7DXsph56R7u9Zw7uG3MpjEMUkUSP",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ro4_DC7BRi_WQPjYEM4CTBu6Z7CddlIPgswgkwGv_xe_stKRBYL7SfdKGigoDYKfEik32zdKgACZlQ0nCfxYCV0Cu42GVUVTS9bzlBRC5HynkIlE3r0dx4H24Ox2GEabOm1VzQnJuxcg6F",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Preetha L",
+   "text": "Felipe and his crew were great to work with. He had a creative vision for our yard, went over and beyond and did quality work. Reasonably priced. I’d definitely call them back next year."
+  },
+  {
+   "who": "Peter Rishko",
+   "text": "Lopez Landscaping did a wonderful job cleaning up my entire yard.  Such a good job that I’m hiring them to take care of my yard all season.  Would definitely recommend.  Very thorough."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 649-0133."
+  ],
+  [
+   "What areas do you cover?",
+   "New Brunswick and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Lopez Landscaping Solution · New Brunswick, NJ · (732) 649-0133",
+ "schema_type": "LandscapingBusiness"
+}
