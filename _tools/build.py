@@ -26,6 +26,12 @@ schema = {
 tabs = ''.join(f'<button type="button" class="tab" data-i="{i}">{esc(s["name"])}</button>' for i, s in enumerate(svc))
 cards = ''.join(f'<button type="button" class="gcard" data-i="{i}" aria-label="Open photo: {esc(p["cap"])}"><img loading="lazy" src="{P(p["url"], 900)}" alt="{esc(p["cap"])} by {esc(name)}, {esc(town)} NJ"></button>' for i, p in enumerate(photos))
 rev_html = ''.join(f'<figure class="rcard"><div class="rs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><blockquote>{esc(r["text"])}</blockquote><figcaption>{esc(r["who"])}, Google review</figcaption></figure>' for r in reviews)
+ig = c.get('ig_embeds', [])
+ig_html = ''
+if ig:
+    posts = ''.join(f'<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/{u}/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;margin:0;max-width:540px;min-width:280px;width:100%"><a href="https://www.instagram.com/{u}/">View this post on Instagram</a></blockquote>' for u in ig)
+    handle = c.get('ig_handle', '')
+    ig_html = f'<section id="instagram"><div class="wrap"><h2>{esc(c.get("ig_h2", "Follow along on Instagram"))}</h2><p class="lead"><a href="https://www.instagram.com/{handle}/" target="_blank" rel="noopener">@{esc(handle)}</a></p><div class="iggrid">{posts}</div></div></section><script async src="https://www.instagram.com/embed.js"></script>'
 faq_html = ''.join(f'<details{" open" if i == 0 else ""}><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for i, (q, a) in enumerate(faqs))
 trust_html = ''.join(f'<div><b>{esc(a)}</b>{esc(b)}</div>' for a, b in trust)
 opts = ''.join(f'<option>{esc(s["name"])}</option>' for s in svc)
@@ -128,6 +134,7 @@ h1,h2,h3{{text-wrap:balance;letter-spacing:-.01em}}p,blockquote{{text-wrap:prett
 @keyframes rise{{from{{opacity:0;transform:translateY(10px)}}to{{opacity:1;transform:none}}}}
 .lb{{opacity:0;transition:opacity 200ms var(--ease-out)}}.lb.on{{opacity:1}}.lb img{{transform:scale(.97);transition:transform 250ms var(--ease-out)}}.lb.on img{{transform:none}}
 .bar a,.links a,.logo{{min-height:44px;display:inline-flex;align-items:center}}summary{{min-height:44px;display:flex;align-items:center}}details{{padding-top:8px;padding-bottom:8px}}
+.iggrid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin-top:24px;align-items:start}}.iggrid>*{{width:100%!important;min-width:0!important}}#instagram .lead a{{color:var(--ac);font-weight:600}}
 @media(prefers-reduced-motion:reduce){{*,*:before,*:after{{animation:none!important;transition:none!important;scroll-behavior:auto!important}}}}
 </style></head><body>
 <div class="bar"><div class="wrap"><span>{esc(c['bar'])}</span><a href="tel:{tel}">Call {esc(phone)}</a></div></div>
@@ -142,7 +149,7 @@ h1,h2,h3{{text-wrap:balance;letter-spacing:-.01em}}p,blockquote{{text-wrap:prett
 <section id="services"><div class="wrap"><h2>{esc(c['svc_h2'])}</h2>
 <div class="tabs">{tabs}</div><div class="svc"><img id="simg" alt=""><div><h3 id="sh"></h3><p id="sp"></p><a class="btn" href="#quote">{esc(c.get('cta', 'Get a quote'))}</a></div></div></div></section>
 <section id="work" style="padding-top:0"><div class="wrap"><h2>{esc(c['work_h2'])}</h2><div class="grid">{cards}</div></div></section>
-<section class="rev" id="reviews"><div class="wrap"><h2>{esc(c['rating'])} stars on Google</h2>
+{ig_html}<section class="rev" id="reviews"><div class="wrap"><h2>{esc(c['rating'])} stars on Google</h2>
 <div class="rgrid">{rev_html}</div></div></section>
 <section><div class="wrap" style="max-width:820px"><h2>Common questions</h2>{faq_html}</div></section>
 <section class="quote" id="quote"><div class="wrap qgrid">
