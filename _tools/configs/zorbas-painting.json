@@ -1,0 +1,118 @@
+{
+ "name": "Zorbas Painting",
+ "town": "Central Jersey",
+ "phone": "(609) 647-1576",
+ "rating": "5.0",
+ "review_count": "167",
+ "areas": [
+  "Princeton NJ",
+  "Mercer County NJ",
+  "Central Jersey"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8QjxGjMl9Kcgf82RAYg_5elu4ZT5-v8wCLRLr1wDpL06ArOX6Jo7bX0p8r3r7iUwZOK9ZBtJ-5hXEBukJNaV2ht4ZV44PYrG6iGcJ5aHCXDdj0vsUnqCalIv3p4wIZGVu5OFX",
+ "title": "House painting in Central Jersey, NJ | Zorbas Painting",
+ "meta": "House painting in Central Jersey, NJ. 5.0 stars from 167 Google reviews. Call (609) 647-1576.",
+ "bar": "House painting in Central Jersey, NJ",
+ "logo": "Zorbas <span>Painting</span>",
+ "h1": "Painting done with real attention to detail",
+ "sub": "Interiors, exteriors, decks and cabinets. 5.0 stars from 167 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "167",
+   "Google reviews"
+  ],
+  [
+   "Central Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Exterior painting",
+   "photo": 1,
+   "text": "Siding, trim and doors painted to last."
+  },
+  {
+   "name": "Interior painting",
+   "photo": 2,
+   "text": "Rooms, trim and wainscoting with clean lines."
+  },
+  {
+   "name": "Kitchens and cabinets",
+   "photo": 3,
+   "text": "Cabinets and kitchens refreshed."
+  },
+  {
+   "name": "Decks",
+   "photo": 4,
+   "text": "Decks stained and sealed."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8QjxGjMl9Kcgf82RAYg_5elu4ZT5-v8wCLRLr1wDpL06ArOX6Jo7bX0p8r3r7iUwZOK9ZBtJ-5hXEBukJNaV2ht4ZV44PYrG6iGcJ5aHCXDdj0vsUnqCalIv3p4wIZGVu5OFX",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TozeW5YP_ar-G54YM6_pXYgtv4hehdUwZknshkF6APlsDDqFCSq71oMnhWtGKoBD6AvVrDLhWz08tE0pOMPK5dwCl2Hx4VfJMocDKDfmRnxFXzl5AXewsECwyGVUKTcb6o53zRsD-7sZw6",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TjWIc7Dpal6lNWyN9gSQm72FSiuJNw3Q_Jx7CR4bWzFeYQAzBIH371WlsU7baTMj9piOeNid5QkSd9gNPfaaFGmPICDO7VnE56t396GTji-Z-H_94H_EQkdSh5rLOCiYQuDQc9QcRJZ9A",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QX8lDXNjdiVYuqXAXLm4DdAO-l7QmlkoMvdiqnEidqE6M5KpPnpPo4c9I5hNW4PCYYvj_-QdEEzmQ5KMpcBLOIJgw148xDX5aNL2LMcs5ftpfnZc5WEtEMRX0bjjn8ZYNHmO8O-5mH8ug",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TbxoSaVCntLJEX9nHVG1Df_5oTH5mMKL7i45oXJucAZ0eJoE7Ud6cWoFqREcvkl9a_T2O7H8ei14sGKzSxvel2SNeVRy-eTPnYDZO6Mlg-zcTo-yuMrlSwNxCI4druJ80G45AlffwWltud",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rfw_gFkkqKBQAtxanTWfx5VlRchoVVmrsawMBatfIVgRjLgzMFaBNKk9TTLPHsNdwg5pNE1dxeA93o1oMOm2ZRklNC588sHu83UyqkkpMxg51cAYHAG8l7Lm3c0zRnfqItHnj9-3EgM7jG",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Portia Vasquez",
+   "text": "Absolutely recommend!! I would give them 6 out of 5 stars if I could. Saki the owner is extremely knowledgeable and professional. He and his crew used Sherwin Williams paint. Did efficient and excellent work with cleanup after. I could not be happier!"
+  },
+  {
+   "who": "John Lenhardt",
+   "text": "This was my first experience with Zorbas painting. Saki and crew did an excellent job painting the exterior of my house! They were professional, friendly and paid attention to details."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 647-1576."
+  ],
+  [
+   "What areas do you cover?",
+   "Central Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Saki will get back to you.",
+ "footer": "Zorbas Painting · Central Jersey, NJ · (609) 647-1576",
+ "schema_type": "HousePainter"
+}
