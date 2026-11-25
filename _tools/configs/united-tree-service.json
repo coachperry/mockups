@@ -1,0 +1,121 @@
+{
+ "name": "United Tree Service & Landscaping",
+ "town": "New Brunswick",
+ "phone": "(732) 207-3933",
+ "rating": "5.0",
+ "review_count": "16",
+ "areas": [
+  "New Brunswick NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgAoIZGKqoQp1MdA5lIjKTXEfENCEQUQbcGcCHZk8O9rMjwnarfG0qy5ybWN-7-_NApq20FdXUFNlawwuQXl7XQNgyDycBYCUzNkBYqTNlwWMjCAd4Zkc3Wf0x6hd9_kb19nEcgawbb-I",
+ "title": "Tree service in New Brunswick, NJ | United Tree Service & Landscaping",
+ "meta": "Tree service in New Brunswick, NJ. 5.0 stars from 16 Google reviews. Call (732) 207-3933.",
+ "bar": "Tree service in New Brunswick, NJ",
+ "logo": "United <span>Tree Service</span>",
+ "h1": "Tight spots, big trees, clean yards",
+ "sub": "Removals, climbing and pruning in New Brunswick. 5.0 stars from 16 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "16",
+   "Google reviews"
+  ],
+  [
+   "New Brunswick",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgAoIZGKqoQp1MdA5lIjKTXEfENCEQUQbcGcCHZk8O9rMjwnarfG0qy5ybWN-7-_NApq20FdXUFNlawwuQXl7XQNgyDycBYCUzNkBYqTNlwWMjCAd4Zkc3Wf0x6hd9_kb19nEcgawbb-I",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOsv6HkT-A9WHGuFiExHUDQxsGgcccJwp_fQbJqUYYgepK_pkfHpyfXFmG-Pgkt3kmaCg4suXbDw8GrlcttEBw4SilVlAAKBwltN6TnU0mrjyFsfQJCPehAo5RjYjeEH4KAeMlV_KupoCZ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJr5WmwCxToMttuU0tWccHKP6O0dmkBoYuwm32HEw2ZffWUlNlD5K4Tkm3zcb_bwY-JnKYlTSV5iASmKmMoF4JKPFL2AmJnfpCopc64dTI7TSN8bRtENMFGGZybtkm6Fy8ZUnRJmHsUITy",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T3CicPQSAjNvCfcbvl1hR6T4Y0tD2jmNK0g55aDuWwFfrrJJhH9K4P47PZBP35AJTWxwTubN-ohg363PrzdCKzdJMqvBGK888xYJ-esLU5M4CSUjsq7WYKnDNBVzqVFftnrxilnJ1H3enC",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_4aS9D5vTwt1-8qi3jOY9AZj9qTLRprf1obj-6ZHs_800lBRDq-6hzJVqUcOzKzo1k2UVvQekZm_4eOclU0ESsIXEvoj7yjohBY_0UCFLmPvUfr4eel_k4sP2gOy6vgwQOzHknjtN28U",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TgaB980Pl8nq0hZncqZaB0FWT4sLRwf90VJ_hWYtaIjFKwG1RK4spHGHuaeux7LTsjYaOgHGyHRdw6gjlbs4m0q9K3W-GBWPBPklbCKTkBO22jT2K9Iz5hNUVeVlwYbh7woCZMoT5pXcI",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Art L",
+   "text": "Excellent service.  They trimmed back 5 large trees touching my home in a very tight area. They were able to get to it and left the place looking great. The cost was very reasonable."
+  },
+  {
+   "who": "Rich Pierson",
+   "text": "Great price, excellent job removing 40' pine tree and undergrowth that was growing into larger tree. Also pruned a number of other trees. Cleaned up all debris. Excellent all around job."
+  },
+  {
+   "who": "Samantha Reiger",
+   "text": "Nick and his team were awesome. Prompt, courteous, clean, reasonably priced. No complaints- highly recommend."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 207-3933."
+  ],
+  [
+   "What areas do you cover?",
+   "New Brunswick and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Nick will get back to you.",
+ "footer": "United Tree Service & Landscaping · New Brunswick, NJ · (732) 207-3933",
+ "schema_type": "HomeAndConstructionBusiness"
+}
