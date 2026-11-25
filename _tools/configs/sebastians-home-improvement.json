@@ -1,0 +1,117 @@
+{
+ "name": "Sebastian's Home Improvement",
+ "town": "Marlboro",
+ "phone": "(732) 313-5027",
+ "rating": "5.0",
+ "review_count": "14",
+ "areas": [
+  "Marlboro NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1a1f24",
+  "accent": "#d07a2a",
+  "paper": "#f4f3f0"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ToOZr8IZnnxmQAJMa380biHXfSeyPNZGHqJrqyLalLKtlAf_ZRlBJRmIIN8-N_LaV6fJpT8rHOmo8y8s2ynJPNRIfPegto2glrZJrd0y7dCtX8O93MESk5x1XQKjgb7N1_6ElPDA",
+ "title": "Home contracting in Marlboro, NJ | Sebastian's Home Improvement",
+ "meta": "Home contracting in Marlboro, NJ. 5.0 stars from 14 Google reviews. Call (732) 313-5027.",
+ "bar": "Home contracting in Marlboro, NJ",
+ "logo": "Sebastian's <span>Home Improvement</span>",
+ "h1": "Honest home improvement in Marlboro",
+ "sub": "Repairs, remodels and the projects on your list. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "14",
+   "Google reviews"
+  ],
+  [
+   "Marlboro",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Home repairs",
+   "photo": 1,
+   "text": "Fixes done right the first time."
+  },
+  {
+   "name": "Interior updates",
+   "photo": 2,
+   "text": "Paint, trim, doors and refreshes."
+  },
+  {
+   "name": "Pre-sale prep",
+   "photo": 3,
+   "text": "Get a home ready to list."
+  },
+  {
+   "name": "Bigger projects",
+   "photo": 4,
+   "text": "Remodels handled start to finish."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ToOZr8IZnnxmQAJMa380biHXfSeyPNZGHqJrqyLalLKtlAf_ZRlBJRmIIN8-N_LaV6fJpT8rHOmo8y8s2ynJPNRIfPegto2glrZJrd0y7dCtX8O93MESk5x1XQKjgb7N1_6ElPDA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QPj5EcIfQygifs2oCt7kNd8vT0VIgMIbqrLGGapVve2qgBrO51thhKq9btMiB_Jpybx-E6ieXeCewV-02B0NbwNf83qe4PiHxLjmqSoRNs33JRpWsdsiwJuTMrYDvqzNg6zuE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QhzVJtWNS3i3o06O6ZAJmDcURahHWPbf-B5CU4h_IE5YRykZktTEleIsF-rBdB0TVGfrVHzbhaEPPHEksbucRK2OSA5cKln8ctei6TkV6a1uSZ2yvrsMPbnGjQGm8x_FSOxHAw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SZJxlFj0F_nJr6IFfhI8b0efB6FGzOqxcKk5h1xEnCaxlz-XdQ9j8jNruG6UDRktKyVbJW2aMkYQEHirk-iUMck4jz5VDdZISSY2xrnBS63GOlNtabtWP_cNZ9l50agFH0etjGGQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QPksmnF2CHfSTpL54jqK6_C_iHb5308Tn3pnAFTClORD5nfhIvPcTVXAl708vcBMhgZXCXyxQyNGJo015RTgtuDyecqHBjaE9UIIBZdNw7E6EqUgKXoCrKAeY-tP6pGQZfRewL_w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SaTqMSO26Q5AqHWzkK4FGf2HPMMVTKU_nJeEJVYFAl8NQ_sHJQQI1Ub0TQtwbvRkM6JHV-YHlgXkqHXD6l85_rWoO0HVjh0fruQt_UEtlvevcLQ2rR0p9n6H53udhvSMJjpdNgRA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "J. Trav",
+   "text": "Used Sebastian’s last month to do sone repairs on a condo that is being sold. Sebastian did a great job, he was very honest and his price was reasonable. Would highly recommend!"
+  },
+  {
+   "who": "Michelle Mead",
+   "text": "Sebastion and his crew did a professional and excellent job from start to finish. Thank you for making this home improvement a positive experience. Looking forward to having you return for more projects."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 313-5027."
+  ],
+  [
+   "What areas do you cover?",
+   "Marlboro and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Sebastian will get back to you.",
+ "footer": "Sebastian's Home Improvement · Marlboro, NJ · (732) 313-5027",
+ "schema_type": "GeneralContractor"
+}
