@@ -1,0 +1,117 @@
+{
+ "name": "Home Remodel Boutique",
+ "town": "Edison",
+ "phone": "(732) 543-2022",
+ "rating": "5.0",
+ "review_count": "15",
+ "areas": [
+  "Edison NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLfojSTe36sR0hvWCdpJJW5qJqKjcDgKyDMF77Qt4LLmLiUr8wS6k7M0hVaYLChOCz4aoiv5tn9L12ipulg3-o1j8CGpeHmCtIWqFeKXuEm-0zrjs9UpmEmHUMJfqyBZt7zqFN2FGA",
+ "title": "Remodeling in Edison, NJ | Home Remodel Boutique",
+ "meta": "Remodeling in Edison, NJ. 5.0 stars from 15 Google reviews. Call (732) 543-2022.",
+ "bar": "Remodeling in Edison, NJ",
+ "logo": "Home Remodel <span>Boutique</span>",
+ "h1": "Kitchens, baths and basements in Edison",
+ "sub": "Pick your cabinets, tile and finishes in our Route 1 showroom. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "15",
+   "Google reviews"
+  ],
+  [
+   "Edison",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Kitchens",
+   "photo": 1,
+   "text": "Cabinets, counters and full kitchen remodels."
+  },
+  {
+   "name": "Vanities and baths",
+   "photo": 2,
+   "text": "Vanities, tile and full bathroom remodels."
+  },
+  {
+   "name": "Showroom",
+   "photo": 3,
+   "text": "See cabinets, tile and counters in person before you pick."
+  },
+  {
+   "name": "Basements and floors",
+   "photo": 4,
+   "text": "Finished basements and new floors."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfojSTe36sR0hvWCdpJJW5qJqKjcDgKyDMF77Qt4LLmLiUr8wS6k7M0hVaYLChOCz4aoiv5tn9L12ipulg3-o1j8CGpeHmCtIWqFeKXuEm-0zrjs9UpmEmHUMJfqyBZt7zqFN2FGA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ROV7lZpRwY66tUF9xuaZPDCDl9fL_VpmYat4NM9yq5slZ080NbAHA24jPBj1iDJK5FNJMO8yXtGh33yM0UpzEHllF_HrPhGE9bNAvMbzzo9grbon9pZc7uvr2YldnOApZ6emE_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLluBxqkOzd9udjHcP9DDoSziA6cRsUP6UNQq5b2-_6RJaxllqWeV4_Xz3Jdgv12zM0iaShBm5Y30AmzMrtAjxt-BoOdMZn7teUOpq_riBSrhLq70ld-rrAGOwxlsTD7zvzrn2Wg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QkNXcn28jgyuQmMYwMN8CUkCpFTSOxOYUX4VrzdEcgQjXJvLi3DhktXxNOwWlngRndXQ-2F8WDGsbsp7m_HaRwau1xYfwKKs1BnAoc9FMrVFfVhcHgoavOnuVIajpa4tpv3AZj",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAjW-fJq3Dwzob3tzOaws_CJgnjKMh2BPwz5vIDTR0MA0A0yu3hv8QfKHL_Wgsos_LWlcRZyUFnlFgcbhLi0MyzNweOgQYaqFGR-ozxry906wogE5vc0bpJn9OQXjzM_hgqjFq",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R_UMFNHMP7dvEvty8P_OoEhq2e58Fr6t2lzyrcu8oKfgqhU6QL8ydC4B3tOtg-Rsgy5WucWLtFy2vnkTBKG2KclF1CHgT5HyI7zWz7RiJihSKBzwHdoVkpEuiTvXNyhAwlA7SddQ",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "GeePurvi Shah",
+   "text": "Igor and team were very professional and hard working.  Finished the job in the timeframe provided and we never had to chase them on anything.   Def would recommend"
+  },
+  {
+   "who": "S P",
+   "text": "Igor is very trustworthy, knowledgeable and professional in his work. We are very satisfied with the outcome and would hire him again. Highly recommended. Thank you!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 543-2022."
+  ],
+  [
+   "What areas do you cover?",
+   "Edison and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Igor will get back to you.",
+ "footer": "Home Remodel Boutique · Edison, NJ · (732) 543-2022",
+ "schema_type": "GeneralContractor"
+}

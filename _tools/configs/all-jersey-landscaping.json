@@ -1,0 +1,118 @@
+{
+ "name": "All Jersey Landscaping",
+ "town": "Belmar",
+ "phone": "(732) 762-5424",
+ "rating": "5.0",
+ "review_count": "126",
+ "areas": [
+  "Belmar NJ",
+  "Wall Township NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SnT1zoHN9-xtKFA0sdDjjZ2pYXCyiLFROjI9wSNs0GAuwyRDcGzH5yCdvqOrYkLChcJINYiiuwB3LkxEwdmV-qsRm7_pVyc2zz3wRJ2raya660Qp6xynHJm-mwEmC6uflOH1dKzfHm6OlP",
+ "title": "Landscaping in Belmar, NJ | All Jersey Landscaping",
+ "meta": "Landscaping in Belmar, NJ. 5.0 stars from 126 Google reviews. Call (732) 762-5424.",
+ "bar": "Landscaping in Belmar, NJ",
+ "logo": "All Jersey <span>Landscaping</span>",
+ "h1": "Shore landscaping, done the same week",
+ "sub": "5.0 stars from 126 Google reviews. Quotes within the hour.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "126",
+   "Google reviews"
+  ],
+  [
+   "Belmar",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SnT1zoHN9-xtKFA0sdDjjZ2pYXCyiLFROjI9wSNs0GAuwyRDcGzH5yCdvqOrYkLChcJINYiiuwB3LkxEwdmV-qsRm7_pVyc2zz3wRJ2raya660Qp6xynHJm-mwEmC6uflOH1dKzfHm6OlP",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGzV38L_zs73KROVyCU5teaKmmylTJD2ahjRDcVPwzxCR9xmBadJJnNBzFaroUoN_-7o4_2_Bs0EsF4luoF1bckOndGmzg7q5fEiU6xKZFgts8tZFjrIBP1CvD5dRnwzks3asbXq2zfoYT",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9OeARQvc8jgucY1VLRKfXghoAFzF2ip-HFkB8WKQVbKEXWQlirduV6YFyu_7yYkEeNSke8rcWE3dzy9KIH_aLT3hZVL3Kpow2Xy_7xGv3rsz_KLvVOCjZYK0gMZG4-Ks9UX5jRFG6kKMq",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qacfs6xkU1IdDIeP0Zyy9jxnq48pgUBPORanI219P521gLrPpQfwRA85FqvOP0QsucKTlFEpt9PDd2-qe6JKoIdchMENJuNX_APAP6qIqUNpDBUY3WxIoRJQzfPrxVgoI2BLBt",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RB7t-sFoxvpdYPmkSgFBXi4yqTbkgYaBLT4O9xfhTgeZ2Y8ZhP7ymJ_ccCbtoUvfqP9H3xNiVCXfGGJLaASlG2UateUrsBpQDIj4f2jW6Pdjijh1sv4wt0atZmpK6FLWDnUXQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPS9T4pHci_myGJelL47f1Ye4OoM5jiNwIuSAi1yxDE4ZJWPjaqTv8vHfMlyXpIl9wBNo1YbyCMkCd3Th3cEajt27uMx5aCCZlymYgsP6UxXTzDACVbr7K5KGQ-9vNG3dGXLPf9Q",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Shelby Clare Thompson",
+   "text": "Reached out to Chris on a Monday for a fall clean up. had a quote within the hour and he & his team had the job done the next day in ~2 hours. Their work was great and for a very reasonable price. Would highly recommend All Jersey Landscaping."
+  },
+  {
+   "who": "Tom Borkowski",
+   "text": "Chris and his team did a fantastic job! They were on time, efficient, and professional. Chris explained everything and gave very helpful recommendations to make sure the lawn looks great. Highly recommend."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 762-5424."
+  ],
+  [
+   "What areas do you cover?",
+   "Belmar and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Chris will get back to you.",
+ "footer": "All Jersey Landscaping · Belmar, NJ · (732) 762-5424",
+ "schema_type": "LandscapingBusiness"
+}
