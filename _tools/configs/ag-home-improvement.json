@@ -1,0 +1,120 @@
+{
+ "name": "A & G Home Improvement",
+ "town": "Central Jersey",
+ "phone": "(931) 236-5901",
+ "rating": "5.0",
+ "review_count": "15",
+ "areas": [
+  "Central Jersey NJ"
+ ],
+ "palette": {
+  "ink": "#1a1f24",
+  "accent": "#d07a2a",
+  "paper": "#f4f3f0"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDMv4Xr-91IPw7oSbOLXuP9Xxkw9D-K02f_Ku84Y_2NHMQTg-URoP4Cf7f_5N-bi9FEROMgtKmA5P-8SetRT6jdmR2GvoD_X--FLOGpUbjmwW-V2udPM1AoKA1y4P2tGQyx4i7wg",
+ "title": "Home contracting in Central Jersey, NJ | A & G Home Improvement",
+ "meta": "Home contracting in Central Jersey, NJ. 5.0 stars from 15 Google reviews. Call (931) 236-5901.",
+ "bar": "Home contracting in Central Jersey, NJ",
+ "logo": "A&amp;G <span>Home Improvement</span>",
+ "h1": "Kitchens, baths, patios and pool decks",
+ "sub": "5.0 stars from 15 Google reviews. Angel and his team handle inside and out.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "15",
+   "Google reviews"
+  ],
+  [
+   "Central Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Kitchens",
+   "photo": 1,
+   "text": "Full kitchen remodels with custom backsplashes."
+  },
+  {
+   "name": "Pool decks and patios",
+   "photo": 2,
+   "text": "Pavers around the pool and patios built solid."
+  },
+  {
+   "name": "Bathrooms",
+   "photo": 3,
+   "text": "Showers, tubs and full bathroom remodels."
+  },
+  {
+   "name": "Pavilions and outdoor spaces",
+   "photo": 4,
+   "text": "Covered spaces with lighting for the backyard."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDMv4Xr-91IPw7oSbOLXuP9Xxkw9D-K02f_Ku84Y_2NHMQTg-URoP4Cf7f_5N-bi9FEROMgtKmA5P-8SetRT6jdmR2GvoD_X--FLOGpUbjmwW-V2udPM1AoKA1y4P2tGQyx4i7wg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLGkGWyID2b5i8jJ0rgZh5F41ILUA-aIk-mRfU53WRN5NY0ne8uL1iZS9xuDeo1OtkifSYQ18iuqi7jb6mJuckHNefucXjScmB5IdMcme7-M4QQRAlW9DmtN0o7i5mvpRuEpI",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T11TCsjUmlbrnqnM-cdwzpCaBVPwwx4xEhSeQu2lgukSlrFCaHRhW2JzCQ5s5Din_gCurV7syC4zgJK3d4wHW5p-yy7de3lNczc43XUKnI5A5jF0kX8FGDV0BoBrdcdYvM8XTq0A",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TyWd3Nk0Gezf_BOnHGUzOGxy4gPUd72OOeHjnKSTARYLTzTr5VYYqnqny_ZmaqGwzRJ90IuJpDAg5rMIY0q34A9PS-fWSNHP_qkpI-qBgVfgIvx9XFkWn8v3cL9kTW1St2vKWZ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QT1UdZ76BjFYEIF1PgOZI20C81Ww5hz9nclktUXrOC88U5kB6v36TYKHDTT8GfQEdqnjSK97oCDJiCHYJkAUbmIT9N_lDJu03D8O0WfYlnfCdl6Q6-PwUgoy8q1RGEP9OFiEHx",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTaT_g-Rm69-TBDvH4XciUOfFbJ0MuCSVH7u5L0DgZibXpj6UhDW2w-jfOUMy1ofs63W6lRH0lfo_6z3F4kEz2_05zrPEaSE5VaJseXk-ydF7WkAEeiNkUpPLBwzkfA7juI-Vj",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Jennifer Ramos",
+   "text": "Angel and his team are wonderful ! Very professional and cater to your home improvement needs without sacrificing design  Quality and aesthetics . Him and his team are very knowledgeable and we are very pleased with their over all work ."
+  },
+  {
+   "who": "Pete Manoussakis",
+   "text": "Angel in my book is a good and honest contractor. He has great work ethic and goes above and beyond, to make sure the project goes well. He answers his phone when he can or returns calls in a timely manner."
+  },
+  {
+   "who": "Paola Serna",
+   "text": "Thank you so much, A&G. The crew did a very good job. They answered all our questions. We are very happy with the job, and we are looking forward to working with you guys for some other projects."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (931) 236-5901."
+  ],
+  [
+   "What areas do you cover?",
+   "Central Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Angel will get back to you.",
+ "footer": "A & G Home Improvement · Central Jersey, NJ · (931) 236-5901",
+ "schema_type": "GeneralContractor"
+}
