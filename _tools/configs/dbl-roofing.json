@@ -1,0 +1,105 @@
+{
+ "name": "DBL Roofing",
+ "town": "Morganville",
+ "phone": "(732) 536-6214",
+ "rating": "4.6",
+ "review_count": "10",
+ "areas": [
+  "Morganville NJ",
+  "Marlboro NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#142028",
+  "accent": "#c4492d",
+  "paper": "#f3f4f2"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7q4VqEe5gJYjqZhoP0KgCBYs6Ysyb6pqdslNDAkpUxiUw4U_uqRf-YpFw2mclBY2v0C1nSuSVCm1A7N7CpY8qdEti3jTg7U3iyNfXbHFdumk55CpQTrMYeahhlMI8Jun5S0Y",
+ "title": "Roofing in Morganville, NJ | DBL Roofing",
+ "meta": "Roofing in Morganville, NJ. 4.6 stars from 10 Google reviews. Call (732) 536-6214.",
+ "bar": "Roofing in Morganville, NJ",
+ "logo": "DBL <span>Roofing</span>",
+ "h1": "The roofer who finds the leak the others missed",
+ "sub": "Roof replacements and leak repairs in Marlboro and Morganville.",
+ "cta": "Get a free inspection",
+ "trust": [
+  [
+   "4.6★",
+   "Google rating"
+  ],
+  [
+   "10",
+   "Google reviews"
+  ],
+  [
+   "Morganville",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent roofs",
+ "services": [
+  {
+   "name": "Leak repair",
+   "photo": 1,
+   "text": "Leaks tracked down and fixed, then checked after the next storms."
+  },
+  {
+   "name": "Roof replacement",
+   "photo": 2,
+   "text": "Full tear-off and a new roof."
+  },
+  {
+   "name": "Shingle repairs",
+   "photo": 3,
+   "text": "Damaged and missing shingles replaced."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7q4VqEe5gJYjqZhoP0KgCBYs6Ysyb6pqdslNDAkpUxiUw4U_uqRf-YpFw2mclBY2v0C1nSuSVCm1A7N7CpY8qdEti3jTg7U3iyNfXbHFdumk55CpQTrMYeahhlMI8Jun5S0Y",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QVXxlo8h6PuyFdWllM8UFDnrzkWraFjEkFzveXZsmIJR7zCo1_XGQ0I-NAm3fQWSe_FjQx-jaUM5q7unZG15bxRdnFXWZ9dNSqEQSgGzmY-IWnorJmMPPykTd4eNJJPtJqv2kK",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SpvM8vuRejEkzzb1rxiHsequZ7he4wfrtfZiMVDJSlg-YttkL590OQ4NdGE7_PjyHZH_LTvlUGvDuNCzyQMOrBIohm4lFx2vHImOipfUM_RfMDupZCgFwjFuXd6xCi1dZTWHa0",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMmfTalWIDVsb473vspfUyLzRNqOONTWpM3MWWkoBBMsvHtMlFQ7Ez5A0wTa7E6rwXAi8DREZ6mfJ8OQ5qCryFd9mWGkYCW_roID4PbOdVAxkPiwSBandjftGa6jeKPZNWgNXt",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Brielle Jolie",
+   "text": "I called three other companies to check a leak out only DBL was able to find it repaired for me in a professional way and called the next two rainstorms to make sure it was OK a plus on my list"
+  },
+  {
+   "who": "Jamie Robin",
+   "text": "Russ replaced my roof a few years ago. Gave the best price by half and did an excellent job."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 536-6214."
+  ],
+  [
+   "What areas do you cover?",
+   "Morganville and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free inspection",
+ "quote_p": "Tell us about your project. Russ will get back to you.",
+ "footer": "DBL Roofing · Morganville, NJ · (732) 536-6214",
+ "schema_type": "RoofingContractor"
+}
