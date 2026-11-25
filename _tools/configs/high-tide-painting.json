@@ -1,0 +1,118 @@
+{
+ "name": "High Tide Painting and Cleaning",
+ "town": "Manahawkin",
+ "phone": "(609) 221-7455",
+ "rating": "5.0",
+ "review_count": "25",
+ "areas": [
+  "Manahawkin NJ",
+  "Long Beach Island NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSz32IqdvbxkqGeeC8-R4QEBqr_MBCUz1CovKv5zlhS2SkMMVVBpH0BAXAbVqZok4KUUt8ZHKvI_JfR_CCZTH63h94sKcmOGcImoRvsLTotNGnBLaIu4PA6f_JBG5sR_VhkIQF",
+ "title": "House painting in Manahawkin, NJ | High Tide Painting and Cleaning",
+ "meta": "House painting in Manahawkin, NJ. 5.0 stars from 25 Google reviews. Call (609) 221-7455.",
+ "bar": "House painting in Manahawkin, NJ",
+ "logo": "High Tide <span>Painting</span>",
+ "h1": "Painting for shore homes on LBI and the mainland",
+ "sub": "Jamie and Becky run it. Painting and cleaning. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "25",
+   "Google reviews"
+  ],
+  [
+   "Manahawkin",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Exterior painting",
+   "photo": 1,
+   "text": "Shore homes, trim and porches."
+  },
+  {
+   "name": "Interior painting",
+   "photo": 2,
+   "text": "Rooms, stairs and ceilings."
+  },
+  {
+   "name": "Summer home cleaning",
+   "photo": 3,
+   "text": "Homes ready before you arrive."
+  },
+  {
+   "name": "Furniture protected",
+   "photo": 4,
+   "text": "Everything covered before we start."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSz32IqdvbxkqGeeC8-R4QEBqr_MBCUz1CovKv5zlhS2SkMMVVBpH0BAXAbVqZok4KUUt8ZHKvI_JfR_CCZTH63h94sKcmOGcImoRvsLTotNGnBLaIu4PA6f_JBG5sR_VhkIQF",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu2mEvWCFiSFS86jOT-CLoOoq1fPQI4o04CBX-wMkDmGVELzlVVUzzfYsXv3ysWT9Awia4BliA0TTKg-qZkokpvCaVrCk5M4IW_f055O83qIWyeOu9zszrMmSv2abveC-Wluu2Mw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QYK2rSwdj7ABlB2eYfume4RSmkJFi6Z7OI6mUdMFLXSXSQNXdZUwDDQSoMB4h_uNmuWyq9B8ciNxrqJkLxxks6jBpWwaVljk1IoqbmrXHsyEu8ENodcyp-irif1EqeGTpMBM3fGA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-ZPYpCCYzu-0l6i1vf-3EF2riJqqCjXxOM0cQ4K8vFS8KylJ38r7-aUUlRy8gs-RqapZVy4MQqvrWpDVkp3D0hCsjqpcgWRyxfBkWnQZ5oWsyjpyEoMATeVhbOxTtMl9qE7eb",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qxz1WLNKhrACMuzxHVqTCVxDgCKo4wr1GRTxxFya2Bm8l2JcWDMfFLWkaPFrwSnSj9-GfYq9EOpzDyd8-xvHE_-4auoE4V9Br3GBO2vVObxNpUp9XZe7O9LJVQ4Vx5UlFB59HJ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SuFNZ8EokCBAtsJrR3LX-4GSyflBb-1Bu5VPL4zzVSU1mB1G1axM-6jctIW1xYOJ0bSUKMth5vaOXaLJwVjIpl9ifDjbkN5-9-vbhmXfap1cISJaCPP8311Vnn2X7MuTsrBwId",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Megan Smith",
+   "text": "We absolutely Love the paint job Jamie did in our condo. It looks more beautiful than I imagined. Thanks so much. Jim and Megan Smith"
+  },
+  {
+   "who": "maureen santiago",
+   "text": "Excellent service, friendly and very reasonable and reliable. Jamie went over and above and was very detailed in his work. He did a great job protecting our furniture prior to painting. I would highly recommend him,he is definitely a 5 star in my book."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 221-7455."
+  ],
+  [
+   "What areas do you cover?",
+   "Manahawkin and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Jamie will get back to you.",
+ "footer": "High Tide Painting and Cleaning · Manahawkin, NJ · (609) 221-7455",
+ "schema_type": "HousePainter"
+}
