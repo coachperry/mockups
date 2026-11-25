@@ -1,0 +1,122 @@
+{
+ "name": "DZ Epoxy",
+ "town": "Old Bridge",
+ "phone": "(908) 239-0977",
+ "rating": "5.0",
+ "review_count": "13",
+ "areas": [
+  "Old Bridge NJ",
+  "Middlesex County NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#14161c",
+  "accent": "#2f8fd8",
+  "paper": "#f2f4f7"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q9u37o8ApfpJI2g0qOXtM1zHDLSRwrk-jx07n68tjuXsDSUbH1YM-_Uo9aalb3lHcZCXqZK4spmok5SjLDQjoMdX3KUhMiHrkYuLxoD0PGt6eeU8A5UcrdCXQWFrVAqFSnjfA6_MKM5sHc",
+ "title": "Epoxy floors in Old Bridge, NJ | DZ Epoxy",
+ "meta": "Epoxy floors in Old Bridge, NJ. 5.0 stars from 13 Google reviews. Call (908) 239-0977.",
+ "bar": "Epoxy floors in Old Bridge, NJ",
+ "logo": "DZ <span>Epoxy</span>",
+ "h1": "One-day garage floors that still look new years later",
+ "sub": "Garages, shops and salons in Old Bridge. 5.0 stars on Google.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "13",
+   "Google reviews"
+  ],
+  [
+   "Old Bridge",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent floors",
+ "services": [
+  {
+   "name": "Garage floors",
+   "photo": 1,
+   "text": "Flake and metallic epoxy garage floors."
+  },
+  {
+   "name": "Basements",
+   "photo": 2,
+   "text": "Epoxy basement floors that clean up in seconds."
+  },
+  {
+   "name": "Commercial floors",
+   "photo": 3,
+   "text": "Shops, gyms and showrooms."
+  },
+  {
+   "name": "Concrete prep",
+   "photo": 4,
+   "text": "Grinding and crack repair so the coating lasts."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q9u37o8ApfpJI2g0qOXtM1zHDLSRwrk-jx07n68tjuXsDSUbH1YM-_Uo9aalb3lHcZCXqZK4spmok5SjLDQjoMdX3KUhMiHrkYuLxoD0PGt6eeU8A5UcrdCXQWFrVAqFSnjfA6_MKM5sHc",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RuD18kgQrHit-o92ZpgLfafPWDYq9j5pIP4XpMN-xy8lVhs09sg6YEvSXqel0TVKoTZRzZZT5szTqomK3Q75vFd6iltPjT51mDWMDh2xJHD2v2CRTExZrWkxWJZHjRyl8ksLC3C8hTuos",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0O8Omn7w9-KOJfjBvFg-Dcl52CwXu1G3zhTwigOq8cx8bnZb_iFzFuhWSgFoH-091f6wOHc42UeoOWbppmRhoAD6clzz1AZ7-ZcEuK6XS25ENG3pd-A-bFTh3gn_ibb-lJQry3EfT9jiO",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5J3Eq9Tjyc7A190G_x10jjYfQkE3wMvrqBSL3dibMcYfB1MHrLYw7Co9kW2k8eEMTENqv4O8z5oDrKuvfFU1j7EuJZEsVTwyEohSjZTT4Im0ACuBZcQcwIi3o7KoX0htpJDXLHzYTY8M",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TgUpcPmUHOoGUScuG4WBBvsu-Y5VR3x5-Q5TXEErL33GOY6RmuiSfV5co2Co3Ruup9n8BJut0Yg2sge3yRQnIkO2K8gRbzIMPcawTAe-Smcw57HuY_37jSixhpjX1KjISGm0363dg2zAw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7cbRz1sAJakHYe8jronT8Mvk9lRG2hFUX1Qv7inK_g12TIZA4h_zkCS_07CjHJ7F003EGpg1-DB52i-em-MnB7eEpzJrcD70lLBoISb6zrlOSXSmdziUGlrosDUZISul8Yl3mm9PZU2E",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Rand",
+   "text": "The job was quick, efficient and smooth. After it cured, the highlights in the floor were better and better each day. It's absolutely gorgeous and my neighbors are all asking who did the job. I highly recommend DZ Epoxy LLC."
+  },
+  {
+   "who": "Jim N",
+   "text": "Excellent job! It’s been 3 years since Dean and his crew did my garage and I couldn’t be happier. Pleasure to do business with. Would highly recommend!"
+  },
+  {
+   "who": "vinny nicastro",
+   "text": "Great work! Floor came out amazing.  It’s been about 2 years driving my cars on the floor and everything looks brand new."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 239-0977."
+  ],
+  [
+   "What areas do you cover?",
+   "Old Bridge and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project. Dean will get back to you.",
+ "footer": "DZ Epoxy · Old Bridge, NJ · (908) 239-0977",
+ "schema_type": "HomeAndConstructionBusiness"
+}
