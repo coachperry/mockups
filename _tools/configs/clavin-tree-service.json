@@ -1,0 +1,110 @@
+{
+ "name": "Clavin Tree Service",
+ "town": "Jackson",
+ "phone": "(732) 370-2776",
+ "rating": "4.8",
+ "review_count": "41",
+ "areas": [
+  "Jackson NJ",
+  "Ocean County NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJ2lmW_j9koMd0C7RYVJXjif09384fQ6oVNKPqwgJsanZBphMGWR_fR1FNXqYyT9aB_8MGYGxpiXQG2bSUT7WRkyct-bVjRUvtsxt08xhWTMb4lL3fuAGu_GSGR5or2QlOC8wzJOvhtcM",
+ "title": "Tree service in Jackson, NJ | Clavin Tree Service",
+ "meta": "Tree service in Jackson, NJ. 4.8 stars from 41 Google reviews. Call (732) 370-2776.",
+ "bar": "Tree service in Jackson, NJ",
+ "logo": "Clavin <span>Tree Service</span>",
+ "h1": "Tree removal and care done clean in Jackson",
+ "sub": "Tom and Betty run it. 4.8 stars across 41 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.8★",
+   "Google rating"
+  ],
+  [
+   "41",
+   "Google reviews"
+  ],
+  [
+   "Jackson",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big and dead trees taken down safely."
+  },
+  {
+   "name": "Tree care",
+   "photo": 2,
+   "text": "Pruning and rehab for the trees you keep."
+  },
+  {
+   "name": "Crane work",
+   "photo": 3,
+   "text": "Tough removals near homes."
+  },
+  {
+   "name": "Clean up",
+   "photo": 3,
+   "text": "Yards left spotless when we leave."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJ2lmW_j9koMd0C7RYVJXjif09384fQ6oVNKPqwgJsanZBphMGWR_fR1FNXqYyT9aB_8MGYGxpiXQG2bSUT7WRkyct-bVjRUvtsxt08xhWTMb4lL3fuAGu_GSGR5or2QlOC8wzJOvhtcM",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyQJ2ZUhJB7ZIDRGSTX-Lv1mvBv6OukymiUumlbqiBI52_E88Rya-xlC5aAecZiZjFENz2qFa6UjbNQzFzFKwEXQj_J2Q_gSfGxoCAACwBu-eDxhxiqUjnPN-toFbbs_BZBNUOqg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcCx5WTgpei47CY8ajYdCW5-dtngG0IyT_2LeGSZIXHMc0t113x-qSOldtbU-uO7udCTVA6g3YnaJ3ZMCM6_3je7y0LXKIp2aC4DQ0Ve8P5l6jNZ1emAZ_NA5-bjrNP2MNDR7S4IsesQRn",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S4hWEW0NldwMxBqa3LAMqy54sPPv9wE-GOQeUISrT_4TFt9kTgdE304COTZIZsBdd_kS3wPvjC-GiWrQMhfZSqqIvvAHOV6e8l3AK5ImKY1KvQxd20ri6fpOau67s9xUWXMEoP",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "David Pascale",
+   "text": "Being a return customer is the best compliment you can give to a business. Second time using Clavin for a tree removal. From start to finish, the service was excellent. Good price, on time, very professional, and great clean up. Will use again for sure.  Thank you!"
+  },
+  {
+   "who": "Pat Heaney",
+   "text": "They removed a large, dead oak from our front yard. Expert in every way! They took great care to protect the other trees and our lovely moss lawn. They worked quickly, efficiently, and cleaned up everything beautifully. Highly recommend Clavin Tree Experts."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 370-2776."
+  ],
+  [
+   "What areas do you cover?",
+   "Jackson and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Tom will get back to you.",
+ "footer": "Clavin Tree Service · Jackson, NJ · (732) 370-2776",
+ "schema_type": "HomeAndConstructionBusiness"
+}

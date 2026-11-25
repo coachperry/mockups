@@ -1,0 +1,117 @@
+{
+ "name": "Pro Painters",
+ "town": "Ocean County",
+ "phone": "(848) 210-2842",
+ "rating": "5.0",
+ "review_count": "23",
+ "areas": [
+  "Ocean County NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNoS5UQrBJepHj0F6uoq987mvs50gAwKYQRfyLg2ySSJjztIWy_I0WGcQynt9ndpymUDyC5drlkHgtUNLMWXY6w1FKONpdMRxSGJdtpM-HK8Q4IZzev8R0WZLNr3c8F68IvZ8",
+ "title": "House painting in Ocean County, NJ | Pro Painters",
+ "meta": "House painting in Ocean County, NJ. 5.0 stars from 23 Google reviews. Call (848) 210-2842.",
+ "bar": "House painting in Ocean County, NJ",
+ "logo": "Pro <span>Painters</span>",
+ "h1": "Homes and commercial spaces painted right",
+ "sub": "On time, clean and detailed. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "23",
+   "Google reviews"
+  ],
+  [
+   "Ocean County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 1,
+   "text": "Rooms, ceilings and trim done clean."
+  },
+  {
+   "name": "Commercial spaces",
+   "photo": 2,
+   "text": "Offices and storefronts painted fast."
+  },
+  {
+   "name": "Water damage repair",
+   "photo": 3,
+   "text": "Leak damage patched and repainted."
+  },
+  {
+   "name": "Prep and protection",
+   "photo": 4,
+   "text": "Floors and furniture covered first."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNoS5UQrBJepHj0F6uoq987mvs50gAwKYQRfyLg2ySSJjztIWy_I0WGcQynt9ndpymUDyC5drlkHgtUNLMWXY6w1FKONpdMRxSGJdtpM-HK8Q4IZzev8R0WZLNr3c8F68IvZ8",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3a0Kzb9VXd8DGp_8sf-JehrXi-HWyjjeHQORm3RuTRil29SfI_dsAFtiBYEFmESuUmluIRAYiXfzqqa7v4HoyWCWA6eUvjdS2_LkuzhJ7s0CmZSsxgYnzU-2UhuHEku-a7gTLGA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QgnMIwQSD8EphRATZ0yyncZArwoc7Roxyu6lDbfH_17LZC6tmUGRxUk96yFY7EL00vnkLa_w6D0ifz_M51NkUh2_KKYS9ur96n-0FfJLuA8HHiipcC2CgtbjPiEXR3LWW1VJapJQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyZERYodl6608layW6WB5IhVBatEmbILJsR0VmtOgeifr4_BbCtR7la1_0jjIJmFsMXaX0q66fnAe0sApfAbeeg4jsSKGpzy4AsyRlZJTPBs-6kAXsUkPQ8Um8UFuD4ssz4g7_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ROq4ky5kofqiw9pyjzEc1PypZSzaiy6cTzPmVTnJpB24E3RsOizCLxWlIYEXfYLPrGpwBttpjzg93AfuxSoM5VPNZUI0YgkEVHK4jm-hFpWFpLGoOdUjAzz5NW0QLOpAVhKlzi",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzRb8CD04K26cruZXu1NvvOgLLHMYg3KOgQ5hBw0597EAkDI1aa0Hg6CM6ToL0OEYX_3lpjv_PubaEBQnoNM1aTgtw7VQd-fHu5Oi_PjarTH0nwgFeWb-YkJBEvzQVYqCQm60",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Chaim Yanofsky",
+   "text": "Exceptional experience with the Pro Painters! From start to finish, they were professional, punctual, and efficient. Their attention to detail was impeccable, and they left the space spotless after completion. Plus, the pricing was very reasonable. Highly recommend!!!"
+  },
+  {
+   "who": "chaya haft",
+   "text": "These painters are amazing! They did a fantastic job on our house. They were on time, super professional, and paid close attention to every little detail. Definitely recommend them!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (848) 210-2842."
+  ],
+  [
+   "What areas do you cover?",
+   "Ocean County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Pro Painters · Ocean County, NJ · (848) 210-2842",
+ "schema_type": "HousePainter"
+}
