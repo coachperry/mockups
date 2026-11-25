@@ -1,0 +1,110 @@
+{
+ "name": "Ruggiero Lawn Services",
+ "town": "Forked River",
+ "phone": "(609) 693-0757",
+ "rating": "4.7",
+ "review_count": "14",
+ "areas": [
+  "Forked River NJ",
+  "Lacey Township NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SyASR7uHrfbocRzUDDawPVJ70rE_pZpjqmS692i0DUoy2Rqn2d7AhnH4zC3NYMB0jKt205I1xGq2ZhwoqCr1QlXWEKA48pdL31kBmP9rVtICNftooxHYwPvBhSorULp87FJbaDnE9gsdJf",
+ "title": "Hardscaping and pavers in Forked River, NJ | Ruggiero Lawn Services",
+ "meta": "Hardscaping and pavers in Forked River, NJ. 4.7 stars from 14 Google reviews. Call (609) 693-0757.",
+ "bar": "Hardscaping and pavers in Forked River, NJ",
+ "logo": "Ruggiero <span>Lawn Services</span>",
+ "h1": "Pool patios and landscaping in Forked River",
+ "sub": "Landscaping and hardscaping. 4.7 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.7★",
+   "Google rating"
+  ],
+  [
+   "14",
+   "Google reviews"
+  ],
+  [
+   "Forked River",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Pool patios",
+   "photo": 1,
+   "text": "Paver decks around the pool."
+  },
+  {
+   "name": "Paver patios",
+   "photo": 2,
+   "text": "Outdoor living spaces built to last."
+  },
+  {
+   "name": "Landscaping",
+   "photo": 3,
+   "text": "Beds, plantings and lawns."
+  },
+  {
+   "name": "Yard makeovers",
+   "photo": 3,
+   "text": "Overgrown yards made beautiful."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SyASR7uHrfbocRzUDDawPVJ70rE_pZpjqmS692i0DUoy2Rqn2d7AhnH4zC3NYMB0jKt205I1xGq2ZhwoqCr1QlXWEKA48pdL31kBmP9rVtICNftooxHYwPvBhSorULp87FJbaDnE9gsdJf",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKDGmFSsa6_ZpdccLMX5mYtuRwws-1vff69ks0q0WJ-7nxkParWC_wUoD3DBS-TgyqvMJfoUo83oNuQ50ZS06iSY7-9PJ6pIY6L3DHF5eYkOgQja1TpIqfFyAdUsfizncX2X_TLO-JHGU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SnckmzdSsZyu84oEo05jxvwSjHBttnWU-o72wxkDUZaXN2aejvxsgzDGiB1JtvIsdDuGtC9j_OP_mqrnSZX7Z6f29qeaLlMyKm4RiMM7-TbtnRkl7WqCxggXog0LctBk4Kl6MKCBHcQXL9",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SFNmVGhe4sO6Z1SmPeqSBaZh7A-_DIht4m5x0kYL8dBNuHrz1NpWSKDedoyXqA7wd4dmMZWJycz1NgaFKLsrwIwMyxhzrc_lk0edIZqTKK7-501wSnUXEni7VryiYzq5tlx9jn1XiEsim_",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Eileen Ambrose",
+   "text": "I'm totally impressed by the quality of landscaping done on my property!   Everything was done promptly with a super-efficient crew, and Larry is so personable.  I highly recommend this business to everyone!  I love the way my property looks!"
+  },
+  {
+   "who": "Loreen Barge",
+   "text": "Ruggiero Landscaping is a 10 STAR Company. I highly recommend them. My backyard was a overgrown mess. They made it beautiful. Thank you...Loreen"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 693-0757."
+  ],
+  [
+   "What areas do you cover?",
+   "Forked River and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Bill will get back to you.",
+ "footer": "Ruggiero Lawn Services · Forked River, NJ · (609) 693-0757",
+ "schema_type": "HomeAndConstructionBusiness"
+}

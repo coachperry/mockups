@@ -1,0 +1,118 @@
+{
+ "name": "Donohue Greenscape",
+ "town": "Manahawkin",
+ "phone": "(808) 634-2548",
+ "rating": "5.0",
+ "review_count": "31",
+ "areas": [
+  "Manahawkin NJ",
+  "Stafford Township NJ",
+  "Long Beach Island NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RdSI6w_86gHDT74-xC5LFhI3w6F8n-je9ZUR-pKrmwg-3vAKDicK6QumdENRT3qNaFcLwkJtaSNbYn_5EirZFs9m2zuF6ALKU8Vmn_nGswU0Rzm6hg4GnaAa8WVSQcXS7--g0cLfndo5tU",
+ "title": "Hardscaping and pavers in Manahawkin, NJ | Donohue Greenscape",
+ "meta": "Hardscaping and pavers in Manahawkin, NJ. 5.0 stars from 31 Google reviews. Call (808) 634-2548.",
+ "bar": "Hardscaping and pavers in Manahawkin, NJ",
+ "logo": "Donohue <span>Greenscape</span>",
+ "h1": "Pool patios and dream backyards at the shore",
+ "sub": "Sean and his crew. 5.0 stars across 31 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "31",
+   "Google reviews"
+  ],
+  [
+   "Manahawkin",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Pool patios",
+   "photo": 1,
+   "text": "Pavers around in-ground pools."
+  },
+  {
+   "name": "Retaining walls",
+   "photo": 2,
+   "text": "Stone walls built to last."
+  },
+  {
+   "name": "Walkways and driveways",
+   "photo": 3,
+   "text": "Pavers and stone that hold up."
+  },
+  {
+   "name": "Sod and plantings",
+   "photo": 4,
+   "text": "Lawns, beds and privacy trees."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RdSI6w_86gHDT74-xC5LFhI3w6F8n-je9ZUR-pKrmwg-3vAKDicK6QumdENRT3qNaFcLwkJtaSNbYn_5EirZFs9m2zuF6ALKU8Vmn_nGswU0Rzm6hg4GnaAa8WVSQcXS7--g0cLfndo5tU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5UDWqjHrZYhZmtfREFerG_fpcc05v1-b7poQcqylSnRFj4sphzb3t2x6tPBRJQEe_dH2WPiz0_Ul97ROk3_qUGHshH1Bv8-Uc27iTWCpQO1DS3XgRUO9re5EIdFwb8Z-OEWNQiFxyEOs",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyg2PPInQsX5HkDRFwhsUyRMB7H-YFJfjGWpIP4vGxfWrzHukL5Bc1_KUSHt-KKn_tWAYOa93ViT9BjH6TyViDWrmp1skydNo699C2g2t8HB8EPE_q2VEP1sZMkTpJH6gXBHW7nVFAdh4",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TlYYO9MbHe8wqFZvihcOd5oblyTbEWno0yPsbvfmWliWef3iECXFv9Qy09Ogih_X3EmMqzX1MMO6c3tbkDzpDLaPKwUXnKuvgXxkSIyCiNWR5IoDZrkHGZgOkPlGYBlV1MuCZHXvExWGg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHdEfSS6_5yZxNG-O5uKqcx8s7LP2P0-Z7TTwQoABDTTMKelrs1vh3MNcLcsbZYmaCGr93Mec2MWjtNYh3hPwXeGzsaMQcRpPw_apJeb979dccbEtOsdWNS4CW4M-SyBEZvz4n",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THwDBx9IeTcUKO5icJS8_spCv2ALCrSlP14GDA7tB2dEa7pfR-h6DvjqckYdtDOre1FDVYE-SJnHku8Mqwe7eHPqPurgZRJ3icB2aBGKRGXdyuBORxpnYixWGom_mAokE0wvOMfrmPIQx6",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Dane Nugent",
+   "text": "Sean and his team turned our dream backyard and front yard into a reality. From brick pavers, stone, sod, garden beds and privacy trees, everything was done professionally and efficiently. I highly recommend Donohue Greenscapes for any of your hardscaping or landscaping needs."
+  },
+  {
+   "who": "Matthew",
+   "text": "Sean and his crew did an amazing job installing a retaining wall in my backyard! They are extremely professional, hardworking, and respectful of the property. The quality of their work speaks for itself, and I highly recommend them to anyone looking for top-tier stonework or landscaping."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (808) 634-2548."
+  ],
+  [
+   "What areas do you cover?",
+   "Manahawkin and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Sean will get back to you.",
+ "footer": "Donohue Greenscape · Manahawkin, NJ · (808) 634-2548",
+ "schema_type": "HomeAndConstructionBusiness"
+}
