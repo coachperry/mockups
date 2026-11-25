@@ -24,7 +24,8 @@ schema = {
 }
 
 tabs = ''.join(f'<button type="button" class="tab" data-i="{i}">{esc(s["name"])}</button>' for i, s in enumerate(svc))
-cards = ''.join(f'<button type="button" class="gcard" data-i="{i}" aria-label="Open photo: {esc(p["cap"])}"><img loading="lazy" src="{P(p["url"], 900)}" alt="{esc(p["cap"])} by {esc(name)}, {esc(town)} NJ"><span class="gcap">{esc(p["cap"])}</span></button>' for i, p in enumerate(photos))
+cards = ''.join(f'<button type="button" class="gcard" data-i="{i}" aria-label="Open photo: {esc(p["cap"])}"><img loading="lazy" src="{P(p["url"], 900)}" alt="{esc(p["cap"])} by {esc(name)}, {esc(town)} NJ"></button>' for i, p in enumerate(photos))
+rev_html = ''.join(f'<figure class="rcard"><div class="rs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><blockquote>{esc(r["text"])}</blockquote><figcaption>{esc(r["who"])}, Google review</figcaption></figure>' for r in reviews)
 faq_html = ''.join(f'<details{" open" if i == 0 else ""}><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for i, (q, a) in enumerate(faqs))
 trust_html = ''.join(f'<div><b>{esc(a)}</b>{esc(b)}</div>' for a, b in trust)
 opts = ''.join(f'<option>{esc(s["name"])}</option>' for s in svc)
@@ -107,6 +108,27 @@ input,select,textarea{{width:100%;padding:13px 14px;border:2px solid var(--line)
 footer{{background:var(--ink);color:rgba(255,255,255,.75);padding:34px 0;font-size:14px}}
 footer .wrap{{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}}
 .fab{{position:fixed;right:16px;bottom:16px;z-index:30;box-shadow:0 8px 24px rgba(0,0,0,.25)}}
+/* v2 polish: taste-skill, impeccable craft floor, Emil Kowalski motion rules */
+:root{{--ease-out:cubic-bezier(.23,1,.32,1)}}
+::selection{{background:var(--ac);color:#fff}}
+html{{scroll-behavior:smooth;-webkit-text-size-adjust:100%}}body{{accent-color:var(--ac);caret-color:var(--ac)}}
+h1,h2,h3{{text-wrap:balance;letter-spacing:-.01em}}p,blockquote{{text-wrap:pretty}}.lead{{max-width:62ch}}
+:focus-visible{{outline:3px solid var(--ac);outline-offset:3px;border-radius:6px}}
+.btn,.tab{{min-height:44px;display:inline-flex;align-items:center;justify-content:center;transition:transform 160ms var(--ease-out),background-color 160ms var(--ease-out),box-shadow 160ms var(--ease-out)}}
+.btn:active,.tab:active,.gcard:active{{transform:scale(.97)}}
+@media(hover:hover){{.btn:hover{{box-shadow:0 6px 18px rgba(0,0,0,.18);transform:translateY(-1px)}}.tab:hover{{background:var(--paper)}}.tab.on:hover{{background:var(--ink)}}.gcard:hover img{{transform:scale(1.03)}}.gcard:hover{{transform:translateY(-2px)}}}}
+.gcard:hover img{{transform:none}}.gcard{{transition:transform 200ms var(--ease-out)}}.gcard img{{transition:transform 300ms var(--ease-out)}}
+@media(hover:hover){{.gcard:hover img{{transform:scale(1.03)}}}}
+.links a:not(.btn){{text-decoration:underline;text-decoration-color:transparent;text-underline-offset:6px;transition:text-decoration-color 160ms var(--ease-out)}}
+@media(hover:hover){{.links a:not(.btn):hover{{text-decoration-color:var(--ac)}}}}
+.rgrid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin-top:28px}}
+.rcard{{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.16);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:14px}}
+.rcard .rs{{color:#ffc94d;letter-spacing:2px}}.rcard blockquote{{font-size:17px;line-height:1.6;white-space:pre-line}}.rcard figcaption{{margin-top:auto;font-weight:700;color:var(--ac);font-size:15px}}
+.hero .wrap>*{{animation:rise 600ms var(--ease-out) both}}.hero .wrap>*:nth-child(2){{animation-delay:60ms}}.hero .wrap>*:nth-child(3){{animation-delay:120ms}}.hero .wrap>*:nth-child(4){{animation-delay:180ms}}
+@keyframes rise{{from{{opacity:0;transform:translateY(10px)}}to{{opacity:1;transform:none}}}}
+.lb{{opacity:0;transition:opacity 200ms var(--ease-out)}}.lb.on{{opacity:1}}.lb img{{transform:scale(.97);transition:transform 250ms var(--ease-out)}}.lb.on img{{transform:none}}
+.bar a,.links a,.logo{{min-height:44px;display:inline-flex;align-items:center}}summary{{min-height:44px;display:flex;align-items:center}}details{{padding-top:8px;padding-bottom:8px}}
+@media(prefers-reduced-motion:reduce){{*,*:before,*:after{{animation:none!important;transition:none!important;scroll-behavior:auto!important}}}}
 </style></head><body>
 <div class="bar"><div class="wrap"><span>{esc(c['bar'])}</span><a href="tel:{tel}">Call {esc(phone)}</a></div></div>
 <nav><div class="wrap"><a class="logo" href="#top">{c['logo']}</a>
@@ -117,14 +139,14 @@ footer .wrap{{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap
 <div class="cta"><a class="btn" href="#quote">{esc(c.get('cta', 'Get a free quote'))}</a><a class="btn ghost" href="tel:{tel}">{esc(phone)}</a></div>
 </div></header>
 <div class="trust"><div class="wrap">{trust_html}</div></div>
-<section id="services"><div class="wrap"><div class="kicker">Services</div><h2>{esc(c['svc_h2'])}</h2>
+<section id="services"><div class="wrap"><h2>{esc(c['svc_h2'])}</h2>
 <div class="tabs">{tabs}</div><div class="svc"><img id="simg" alt=""><div><h3 id="sh"></h3><p id="sp"></p><a class="btn" href="#quote">{esc(c.get('cta', 'Get a quote'))}</a></div></div></div></section>
-<section id="work" style="padding-top:0"><div class="wrap"><div class="kicker">Recent work</div><h2>{esc(c['work_h2'])}</h2><p class="lead">Tap any photo to see it full size.</p><div class="grid">{cards}</div></div></section>
-<section class="rev" id="reviews"><div class="wrap"><div class="kicker">Google reviews</div><h2>{esc(c['rating'])} stars on Google</h2>
-<div class="rbox"><q id="rq"></q><div class="who" id="rw"></div></div><div class="dots" id="dots"></div></div></section>
-<section><div class="wrap" style="max-width:820px"><div class="kicker">FAQ</div><h2>Common questions</h2>{faq_html}</div></section>
+<section id="work" style="padding-top:0"><div class="wrap"><h2>{esc(c['work_h2'])}</h2><div class="grid">{cards}</div></div></section>
+<section class="rev" id="reviews"><div class="wrap"><h2>{esc(c['rating'])} stars on Google</h2>
+<div class="rgrid">{rev_html}</div></div></section>
+<section><div class="wrap" style="max-width:820px"><h2>Common questions</h2>{faq_html}</div></section>
 <section class="quote" id="quote"><div class="wrap qgrid">
-<div><div class="kicker">{esc(c.get('cta', 'Free quote'))}</div><h2>{esc(c['quote_h2'])}</h2><p class="lead">{esc(c['quote_p'])}</p>
+<div><h2>{esc(c['quote_h2'])}</h2><p class="lead">{esc(c['quote_p'])}</p>
 <a class="call" href="tel:{tel}">{esc(phone)}</a><p>{esc(c.get('address', town + ', NJ'))}</p></div>
 <form id="qf"><input required placeholder="Name"><input required type="tel" placeholder="Phone"><input placeholder="Town"><select><option>What do you need?</option>{opts}</select><textarea rows="3" placeholder="Anything else we should know?"></textarea><button class="btn" type="submit">Send request</button><div class="ok" id="ok">Got it. We will reach out soon.</div></form>
 </div></section>
@@ -140,10 +162,7 @@ let li=0;const L=document.getElementById('lb');function lb(i){{li=(i+G.length)%G
 document.querySelectorAll('.gcard').forEach(c=>c.onclick=()=>lb(+c.dataset.i));
 L.querySelector('.x').onclick=()=>L.classList.remove('on');L.querySelector('.p').onclick=()=>lb(li-1);L.querySelector('.n').onclick=()=>lb(li+1);
 L.onclick=e=>{{if(e.target===L)L.classList.remove('on')}};
-let ri=0,t;const dots=document.getElementById('dots');
-R.forEach((_,i)=>{{const b=document.createElement('button');b.setAttribute('aria-label','Review '+(i+1));b.onclick=()=>{{rv(i);clearInterval(t)}};dots.appendChild(b)}});
-function rv(i){{ri=i;rq.textContent='\\u201c'+R[i][1]+'\\u201d';rw.textContent=R[i][0]+'  \\u2605\\u2605\\u2605\\u2605\\u2605';[...dots.children].forEach((d,j)=>d.classList.toggle('on',i==j))}}
-rv(0);if(R.length>1)t=setInterval(()=>rv((ri+1)%R.length),6000);
+document.addEventListener('keydown',e=>{{if(!L.classList.contains('on'))return;if(e.key==='Escape')L.classList.remove('on');if(e.key==='ArrowLeft')lb(li-1);if(e.key==='ArrowRight')lb(li+1)}});
 qf.onsubmit=e=>{{e.preventDefault();ok.style.display='block'}};
 </script></body></html>"""
 assert '—' not in page, 'em dash found'
