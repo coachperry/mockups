@@ -1,0 +1,117 @@
+{
+ "name": "Ras Tico Landscaping",
+ "town": "Toms River",
+ "phone": "(732) 286-4683",
+ "rating": "5.0",
+ "review_count": "16",
+ "areas": [
+  "Toms River NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TrYVwRjZ2L_WN8O_Ub_ReWir7M_HdyJYOdFyhabAzYmPmTFzF91PUlEkANT0W53mDOq8uean5mZmae7y3f6rOWVB6lgiqvIL_5xooruGDdLprj0uzYfbDO6a2zQhYOIqnwAuc7WfzLbrM",
+ "title": "Landscaping in Toms River, NJ | Ras Tico Landscaping",
+ "meta": "Landscaping in Toms River, NJ. 5.0 stars from 16 Google reviews. Call (732) 286-4683.",
+ "bar": "Landscaping in Toms River, NJ",
+ "logo": "Ras Tico <span>Landscaping</span>",
+ "h1": "Striped lawns and tree work in Toms River",
+ "sub": "Landscaping, tree service and cleanups. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "16",
+   "Google reviews"
+  ],
+  [
+   "Toms River",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Lawn care",
+   "photo": 1,
+   "text": "Mowing, edging and stripes that stand out."
+  },
+  {
+   "name": "Tree service",
+   "photo": 2,
+   "text": "Removals and trimming with our own trucks."
+  },
+  {
+   "name": "Fall and spring cleanups",
+   "photo": 3,
+   "text": "Leaves and debris hauled away."
+  },
+  {
+   "name": "Sod and plantings",
+   "photo": 4,
+   "text": "New lawns and shrub beds."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TrYVwRjZ2L_WN8O_Ub_ReWir7M_HdyJYOdFyhabAzYmPmTFzF91PUlEkANT0W53mDOq8uean5mZmae7y3f6rOWVB6lgiqvIL_5xooruGDdLprj0uzYfbDO6a2zQhYOIqnwAuc7WfzLbrM",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R0RpySvJMekSkAc9rSHJUH8U7Twac8kw9buuIZvOmBuYUR2yhONZjp8MEU6pOUX74MX_2M39Vcc7sScUKvLSkem1-_SETas6fH6AKITASMo91lsA403zYg8ZMRL6OQOttT1m-nrdUhSBMw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvRnKKuJUaY3B33-eFTmMd6qEiNOln7mW2zqKXeLJks1XQiQBKjg17nxTHwyhhKU0sD1f_IO_i8Z_UjwplsOQ3YtLyTM2eCTsRvm4ycBt4DZ32Qp1mW1wNE9VWu_XrwBR8jQgwG-7FaPY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sq1ZDRQF0MUtKuyFKmbMmsCb_OknQH6GiNMXM3KKgv0LS0uBOxZ2doK1qOE9JqKHHgdUkD0BLEDwhIld6FO9HO391Aj9yxUzJGlGsU7UlOwuMPj-nKw9Um9b1JBKXUkW2Vw-LW",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QagoUeVm8977sBNyYEynqdoypEFYtll6ikbzFubbR43Zjm_HiHZ2TpqBlKBuoQzKDv7YdqRdkjJwPI-vrp-lptFQfkaO_0ZkIrPEYC2uz8sHi-v2uEGQICs8TtmdudLljMkRJP60uDrVOE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI2if2IqgOSlBF_XDOmVjlpDdvVU1tHKw9bz4PbM9wXDGKnEu6HpZ6YzLiGN3cecE65qg_pXkgwmn7Xb2NMSjwLlHZImV5_htm0dJZu-jPw7p8xKf1mct__V0QL963CheH7RiehlCtv8O-",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "S Sand",
+   "text": "I used to do my own lawn but I decided to have Ras Tico take care of it now. They do a fantastic job mowing edging etc. They are professional and reasonably priced. Thank you Ras Tico!"
+  },
+  {
+   "who": "tom nugent",
+   "text": "so far tree service but am awaiting lawn. extremely reasonable. when they shake your hand on a quote its a contract. HARD working."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 286-4683."
+  ],
+  [
+   "What areas do you cover?",
+   "Toms River and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Ras Tico Landscaping · Toms River, NJ · (732) 286-4683",
+ "schema_type": "LandscapingBusiness"
+}

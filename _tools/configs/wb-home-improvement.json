@@ -1,0 +1,118 @@
+{
+ "name": "WB Home Improvement",
+ "town": "Somerset",
+ "phone": "(732) 319-2285",
+ "rating": "5.0",
+ "review_count": "10",
+ "areas": [
+  "Somerset NJ",
+  "Somerset County NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkQG2pLXSqPZf3674DxQL6I02-871WsDA45kE_22cnkMSi4iHgF7yjvQr3zh-jALg-ijwQEBOMZxTzJQVxzcS80ExYMt1c7DFNs258TOHjSUsyHmU6xyUzdeuONtC_SAm-USZhaA",
+ "title": "Remodeling in Somerset, NJ | WB Home Improvement",
+ "meta": "Remodeling in Somerset, NJ. 5.0 stars from 10 Google reviews. Call (732) 319-2285.",
+ "bar": "Remodeling in Somerset, NJ",
+ "logo": "WB <span>Home Improvement</span>",
+ "h1": "Bathrooms and remodels done with detail in Somerset",
+ "sub": "Michael and his crew. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "10",
+   "Google reviews"
+  ],
+  [
+   "Somerset",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathroom remodels",
+   "photo": 1,
+   "text": "Freestanding tubs, glass showers and tile."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and backsplash."
+  },
+  {
+   "name": "Flooring",
+   "photo": 3,
+   "text": "Tile and wood floors throughout."
+  },
+  {
+   "name": "Repairs",
+   "photo": 4,
+   "text": "The fixes and finish work in between."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkQG2pLXSqPZf3674DxQL6I02-871WsDA45kE_22cnkMSi4iHgF7yjvQr3zh-jALg-ijwQEBOMZxTzJQVxzcS80ExYMt1c7DFNs258TOHjSUsyHmU6xyUzdeuONtC_SAm-USZhaA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGv-9DPABDjsjPRYhnUsSiE7maT1eE1FhyHxs1Cy54c1DJFqAXVjyIsCY4Owbdnvk91WYPAir8oD9te4db1NE8yzdy587F4iQd9e0JrH45ZJ9MKmf0Rk6Sd0K7kyWj6v11GHzY6w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ShqUwyKFRP66igZ7kXTka2AVkG2YnQ_fyh3960flLa6ctqZqWT0tPCuvC9Q7QRoDAgx2BV9wVUvsMyw5o2bHLxYx0agSJcunUEnKK4dJVmtgeEoeejXNers6VsbLGZdzgoLwH2",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QM9hkrWp_r1A4c95qps2Um5FhV3to5THfUz-quq-Q7GFo4p9fsii-of4zJlqrONug_HmJg0r3dM1EbqOwJxHMOFhTSbzKD3b8qh-pxAEfuvtujQba5bjY5YC0QA46ySTRBXEU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SnGuw15EVvHfvnvXHzjwH4jfXKyvpH-9g2XWu9DTQRBBQZDy-FT8wGoL3MzZ10rIyClJCWbnDvzd7BIstXOVQGNxLqRjRImOa_nEwn7UymHuNQc0OioCazZnMr8m0RqPA995u0kJaTK0DY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TrNUgJH96S2bWW2vIzRyVPHHjOfXdqCoURmxXzeJSX091miMyuwO2HLi_d_YbEUPVFLw0PYIiwvLAfmIGHuEPVX6-fxrMFyzOdHf-ZwknR7rQuTH5d3QO7-jvItpPJaSBma3X7b3G8dJ0",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Nick Gioia",
+   "text": "Michael from WB Home Improvement is a true professional. He walked us through every step of our bathroom renovation. Michael's attention to detail and the quality of his work more then exceeded our expectations. We would not hesitate to recommend WB Home Improvement."
+  },
+  {
+   "who": "Jenny Wang",
+   "text": "Michael and his crew are super efficient. The quality of their work is superb! We are very happy with the end result!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 319-2285."
+  ],
+  [
+   "What areas do you cover?",
+   "Somerset and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Michael will get back to you.",
+ "footer": "WB Home Improvement · Somerset, NJ · (732) 319-2285",
+ "schema_type": "GeneralContractor"
+}
