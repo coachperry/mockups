@@ -1,0 +1,118 @@
+{
+ "name": "Unique Building Ideas",
+ "town": "Old Bridge",
+ "phone": "(732) 857-4441",
+ "rating": "5.0",
+ "review_count": "25",
+ "areas": [
+  "Old Bridge NJ",
+  "Middlesex County NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1a1f24",
+  "accent": "#d07a2a",
+  "paper": "#f4f3f0"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TprQQ8sS8kshiiv0VteTHcPB50i3bXkwjTS34Nf2IvDYCtW8cpkVHEHnZeWrAjDZcCaIikc_5CnCMyAj3e8fKuE9g3J1cFwpm_9lrPo5YcjkfXlYBnerCCXTfXnsip9HCSMdly",
+ "title": "Home contracting in Old Bridge, NJ | Unique Building Ideas",
+ "meta": "Home contracting in Old Bridge, NJ. 5.0 stars from 25 Google reviews. Call (732) 857-4441.",
+ "bar": "Home contracting in Old Bridge, NJ",
+ "logo": "Unique <span>Building Ideas</span>",
+ "h1": "New homes, additions and full renovations",
+ "sub": "Adam and his team. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "25",
+   "Google reviews"
+  ],
+  [
+   "Old Bridge",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "New construction",
+   "photo": 1,
+   "text": "Custom homes framed and finished."
+  },
+  {
+   "name": "Additions",
+   "photo": 2,
+   "text": "Second floors, bedrooms and baths added."
+  },
+  {
+   "name": "Kitchens and baths",
+   "photo": 3,
+   "text": "Full interior renovations."
+  },
+  {
+   "name": "Commercial",
+   "photo": 4,
+   "text": "Roofs and tenant fit outs."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TprQQ8sS8kshiiv0VteTHcPB50i3bXkwjTS34Nf2IvDYCtW8cpkVHEHnZeWrAjDZcCaIikc_5CnCMyAj3e8fKuE9g3J1cFwpm_9lrPo5YcjkfXlYBnerCCXTfXnsip9HCSMdly",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TcSxQ5y9WlECGJ2tp3bVQR995IB1HpdgIqHkcIuIK3T_a8bXNcwJ3y3ZbbdrSWTcsIbxR6uD3g4QVh4JR_ot9QQFQLssji2iniBtiCt87mqP8lTUKuwk-GHjUFNn180qDWJcYF",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QuO-mInJgBbGfSUTijW_9gfH6yCCxO2WXyJv_efOB6cRk5foa_ga6P3ShG-x0Ydk5wmLsly5pgOaxUv3o0WZEcs8IKFD5rKYNdhWSbx0funr5cflX_dkeXofEZU66E2EdbAvtZ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SemJ9FbM0KMeJAr1cbkxVttYVOqfieOZQw7PlaZy_pYtIhN5Aql80tqiW7pu-uNcZUU_UcxNN9mXK2Dcpc_9B1dhKXnQTeqChfKVN7usK-7VnVgqHb3NCIHTUQM6ttV9c4453u",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUqcHs7KUXI2f0_nUlgbUobHfsPWlJkUu2Mr1QO9qszdmWoiSm6rtC6BFTmABkZF7xb7iP1PHvvPKEG1d9pnDNYf-l_umkKI5XZbMMZtzT8qHO_3I1IBzqgjp-fW1aOmUM2oL_9g",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rna0PoaUDCgZkR9OxP-WTp1Cn0zeAqKl5DuB98mx_Snn86KLFU5qIAoaKkses7zggn2Xgsz7U2HZlGAlHndN7rKXHjQS4aWzmxfY-idjnCXdpoQ5rYypoJbilZFxuZswriGhyL",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Brianna Amoroso",
+   "text": "Adam and his team were great to work with! We renovated our entire main floor including kitchen and all bathrooms in the home. They moved fast and had great communication. We are so in-love with our new home!!!!"
+  },
+  {
+   "who": "David Musto",
+   "text": "I have been very pleased with the work performed by Adam and his team.  We have used them on several commercial building projects from major roof replacement to tenant fit out work.  Adam is very timely, always returns your call, and we would definitely use them again."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 857-4441."
+  ],
+  [
+   "What areas do you cover?",
+   "Old Bridge and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Adam will get back to you.",
+ "footer": "Unique Building Ideas · Old Bridge, NJ · (732) 857-4441",
+ "schema_type": "GeneralContractor"
+}
