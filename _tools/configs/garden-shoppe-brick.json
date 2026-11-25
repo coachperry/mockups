@@ -1,0 +1,117 @@
+{
+ "name": "Garden Shoppe at Brick",
+ "town": "Brick",
+ "phone": "(732) 295-4311",
+ "rating": "4.8",
+ "review_count": "26",
+ "areas": [
+  "Brick NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTqW276Mmdzs7YXzMBKvPpJbV969YstvygO83NJTY918k6A25uaUudxHGldM02wyUBVzBe-sGW8mfyR6fQCIhXUR6nBvNs4tyCfF3EL93trbdlkGc4h9Ptfmjpiw1I63XoBuiH",
+ "title": "Landscaping in Brick, NJ | Garden Shoppe at Brick",
+ "meta": "Landscaping in Brick, NJ. 4.8 stars from 26 Google reviews. Call (732) 295-4311.",
+ "bar": "Landscaping in Brick, NJ",
+ "logo": "Garden Shoppe <span>at Brick</span>",
+ "h1": "Flowers and plants on Route 88 in Brick",
+ "sub": "Mike and his staff. 4.8 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.8★",
+   "Google rating"
+  ],
+  [
+   "26",
+   "Google reviews"
+  ],
+  [
+   "Brick",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Annuals and perennials",
+   "photo": 1,
+   "text": "Fresh flowers every season."
+  },
+  {
+   "name": "Hanging baskets",
+   "photo": 2,
+   "text": "Color for porches and patios."
+  },
+  {
+   "name": "Shrubs and plants",
+   "photo": 3,
+   "text": "Everything for your beds."
+  },
+  {
+   "name": "Christmas trees",
+   "photo": 4,
+   "text": "Holiday trees and greens."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTqW276Mmdzs7YXzMBKvPpJbV969YstvygO83NJTY918k6A25uaUudxHGldM02wyUBVzBe-sGW8mfyR6fQCIhXUR6nBvNs4tyCfF3EL93trbdlkGc4h9Ptfmjpiw1I63XoBuiH",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJ86AZZBcFEJ6A_T8rJILY5yfMW2WImuVsZuF_osBh-dCN7hUR-y7IYPsFvC6-FB9cHeqP9lKGweIQWopl-KmdtGjRzdb0bLgJ0lkhgHZLnunZoHYJB3syYXdmHLWA6eOnwvc",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8b1UwgaYG0lWyXozWsOFX0MKEiIGUAK7xxqtvYvUOSjf1VAcUvL00JbGsP_9Lp5QOgkvL7U380v7_JazcoQv1rA98p-oRmU0hdockNdCPa0yRs9hYwBGZfHGwqYFeJIQbv5Fk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_dFwIvfEXZTuTVTAVjGKzWvqW6oH_7t-fDEefw4yu2hNuyEzZSokmImkdM96xcUiDVC28gNxI-Uu2xiT8hRyYR1uo1mI2bssgqTRLCXHbCuHMrE7_SQ-89PylKK5tlbWp5rXl7g",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTKA4kORWkESLK8piKZEu8aZzqP-dwMvi7CDX83qUSMMUuq-fONFnQ9v-Vs5ERlmtwUWGsxiKfHyX6yAX9JtYPW9niS0xOqPt7RnQG9Mt3cptEqdCaFvj0NXIzuaku050ZRwk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rr6lsZy-V3lDjH2R2_IUyTCnwuvfMjrLuQeKIv382HyNnDtRLrljl4p2umqkjEovWO-m9OCotQ_rZhIJQOG2DNinRYSspURNz4fLDKyjf3T-bNt24IU7n1_obh8c3e_FD5MhVi",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Kathie Artz",
+   "text": "Beautiful flowers! Bought several hanging ones for my backyard. Reasonable prices made my shopping experience even better!"
+  },
+  {
+   "who": "Sue Smith",
+   "text": "Love the flowers there. Have been going for years. Staff is awesome and helpful. Live Mike, the owner!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 295-4311."
+  ],
+  [
+   "What areas do you cover?",
+   "Brick and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Mike will get back to you.",
+ "footer": "Garden Shoppe at Brick · Brick, NJ · (732) 295-4311",
+ "schema_type": "LandscapingBusiness"
+}
