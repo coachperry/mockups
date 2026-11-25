@@ -1,0 +1,118 @@
+{
+ "name": "Gray Rock Supply",
+ "town": "Jamesburg",
+ "phone": "(732) 521-0580",
+ "rating": "5.0",
+ "review_count": "23",
+ "areas": [
+  "Jamesburg NJ",
+  "Monroe Township NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSJGAWdmX9pH9Y_d1qv4hSOTEGKKgoQR0_1YPfPrBOpLM3SKYZ_-w5iDFJp_za3YIUsem26-Ys8ZD5RvuF4TlBjoCCMt92mOX4KzkGAwR1YGTWS-Eexcfls1TY-eE-qZ2PEXCM",
+ "title": "Hardscaping and pavers in Jamesburg, NJ | Gray Rock Supply",
+ "meta": "Hardscaping and pavers in Jamesburg, NJ. 5.0 stars from 23 Google reviews. Call (732) 521-0580.",
+ "bar": "Hardscaping and pavers in Jamesburg, NJ",
+ "logo": "Gray Rock <span>Supply</span>",
+ "h1": "Pavers, wall block and stone in Jamesburg",
+ "sub": "Landscape supply yard on West Railroad Ave. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "23",
+   "Google reviews"
+  ],
+  [
+   "Jamesburg",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Pavers",
+   "photo": 1,
+   "text": "EP Henry and more, in stock in the yard."
+  },
+  {
+   "name": "Wall block and caps",
+   "photo": 2,
+   "text": "Retaining wall and seat wall systems."
+  },
+  {
+   "name": "Fire pits and kits",
+   "photo": 3,
+   "text": "Fire features for patios."
+  },
+  {
+   "name": "Help picking stone",
+   "photo": 4,
+   "text": "Bring your project, leave with the right stone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSJGAWdmX9pH9Y_d1qv4hSOTEGKKgoQR0_1YPfPrBOpLM3SKYZ_-w5iDFJp_za3YIUsem26-Ys8ZD5RvuF4TlBjoCCMt92mOX4KzkGAwR1YGTWS-Eexcfls1TY-eE-qZ2PEXCM",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TP8UPIUtMzprdUVkExDJrb2ylHJ_5eFr0goPJ5jSzsUw7U0TnsZMYH3PMLaagkyBiJqnXt_wvx4_ik1-HdJJNs7cBrHethaF9gmBGOxkJ4prcScuX_Gr2r-PJGJ6vE77KTrwBC",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpiV1HN4oMmCBnXwwhFGPi6UmmHdWq6tPWe-rJ_aF_irv-z7Po2XfN20BgRrblvdGfRQS0BBg7cIGXdKFkuxpeyF6v3XWeLGV8F0FQq1-DkcUguV3fycJoOJUKsLOEqb2HV8biQw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qgx-Y-33Ase-q9hj0X5D9LnF_B1q5o3zDrHuMnXm3Ta6hVMqm5umez2u0RBpKMco6K1Z2VGvut-jVD-YfDb3qW3nH-lUki0vDK-82nTJ1alQpGpBVCHiJdNscvxN9F2xjFjXIX",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QjN4z1bwjpLLNgncpPFPM3UB0rlcyjuwP-SN6zQRNEBOh_dB1-dkMdcbH5o1fYdoD_X4SMUeDCGnjvH88d-5nwmYyaJxmxM730bGKk5NhPNpsVLoXCR8quFHWbaUKXrMHvS7pi",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTGuXt0b-9xNA1I7RiRmxoJY4cXMEFEu5qqn_ATASZbd0XhKC8phF5QyGdwkusEm3soyTMdroN1obfVQws8ose2yvjLk5opwLjbIQvLWKBXSL0ukf0bmHO-KUY8eR3ajTN2t-S",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Michael Schrenk",
+   "text": "Best place for miles to deal with if you want pavers. Worked with Shawn who was super knowledgeable and super helpful solving an issue I had with some old EP Henry pavers. Can't thank him enough."
+  },
+  {
+   "who": "Patty Lang",
+   "text": "We needed a specific paving stone to finish a project started quite a while ago.  The employee was over helpful in insuring I had the right stone.  It was in stock and reasonably priced.  I am her happy with our experience dealing with Gray Rock and would definitely recommend them."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 521-0580."
+  ],
+  [
+   "What areas do you cover?",
+   "Jamesburg and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Sean will get back to you.",
+ "footer": "Gray Rock Supply · Jamesburg, NJ · (732) 521-0580",
+ "schema_type": "HomeAndConstructionBusiness"
+}
