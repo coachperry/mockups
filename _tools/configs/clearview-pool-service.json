@@ -1,0 +1,122 @@
+{
+ "name": "Clearview Pool Service",
+ "town": "Middlesex",
+ "phone": "(732) 236-9127",
+ "rating": "4.9",
+ "review_count": "29",
+ "areas": [
+  "Middlesex NJ",
+  "Somerset County NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#0f2a3a",
+  "accent": "#1f9ac4",
+  "paper": "#f2f7f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZVHyVlrp4zzEqsuqomxDRBLtNVIaNxd0eUm6NYt17qVh09_xgGBadmrXAfVicmmuLyGrOkri0cuaiJfEVISVexs8W-KP3QqgdGX2EpxydeCPuBWSloVWirwyOlb_OOTpNuxxzrQ",
+ "title": "Pool service in Middlesex, NJ | Clearview Pool Service",
+ "meta": "Pool service in Middlesex, NJ. 4.9 stars from 29 Google reviews. Call (732) 236-9127.",
+ "bar": "Pool service in Middlesex, NJ",
+ "logo": "Clearview <span>Pool Service</span>",
+ "h1": "Pools built, opened and kept clean",
+ "sub": "Family owned in Middlesex. 4.9 stars from 29 Google reviews.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "29",
+   "Google reviews"
+  ],
+  [
+   "Middlesex",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent pools",
+ "services": [
+  {
+   "name": "New pools",
+   "photo": 1,
+   "text": "Inground pools from dig to first swim."
+  },
+  {
+   "name": "Liners and renovations",
+   "photo": 2,
+   "text": "Old pools stripped down and brought back."
+  },
+  {
+   "name": "Openings and closings",
+   "photo": 3,
+   "text": "Opened on time and closed right."
+  },
+  {
+   "name": "Weekly service",
+   "photo": 4,
+   "text": "Clean, balanced water all season."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZVHyVlrp4zzEqsuqomxDRBLtNVIaNxd0eUm6NYt17qVh09_xgGBadmrXAfVicmmuLyGrOkri0cuaiJfEVISVexs8W-KP3QqgdGX2EpxydeCPuBWSloVWirwyOlb_OOTpNuxxzrQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QvybzeOaEKsaJ93ZX5__CqbG1j6guo-uB0_ct4Tj5Nz1JLX_szhzdJJo5BFxPf2Fwdma1Jjrw7dxnYWubhQdfglHyYATLHan695JHxpWwh8s8z210---cpNZ-aFyHC2jJKqx9jcN3xJ8N6",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sg67C7-h_m86Y8YI2QVQT5jxdtUOW3Ov5ilxM8o_NmjQc9XmRfse0Z5gFovXinRLmqcI6xbp0EMAw5qQZM1WAXO7imRgO6tlSZVqxwRlBlVQ6kSuk0pAJtwWrdcQ0iAJHf7X5VsAlLOVE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5RBU9DpvdYZS2QLixPRbWcYE5Cs5gezzF77l9USbBmSQjN9dMAXxC5YhqBMRtcugCo8bLXw18a5WtMxEwFakcR0QHy3c4_Oojs9iAAcnyLIX9Qol26IC09X3XZR4GcwFS0_9N3up3P6o",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SlV0SF0H_6QkXQfY04zIqbjflncpdyXw39z-2NrZWQIwNbPXnc-WLI173zqAZIPOpxS1hD_cnPDJ27fW6Fz4m4JgyhI6uvNgRgEpErgpTeo9PvpZVVUz9N7LoKcI1hw_CzhB-sPg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TrvmKNSMmHbHs6tuM0mY6dBZUCFqNs27-SY_zp2YKj5kgf0FvW0aACypR0v_s83ByXgveGBkwjUZd3ygLvr-zh0mO5wK_CwHdfdYeagD05pGvLfR9usMiNbmZu-JBNBgkJ5BYmQTjnZQGU",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Matt Trestick",
+   "text": "Highly recommend Clearview Pool Services, Dan came out on a Saturday during the busiest time of the year to take a look at an issue we were having. He was here until 9pm to ensure the job was complete and back in order before he left."
+  },
+  {
+   "who": "Mara Murillo",
+   "text": "Dan has been so great, every year his service is exceptional thank you for what you do!!"
+  },
+  {
+   "who": "Enrique M",
+   "text": "We been using this company for a few years now , we are very happy with our service from this family owned Business."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 236-9127."
+  ],
+  [
+   "What areas do you cover?",
+   "Middlesex and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project. Dan will get back to you.",
+ "footer": "Clearview Pool Service · Middlesex, NJ · (732) 236-9127",
+ "schema_type": "HomeAndConstructionBusiness"
+}

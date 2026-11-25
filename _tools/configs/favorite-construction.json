@@ -1,0 +1,122 @@
+{
+ "name": "Favorite Construction",
+ "town": "Princeton",
+ "phone": "(732) 648-3865",
+ "rating": "5.0",
+ "review_count": "45",
+ "areas": [
+  "Princeton NJ",
+  "Mercer County NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7ifhAUOgQa6mOGnac0esSdNwKplq0EKhEm_q5RSb2VPWCBzwrxqEwsaEwiRVhvV-nihJwUr1XonYFzIFMCII8hJV-BGlq__38TEK78jRhrxfcW4MqbE_-LQRlcJ_ndfLbY3kN34yKtIbj",
+ "title": "Remodeling in Princeton, NJ | Favorite Construction",
+ "meta": "Remodeling in Princeton, NJ. 5.0 stars from 45 Google reviews. Call (732) 648-3865.",
+ "bar": "Remodeling in Princeton, NJ",
+ "logo": "Favorite <span>Construction</span>",
+ "h1": "Kitchens, baths and full renovations in Princeton",
+ "sub": "5.0 stars from 45 Google reviews. Murat and his team sweat every detail.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "45",
+   "Google reviews"
+  ],
+  [
+   "Princeton",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 4,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7ifhAUOgQa6mOGnac0esSdNwKplq0EKhEm_q5RSb2VPWCBzwrxqEwsaEwiRVhvV-nihJwUr1XonYFzIFMCII8hJV-BGlq__38TEK78jRhrxfcW4MqbE_-LQRlcJ_ndfLbY3kN34yKtIbj",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQ5eV8M2Bjom5Rw08b1G_S8U3Ulc2GBgmDMOQ4UdfQuRRkHkgL2-HRLNFq6dbi40rOSWUEzEHmeNLgLaRLe2bNIg5BdI8JOrrJKVGAqNRj_j6zbS1wqThdGDLLB2Ryh8SCwKnaw6Y9zcIk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQdcXqgbNEQPI0g_TPWuafwKJryGUnyHx7GXO6cBlOnyls71GgMaOfVTZ4wE9-4YFMoYnMfeTLtPIRmHl0SNMstHOKPi5u5xk-VJlT05tlri4KDsOODaUwXfCeTtRkSLBZkb_khWLTQgvF",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8h3BpYE2tEmfI5orzhq98gQlVJ2YlJV9zPeAfQKVXgeMb1AJSHPb48eUroM8JLzNojqpzP9QamoW01OKie_jH3aGbY3EHxM9VNizTFecm86bL0LonVir6vSnpt55hx4y9Cl0QnDi_-VY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPRIGpTRq2QUpjwDmnOOYZhv7LhSmDiWOij1qNzbgK7ZfCPLxMDojWPTRmNUSn9gufnlXcz6dOl-H5UJTIUKbXt3dVyVdq3Xq7HOycBhkv-o8YdSlQgZjbLDh2gpks1Qe2iuRW",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QzFmcE-kVAK55sN1pODCVCg4mbkgwwJR_l3-yer0Ap30NCFBLWpxQxMnrZfAt84iKF8tLctbIJ1he_omzUKDt44cfupFhpy3FHiwBCS-nb4O-ctYmqnxglDnMnIPqdoyip28RDEyIn7Xk",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Nesibe Cimen",
+   "text": "Outstanding work! He transformed our bathroom beautifully. Very skilled, respectful, and kept everything clean throughout the project. Highly recommend to anyone looking for quality renovation work."
+  },
+  {
+   "who": "Macrowiz Capital",
+   "text": "Murat and Team have done excellent job. They are highly detail oriented and make sure every job is done perfectly. We trust Favorite Construction, because they have always delivered exceptional work quality."
+  },
+  {
+   "who": "CEM KESKIN",
+   "text": "They did an amazing job with our bathroom renovation. The finish is very clean and detailed, and we really appreciate your job"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 648-3865."
+  ],
+  [
+   "What areas do you cover?",
+   "Princeton and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Murat will get back to you.",
+ "footer": "Favorite Construction · Princeton, NJ · (732) 648-3865",
+ "schema_type": "GeneralContractor"
+}
