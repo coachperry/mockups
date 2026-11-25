@@ -1,0 +1,117 @@
+{
+ "name": "Roll Rake Landscaping and Painting",
+ "town": "Bridgewater",
+ "phone": "(908) 300-2958",
+ "rating": "5.0",
+ "review_count": "15",
+ "areas": [
+  "Bridgewater NJ",
+  "Somerset County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-5ZFsj7T2xnQx6_7VOIqWGWrXZ7EqcDFHdG9yEmU5d80hOaXsZOSAkTDd_Jq8mtxMo0dXoYPjA5N3iipcb01d21De9qxcg2tPL_zWcz2xC8swJNWEQLIrV1jNEWIuaLHYQ1D8lh9e70Q",
+ "title": "Landscaping in Bridgewater, NJ | Roll Rake Landscaping and Painting",
+ "meta": "Landscaping in Bridgewater, NJ. 5.0 stars from 15 Google reviews. Call (908) 300-2958.",
+ "bar": "Landscaping in Bridgewater, NJ",
+ "logo": "Roll <span>Rake</span>",
+ "h1": "Lawns, beds and paint jobs in Bridgewater",
+ "sub": "Bruno does landscaping and painting. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "15",
+   "Google reviews"
+  ],
+  [
+   "Bridgewater",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Lawn mowing",
+   "photo": 1,
+   "text": "Clean lines every cut."
+  },
+  {
+   "name": "Beds and mulch",
+   "photo": 2,
+   "text": "Weeding, edging and fresh mulch."
+  },
+  {
+   "name": "Deck staining",
+   "photo": 3,
+   "text": "Decks and railings brought back."
+  },
+  {
+   "name": "Interior painting",
+   "photo": 4,
+   "text": "Rooms painted fast and clean."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-5ZFsj7T2xnQx6_7VOIqWGWrXZ7EqcDFHdG9yEmU5d80hOaXsZOSAkTDd_Jq8mtxMo0dXoYPjA5N3iipcb01d21De9qxcg2tPL_zWcz2xC8swJNWEQLIrV1jNEWIuaLHYQ1D8lh9e70Q",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuKjTlyjjmZlEGgltIcsCP3b5EqDjqSnGArfNSF9OhG6tpf8mjc2X352pFK-Udq8LspwN5Zop3djWWVZoh6p00yQXxoXWOThnbf4A7_gT--UPp6NuuqBa9lcptTelqq8ILlXX4TVolEEU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TsrYqGVzd20MqfByJuDdCgf1TGNCo2zWZZByzFOrwTBHM9IL6A5UF0aHVEQeTXvpkhSLarxhjixvFtGpiQmNtvACPSMHXTq9fqVkVijWEcMHIBVwKvLGvFTx2l9uV8Po_BTkO6mNZopgwp",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpxFCZIGhxgDq6BNfz6xzS9_4ZRp8lCRlBUp7BXHIEF4PHuwEMH35NSLvl8QgNoT3xbcHOFwA-JzUSJSM1sWqmoDD5a549EcPB_jscx73yzYreCfOLisji9vG3WCSTCgaEnEd8EfbNVA60",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rqg6DVpViIFHkUQJzriva0Q8LukqhU9NkmHRCqtyNzKlDtIjhNZ3J69Sf2g8LXe46vjBQ8FfAVT8mfoEetI09lffYvByWsi5WfkEIPN7j_0Y1CauFm0y3OjPPR5zK3iWRyqJpklHovzOKn",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tb8WJMl_XRd5v-bwXmzxWd7uXoXnyqY0KTlMlf-0zvqvHSsWxqUBbzLyG9C7-Lp6HQsBOX23speS2gsgcFWU2uU4ACfHxVoz8YJFlHhZcc14JImH158MQ8cYYCEbOjoOsuLKHPP0X4szi9",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Aisha Arcangel-Baker",
+   "text": "Bruno is both exceptional and affordable. He not only mowed our front and back lawns efficiently, but he also spackled, sanded and painted our baby's nursery in less than a day. He's very friendly and easy to work with. He did an excellent job and we will definitely be hiring him again!"
+  },
+  {
+   "who": "Dennia Duran",
+   "text": "Bruno was AMAZING! He did a weed clean up and mulching to our 2 flower beds in front of our house which came out AMAZING!  He also cut our grass with clean lines & leaf blowing.  So kind & did exactly what we asked!!! Thank you Bruno!!!  Highly recommend!!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 300-2958."
+  ],
+  [
+   "What areas do you cover?",
+   "Bridgewater and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Bruno will get back to you.",
+ "footer": "Roll Rake Landscaping and Painting · Bridgewater, NJ · (908) 300-2958",
+ "schema_type": "LandscapingBusiness"
+}

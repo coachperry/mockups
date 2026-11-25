@@ -1,0 +1,117 @@
+{
+ "name": "JSM Landscaping",
+ "town": "Toms River",
+ "phone": "(732) 539-4956",
+ "rating": "5.0",
+ "review_count": "10",
+ "areas": [
+  "Toms River NJ",
+  "Ocean County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgOY_JsmHbyMhkbZ-TwGb5Z4gSenB6YDUo6L85NKmj_ra3hcsISvdWWrilLBERoMG2xcUffpnF-bhZtAIiWQu4wSmjGpFjdvv0tT9-Yy-CNvdDQzOfnnJAKLyGsctEShb22qsU",
+ "title": "Landscaping in Toms River, NJ | JSM Landscaping",
+ "meta": "Landscaping in Toms River, NJ. 5.0 stars from 10 Google reviews. Call (732) 539-4956.",
+ "bar": "Landscaping in Toms River, NJ",
+ "logo": "JSM <span>Landscaping</span>",
+ "h1": "Lawns, cleanups and patios in Toms River",
+ "sub": "George and Miriam run it. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "10",
+   "Google reviews"
+  ],
+  [
+   "Toms River",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Lawn mowing",
+   "photo": 1,
+   "text": "Weekly service that keeps it sharp."
+  },
+  {
+   "name": "Spring and fall cleanups",
+   "photo": 2,
+   "text": "Leaves and debris gone."
+  },
+  {
+   "name": "Patios and walkways",
+   "photo": 3,
+   "text": "Pavers and stone installed."
+  },
+  {
+   "name": "Fencing and gutters",
+   "photo": 4,
+   "text": "Fences, gutter cleaning and power washing."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgOY_JsmHbyMhkbZ-TwGb5Z4gSenB6YDUo6L85NKmj_ra3hcsISvdWWrilLBERoMG2xcUffpnF-bhZtAIiWQu4wSmjGpFjdvv0tT9-Yy-CNvdDQzOfnnJAKLyGsctEShb22qsU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpgjUHErDeilZ_OdjsjTHrd4IhRgUzD3cK6RofCBNKVUOdNceUAtv4m__me3I7aDIeClD732ckqXlHE4dJV3aqFQuPrWg1gK7OxLsGo0707PwKTU2cIx4A6LSraZaoKLwqLHa3fQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5uDJZJcoVE_sxALhSDqZRU0tSDlB2XwdnF7MbbR5gZzJLnP8CzWeNDaIFUDJGcdUHWVqwAQa9cLcDRB8bKZLER074QPHFO2eCPw1t-ssfPrsbMzZ4P5MqU43bxAbqmFzj5KI5NA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q51nBNAD7iSZXvsfs4oPEE85MdhxTL8Wb3sqZx-BPT10bB6pzWY7XPqGiqPaOSrIRfApdgEITf7UXlqkFqG7_c9jjHd4rHTJpljNRJo-L36fMWAjnmm8P0qTF3glKPt7gTsURe",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QscGRD4VRvZZmKlKzw77d9GzzeX1-tVmjqCHDHcniJx2Jo0oNR6dsGn8_9mCBXCW6oO-TjdwtNAOTwFlxDps7EpyzTpmOtIkDEbPxgJ_ba0YtpK7W1cjeObqHWhwW1KzvEAgrUvw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ry36A6pGASl-KsfDvV0gZU7WaAiZZVBFUmh3gefivtyaeECGL4kONNBkFXxISf7lkbWT3RE8dqAfwOMuQt5gkcReXTngueerL5aYuix_pHbdjQhpSihmj_rmm4H9dKsctRK9Xa",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Anthony Mancuso",
+   "text": "JSM does a fantastic job. They have always been professional, prompt and provide great communication. They do great work on my lawn and fall and spring clean up. Very affordable as well. They owners are very nice and it’s great dealing with them."
+  },
+  {
+   "who": "Joshua Wolarik",
+   "text": "Very professional, responsive, good quality, and affordable. We used JSM for yard cleanup and they got us on the calendar quickly during the busy season and did a fantastic job. The prices were very fair and we are using them for future work. Would absolutely recommend."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 539-4956."
+  ],
+  [
+   "What areas do you cover?",
+   "Toms River and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. George will get back to you.",
+ "footer": "JSM Landscaping · Toms River, NJ · (732) 539-4956",
+ "schema_type": "LandscapingBusiness"
+}
