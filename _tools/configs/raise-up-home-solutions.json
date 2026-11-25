@@ -1,0 +1,122 @@
+{
+ "name": "Raise Up Home Solutions",
+ "town": "Manalapan",
+ "phone": "(973) 757-8782",
+ "rating": "5.0",
+ "review_count": "13",
+ "areas": [
+  "Manalapan NJ",
+  "Marlboro NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLft0bNNLMFNvFIrTF-nQrjIdUgTmLpTuW9TSr07jSpydm6NbAGRKkKi2J7cwstVCdut-lSzgk39B51JNjmc2S_kjdu8TFK2lyjfozFZwMJHT2XPULdv7W4CDP_aJHIa0TEbUJwcNUJ-d8Q",
+ "title": "Remodeling in Manalapan, NJ | Raise Up Home Solutions",
+ "meta": "Remodeling in Manalapan, NJ. 5.0 stars from 13 Google reviews. Call (973) 757-8782.",
+ "bar": "Remodeling in Manalapan, NJ",
+ "logo": "Raise Up <span>Home Solutions</span>",
+ "h1": "Kitchens and baths in Manalapan",
+ "sub": "Marble, tile and custom kitchens. 5.0 stars from 13 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "13",
+   "Google reviews"
+  ],
+  [
+   "Manalapan",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 4,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLft0bNNLMFNvFIrTF-nQrjIdUgTmLpTuW9TSr07jSpydm6NbAGRKkKi2J7cwstVCdut-lSzgk39B51JNjmc2S_kjdu8TFK2lyjfozFZwMJHT2XPULdv7W4CDP_aJHIa0TEbUJwcNUJ-d8Q",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S4AbrgoIupHLcwcbUZErSZjnEbAw5ZVKR5jHCsKw7c9cBeTu7jnARsgLi0BwiJ_IULkUpaUhvV8kgnDpxPeRyP5xhEr-O3eeHAJ5PovLEMYfpruTiLHsZhfrWdRZRMSlSJHj94lYY_g_A",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T0cwF_SeffoeTDm8fWFQb0hwtJ2tIixf8_aCFNLlS85w2iiRg_MVE9fjXV5LBCpmcazEQj4BfNbBJe6F0dBaMWhpwlvkGDX6jNjDQg43zN713TPHP9AuZ3Qu3zMkmo_g1jwYjKEVLTn2dk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TxvH00fOm2VP6e8ZNLARV3Vt7cuRJLmO8Qdn1dgoE0dMggMTONeB8ySfENAqS1F-TpFvze3rCTRRvyonbNnSky7n7yZQE1dCnW_qIa9FJTSw2Zh16_9fTGnhCuN37L37jwFnG0PPJzup48",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R_CaQ43juMdL7C1rFOm-R2-z7TxfnXsKgAqq8kU5mOH68Ey_vWEUwIvEt_TvJIwdRE9T35b_6qcRE_VtPLEPAH-WClmBotwFdyL7-deeR8kCGyUgBXIt8TlV9H-nBOAZ30cVU7pkosPRm_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RjvE3R7J-jym55OVdxquBKlKw4Cl0hIprRFOwCeZICR63wUGQoORC6X7iX1BHhAJHp-loeZIFFauuH03GayyaAHXu056SlVWtzmV6IlWCQA1l2_YzZvS6CvzecVneEPI7OlgY_0P3BrHvS",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "robert chung",
+   "text": "Highly recommended, Roger did an excellent work on my house. If you need any works done, give him a call. You will be very happy with his work!"
+  },
+  {
+   "who": "Andressa C",
+   "text": "I am very satisfied with the work done in my bathroom; Rogério is very attentive and careful with his work. Thank you."
+  },
+  {
+   "who": "S G",
+   "text": "Very reliable company ! Does amazing work! One of the friendliest handyman i have ever met !"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 757-8782."
+  ],
+  [
+   "What areas do you cover?",
+   "Manalapan and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Roger will get back to you.",
+ "footer": "Raise Up Home Solutions · Manalapan, NJ · (973) 757-8782",
+ "schema_type": "GeneralContractor"
+}
