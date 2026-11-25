@@ -1,0 +1,120 @@
+{
+ "name": "Atlas Construction",
+ "town": "Monmouth County",
+ "phone": "(732) 233-2937",
+ "rating": "5.0",
+ "review_count": "25",
+ "areas": [
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1a1f24",
+  "accent": "#d07a2a",
+  "paper": "#f4f3f0"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZnCtc7ZyA6SOyGcvjbqF2BP2O-gSOA0iZMZ1ezkJOzZdcOkHbSm6-Fm7GZQcuXKatqJKyca28XszkAViRG3Rfl3BccwLh_arPPk_IuDOXxPu9xlOzdEpmKMioVE3dpRBOaXNVTA",
+ "title": "Home contracting in Monmouth County, NJ | Atlas Construction",
+ "meta": "Home contracting in Monmouth County, NJ. 5.0 stars from 25 Google reviews. Call (732) 233-2937.",
+ "bar": "Home contracting in Monmouth County, NJ",
+ "logo": "Atlas <span>Construction</span>",
+ "h1": "Decks, painting and home projects done right",
+ "sub": "5.0 stars from 25 Google reviews. Tom and his crew bring old decks back to life.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "25",
+   "Google reviews"
+  ],
+  [
+   "Monmouth County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Decks",
+   "photo": 1,
+   "text": "New decks and old decks brought back to life."
+  },
+  {
+   "name": "Deck staining",
+   "photo": 2,
+   "text": "Stain and seal that makes wood look new."
+  },
+  {
+   "name": "Interior painting",
+   "photo": 3,
+   "text": "Rooms and basements painted clean in days."
+  },
+  {
+   "name": "Carpentry",
+   "photo": 4,
+   "text": "Stairs, trim and the projects in between."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZnCtc7ZyA6SOyGcvjbqF2BP2O-gSOA0iZMZ1ezkJOzZdcOkHbSm6-Fm7GZQcuXKatqJKyca28XszkAViRG3Rfl3BccwLh_arPPk_IuDOXxPu9xlOzdEpmKMioVE3dpRBOaXNVTA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8xihqOhBox7Y7No6MtFDaHk-qjSAAzqgwmzLl7Wpm-cpQdS-HsQtfX3BjOokwedXfXCosZ9cNkv7bLZVXDAFxmpgcM3hgZpxz7JJC8ecP437mG2XPtRPQQ-5a_UKzR9isud2iKQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFBvgURH5CQwx78hfVnX0w7Ef1RmW7Fd_lVcwKFWvCtIVjPxaKt-YY7-mIDXZdfB8GOtK0MxL6J0eWGDAG6faFuavakG0FUXO7LPt09xfuWQVhJRQVDkvF3m16PY8j6zESCO3uUA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QktCVcd06Me1NsBXP5OcQh64pmFOLz6eAAKxF9bOQBjoUIY1Bj59yoSYaI359HiMfKWLW0FonssrwYaw9gxths1zW7E4FTM3QMgtxfv-XN5tXRclYOWfT9W0yieb4KCLeNB4ZX",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9BD6nFFmzV9HMBbPAuNa3nsqDc5z4hnhbSt_qLK2jGJHxCITH3zoH62OKmxz4uDZf0kjQi9dpYbBXFf_r4Mqy2f61GMzppiNwCNjm4FTy5ZzJRrnCK1JAqR6j2n63rKKxuZE_tA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SnKam6tMcj2qTUQqypqOteBQYLkwU1zxXp4m_xxAUV6mbYrxXc-u02E5ZTtsfk8Pezdf3ltIocHDFFa_Q-QMC27r5fzC0mBnHBWAkWLmpkWrfntvbymN8EjaczhgXP6XxUQ1LWEe2E-uRT",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Lorraine W",
+   "text": "Atlas Construction is now our “go to” company for all our construction and painting needs!  Tom and Tyler did an excellent job bringing new life to our old deck. Start to finish the project was done to perfection!"
+  },
+  {
+   "who": "Bryan Novia",
+   "text": "Tom and Austin were a pleasure to work with. They delivered excellent service at an excellent price. Would recommend them to anyone who has home improvement needs! Atlas will be my go to for all my upcoming home projects!"
+  },
+  {
+   "who": "Thomas Bock",
+   "text": "Tom did a great job on my basement painting project. They showed up on time and finished the job in 3 days with a price that was more than fair. Definitely recommend Atlas Construction!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 233-2937."
+  ],
+  [
+   "What areas do you cover?",
+   "Monmouth County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Tom will get back to you.",
+ "footer": "Atlas Construction · Monmouth County, NJ · (732) 233-2937",
+ "schema_type": "GeneralContractor"
+}
