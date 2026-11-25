@@ -1,0 +1,114 @@
+{
+ "name": "Valerie Paints",
+ "town": "Atlantic Highlands",
+ "phone": "(732) 337-6635",
+ "rating": "5.0",
+ "review_count": "29",
+ "areas": [
+  "Atlantic Highlands NJ",
+  "Middletown NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUm_UR25LjbSm47XrVYVZnlC_5wAvr0WGe7TuyQptJNTZqZpiT72dLf4yRXyenY0GxzfvzOGYHJ27OCUHWjpEmWc5SBs87hhEZ0U5aTTJfl1KumcBpLNtAU7GLC0dS3g4kIoFMsw",
+ "title": "House painting in Atlantic Highlands, NJ | Valerie Paints",
+ "meta": "House painting in Atlantic Highlands, NJ. 5.0 stars from 29 Google reviews. Call (732) 337-6635.",
+ "bar": "House painting in Atlantic Highlands, NJ",
+ "logo": "Valerie <span>Paints</span>",
+ "h1": "Meticulous painting in Atlantic Highlands",
+ "sub": "Exteriors, kitchens, cabinets and trim. 5.0 stars from 29 Google reviews.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "29",
+   "Google reviews"
+  ],
+  [
+   "Atlantic Highlands",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 1,
+   "text": "Walls, ceilings and trim with clean, sharp lines."
+  },
+  {
+   "name": "Exterior painting",
+   "photo": 2,
+   "text": "Siding, trim and doors prepped right and painted to last."
+  },
+  {
+   "name": "Cabinets",
+   "photo": 3,
+   "text": "Kitchen cabinets refinished to look brand new."
+  },
+  {
+   "name": "Prep and repairs",
+   "photo": 4,
+   "text": "Drywall and wood repairs before a drop of paint."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUm_UR25LjbSm47XrVYVZnlC_5wAvr0WGe7TuyQptJNTZqZpiT72dLf4yRXyenY0GxzfvzOGYHJ27OCUHWjpEmWc5SBs87hhEZ0U5aTTJfl1KumcBpLNtAU7GLC0dS3g4kIoFMsw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWFwRHtuBuL3oduMKlHM6ypInty-pBNGuOnf2P4x-uU553YjgpE9L4EEiz20X1cwXRvn_lrhENxvaEMBf0OI7CA8kxD9G1PTmmdK50tyTzC6IsQfpqXBcqD0DjdyAYC4qbyox5kw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RALUKTy2BTJuv7QUNbCRRrM6x0qwtEH3Drfx4IqPe-FtQ5zIUq1G6v_xd2IELuI0mUH8SmEl4wsXQuLRMvXrcDfF1fyKjvM7bYbNr5G-t38eUiAMGVcyxBh74JL0-hTTLJgwE82_rGDSQN",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWwbSeqT3ULOpk2SanHomS_T-kUHIPaLCV5Ylhg-sfIB51QGVJ647_IpouMUDU6RvnuuXhREmkku_u_Aib96ynEUF7ea63r9e_uxU22H6o_1f3yo6T7lrhFLJHQWMipfy571N_Sw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qxd8B7unBfExZOIyMi9GIX06oN2gwvJnbVaAPuzX1_SgCRm9Q6JTt4xjYyLQaPJtztgRg4tMGel9YpQcS8fR263yl139E7qsD53pQyZibj8jd2fWXQ817FC7FUmbg3yH7O7ygv-nsr07vw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SEp4Gngsn3IHtC5NQsmVA4AhO6EmARmEAhtMBBv5eTQl7hSLJwWjuegubIF-cszdsEV_tJS-EzGGmDc5YIEv1UlOogr2dIxEVdq0lvr41FVURr-RDyPz2joY1ElJ43NK6zb4Y",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "cyndi freschi",
+   "text": "Val did an amazing job for a very fair price. Her work was meticulous and she met a challenging deadline. Would definitely use her again for all my painting needs."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 337-6635."
+  ],
+  [
+   "What areas do you cover?",
+   "Atlantic Highlands and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Val will get back to you.",
+ "footer": "Valerie Paints · Atlantic Highlands, NJ · (732) 337-6635",
+ "schema_type": "HousePainter"
+}
