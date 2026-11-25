@@ -1,0 +1,117 @@
+{
+ "name": "Oasis Tree Service",
+ "town": "Freehold",
+ "phone": "(732) 682-9414",
+ "rating": "5.0",
+ "review_count": "10",
+ "areas": [
+  "Freehold NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TqZ0EsFJrviVVvVKj6d-gNn62FUTbivFLBpKuZVWVWfm6OvdgP3G5lh7XcB4lScmtltM5_7rrT-JkmXb6rYD_7AvWzltiXqiRwTak6nYu72GrDXXndc0NoW9L9SasKlnfRwlpV",
+ "title": "Tree service in Freehold, NJ | Oasis Tree Service",
+ "meta": "Tree service in Freehold, NJ. 5.0 stars from 10 Google reviews. Call (732) 682-9414.",
+ "bar": "Tree service in Freehold, NJ",
+ "logo": "Oasis <span>Tree Service</span>",
+ "h1": "Tree care in Freehold, done with care",
+ "sub": "Removals, trimming and cleanups. 5.0 stars on Google.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "10",
+   "Google reviews"
+  ],
+  [
+   "Freehold",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TqZ0EsFJrviVVvVKj6d-gNn62FUTbivFLBpKuZVWVWfm6OvdgP3G5lh7XcB4lScmtltM5_7rrT-JkmXb6rYD_7AvWzltiXqiRwTak6nYu72GrDXXndc0NoW9L9SasKlnfRwlpV",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXzWcDRta4lwUyLXI4-iu0oqpKTkxmDNdEhIe40dYzWUnECW2LxFnUEPACdgJ-bUt8pMLvsfqLfANFowRXvjymdNXLtGqlmTTUxFMk-MeBYOH0cLtDEd4hswYs5N3uzACRA-IWkA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RP-Uf-_SFBvlHsNQfO8RQ4BKRXY44CpYIiFIA20XiCj6MFdHtWfGj1I81sDchPvr3Udd-NJ16TuUeBt9d935yDhEZDHEFZ9n4vXTzZzBqInbM5RTaTEr2vBC1HxenFzaUXM_jd",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQQbrReWKcuefTtQ1a7wj3IFhKyiYsZ4fwWZQH39PQxaGQpf5Y_PXgTyxRomXu3cma5r_xv_4km3-BdFNvJFFGAxkAYp_o4ByDk4M4BvQ2oQdXFfNyIjU4IntH0AZCsj5_MjU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUVq3mxHKUc6lYTvArQ2FZzp7BSt-BeOlNR5JjAmyEWUpCmcnQ4JIjcWxP0FhpuMfXaa8GAaBRo20tTlVei3rbxrzEYZBhdmCfIf75Gxrxj6DXiIkE1AHykh091tVI_j7d4yIb",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TToTqt-YkACoV1MKuoGotGVYliqABsBEVC2x51-ILnavVCZ46yVUR0HKq-315IJyXU-sLNnPiWlVzeQhDJjZIbn87IFvRNr1RRwzvWw0WcsNd6xWolS3VJYwnuUUk9KYmSe9A6",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Joseph Florio",
+   "text": "The crew was courteous, skilled,  conscientious and thorough as they worked very well with me to decide how much to trim off the trees and bushes around my property."
+  },
+  {
+   "who": "Jamie Martin",
+   "text": "Amazing and professional! I wish I had more work for them to do."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 682-9414."
+  ],
+  [
+   "What areas do you cover?",
+   "Freehold and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Esmeralda will get back to you.",
+ "footer": "Oasis Tree Service · Freehold, NJ · (732) 682-9414",
+ "schema_type": "HomeAndConstructionBusiness"
+}

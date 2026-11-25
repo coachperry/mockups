@@ -1,0 +1,103 @@
+{
+ "name": "Johnson’s Tree Removal and Landscaping",
+ "town": "Central Jersey",
+ "phone": "(732) 351-3087",
+ "rating": "5.0",
+ "review_count": "14",
+ "areas": [
+  "Central Jersey NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4kX5aJpUyPRJ4iT-kX2kowUAsxvhxN2nNCBhTYUOu5cew1-pLuFRVqs2Cx5ypruFR_nnGDGUXbOcCCAj2sJno0DfuinOtgaTTzxTZjdGGjjiSzQJimcsY7R052aqVGYGxCs4x7TOpZxCo",
+ "title": "Tree service in Central Jersey, NJ | Johnson’s Tree Removal and Landscaping",
+ "meta": "Tree service in Central Jersey, NJ. 5.0 stars from 14 Google reviews. Call (732) 351-3087.",
+ "bar": "Tree service in Central Jersey, NJ",
+ "logo": "Johnson’s <span>Tree and Landscaping</span>",
+ "h1": "Tree removal and landscaping, done right",
+ "sub": "5.0 stars from 14 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "14",
+   "Google reviews"
+  ],
+  [
+   "Central Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Whole trees down and hauled away, no mess left behind."
+  },
+  {
+   "name": "Land clearing",
+   "photo": 2,
+   "text": "Overgrown lots cleared out."
+  },
+  {
+   "name": "Walkways and landscaping",
+   "photo": 3,
+   "text": "Stone walkways and clean beds."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4kX5aJpUyPRJ4iT-kX2kowUAsxvhxN2nNCBhTYUOu5cew1-pLuFRVqs2Cx5ypruFR_nnGDGUXbOcCCAj2sJno0DfuinOtgaTTzxTZjdGGjjiSzQJimcsY7R052aqVGYGxCs4x7TOpZxCo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TEmqXUbnmQV-DZN0RIPSbVN1N1oXSXiOM0W_oLyiLysFqQQGKEXj71Qep2_0C3a-9Sf_cw4IxxVP0bHQcHb8PHsfpIyghBirlap6oEalX8DWC96nX-Aq36YFAEkZj2FJkNZ8Ga3HDtRNn4",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sv4mOVR0LQhufHRZQY6A9BAlr_tEbfGddn2KifaMBTOtVmcxW4xyBoDRia_YRrQ6EFySomNuimyeUF5LxcTL20hBlhHrtHDgaaYKDLMOParSMUX1qmq3avq2h1HHJF39qZKOIz8HeBTIwY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBZfnXjGm34LlBLRPea0Tcflz52xoeJ1zn5CZakv1X6xv8i4QZYlU5K55EY2_UCxpC68yXi0PYCU4_rZ21mDug5i_64PwTlUxp1LyIjumeknAXgCdW6eZO5DHL7c4cDMZgHVMxqc3cjmg",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "chris ryan",
+   "text": "Hell of a crew they got going. Very reliable, very efficient and super executional. Would 100% recommend and suggest going with these guys"
+  },
+  {
+   "who": "S B",
+   "text": "Amazing experience very easy to work with and one of the only companies that gave a good price for the work I needed done. Would recommend to anyone looking for similar work."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 351-3087."
+  ],
+  [
+   "What areas do you cover?",
+   "Central Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Johnson’s Tree Removal and Landscaping · Central Jersey, NJ · (732) 351-3087",
+ "schema_type": "HomeAndConstructionBusiness"
+}
