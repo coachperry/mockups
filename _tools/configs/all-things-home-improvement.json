@@ -15,13 +15,13 @@
   "paper": "#f5f3ef"
  },
  "font": "Fraunces:wght@600;800",
- "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOKurvnhvXBB2qXS3_uIycr08TWqQKbxWNpUkxMAtgR-1Ggxxwcwq89H4dgXPm_1GnQOyY6utKk0IB_UrBpNPhMVctninuUGqiAd41o1AMS3yZVW_Nx1D-ZbfyCBkRDpgCvNLk",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_TdqQSxqwf3rLe38frmokeXECXKrrq5uO38PrXWDQvO7ME9mnUCVJBf7OfVxDyVJftHSu4fmy9XjBM5FNiuMSa2ho_4mKxZnAX_RgJXIsfvLRWN1vohmgYiNWvmaaompg2rl7aNCkY38",
  "title": "Remodeling in Old Bridge, NJ | All Things Home Improvement",
  "meta": "Remodeling in Old Bridge, NJ. 4.9 stars from 87 Google reviews. Call (732) 706-8078.",
  "bar": "Remodeling in Old Bridge, NJ",
- "logo": "All <span>Things Home Improvement</span>",
- "h1": "Bathrooms, kitchens and whole-home remodels",
- "sub": "4.9 stars from 87 Google reviews. Vlad and his crew in Old Bridge handle the whole job.",
+ "logo": "All Things <span>Home Improvement</span>",
+ "h1": "Bathrooms, kitchens and full renovations in Old Bridge",
+ "sub": "Vlad and his crew. 4.9 stars across 87 Google reviews.",
  "cta": "Get a free estimate",
  "trust": [
   [
@@ -41,33 +41,29 @@
  "work_h2": "Recent work",
  "services": [
   {
-   "name": "Bathrooms",
+   "name": "Bathroom remodels",
    "photo": 1,
-   "text": "Showers, tile and full bathroom remodels."
+   "text": "Showers, vanities, tile and glass."
   },
   {
    "name": "Kitchens",
    "photo": 2,
-   "text": "Cabinets, counters and full kitchen renovations."
+   "text": "Cabinets, counters and backsplash."
   },
   {
    "name": "Full renovations",
    "photo": 3,
-   "text": "Whole-home updates handled start to finish."
+   "text": "Drywall to flooring, whole homes."
   },
   {
-   "name": "Flooring and finishes",
+   "name": "Flooring and finish",
    "photo": 4,
-   "text": "Floors, trim and the details that finish a room."
+   "text": "Hardwood, tile, paint and trim."
   }
  ],
  "photos": [
   {
-   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOKurvnhvXBB2qXS3_uIycr08TWqQKbxWNpUkxMAtgR-1Ggxxwcwq89H4dgXPm_1GnQOyY6utKk0IB_UrBpNPhMVctninuUGqiAd41o1AMS3yZVW_Nx1D-ZbfyCBkRDpgCvNLk",
-   "cap": ""
-  },
-  {
-   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGqOJaWZqyrrLEF2eUfh4j5-A9fSVKqtmNbwlBDQFSUtAlK94RY855uU68dCQa5hhUSjzVDAQcXxICup4joF4xBXJ8OUxsPFk-m5Q8LKdF0bGXzDKUt1Hs4h-R3z9YUyRKsmpkew",
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_TdqQSxqwf3rLe38frmokeXECXKrrq5uO38PrXWDQvO7ME9mnUCVJBf7OfVxDyVJftHSu4fmy9XjBM5FNiuMSa2ho_4mKxZnAX_RgJXIsfvLRWN1vohmgYiNWvmaaompg2rl7aNCkY38",
    "cap": ""
   },
   {
@@ -75,26 +71,30 @@
    "cap": ""
   },
   {
-   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RcYVaVeOBBZGLdYOz3F0LvmtGTKofAJwP-9gew7wHoCqdUFvx5910C7aPvaYmSSKje7WQlFWGySBkoV_HXPd3ejHGcqnOYY6JD2Hp5q8A7LWYNJYMYCl2NA4-TQ21anF0O8g",
-   "cap": ""
-  },
-  {
    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2PI76j9cWz-bzCLzT035Wqd3ZmnHxH-LrOc-b_K782mDcX_LctOgB6AZbkZ2UkJ6fdk7Ff8UQ3ZC4o_-t4ub_LFs4zszVoSvqOyxSCzJbgGlnuyk_dS9Pc8CQGRgDVD_Vh6PTuQ",
    "cap": ""
   },
   {
-   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDCv-oddrNm7EAyKJfp84ghAjDQb2hC_wwxeARZQulSnWIfjkLS9Fk1TlhwDtIoy3jr7bg_-fgNzUcNsCQ4AQNxLzP-19woynBNaIGY4BGCa2dLUIVsQrGDsNtNwf5NZwP410V",
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOKurvnhvXBB2qXS3_uIycr08TWqQKbxWNpUkxMAtgR-1Ggxxwcwq89H4dgXPm_1GnQOyY6utKk0IB_UrBpNPhMVctninuUGqiAd41o1AMS3yZVW_Nx1D-ZbfyCBkRDpgCvNLk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T83jutt-P083J1sKohKoKFU5Zmcv7aaUEZ13k8UxYksQJAAg1LyhcRJU7V85YVsAhsljy0Iud7-MFSh-E613_qbc35D5BoFE_yLpLulT1qy8JZ8w7lWqbo1DdD4MxKwyCKafK80L2EKkiO",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK6UkiD4LovwsyJfWBKWb4RCI0GOY6JCYjnMebHrIIi51YqpOf2UAPS315Shfw4dzcAaNWngj_OqWvHU4FLRHdOGhRkPPWsaTyW2GT6LN0JIyryopNHIsngTz1ulGiPgb-Hfwu",
    "cap": ""
   }
  ],
  "reviews": [
   {
-   "who": "Vincent LoBiondo",
-   "text": "I’d like to thank Vlad and the fine crew he’s assembled ; Mike his tile man and Eugene his plumber. We hired them for a second time to renovate another bathroom .They all take much pride in their work and really pay attention to your Iikes and dislikes, which definitely shows in the final result!"
-  },
-  {
    "who": "Nick Boutote",
    "text": "Vlad is the best of the best! Reliable and very professional. If you need a home contractor, All Things Home Improvements is for you! They do incredible work and I am happy with my renovated home"
+  },
+  {
+   "who": "Vincent LoBiondo",
+   "text": "I’d like to thank Vlad and the fine crew he’s assembled ; Mike his tile man and Eugene his plumber. We hired them for a second time to renovate another bathroom .They all take much pride in their work and really pay attention to your Iikes and dislikes, which definitely shows in the final result!"
   }
  ],
  "faqs": [
