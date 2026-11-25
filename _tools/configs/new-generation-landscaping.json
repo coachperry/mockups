@@ -1,0 +1,118 @@
+{
+ "name": "New Generation Landscaping",
+ "town": "Jackson",
+ "phone": "(732) 928-0803",
+ "rating": "4.6",
+ "review_count": "10",
+ "areas": [
+  "Jackson NJ",
+  "Ocean County NJ",
+  "Monmouth County NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZSmtnF3Gaud7DqPmEsiWROLmKx9juoSKCmslJ3KY6mod10e9a7VVA82MQ-Lw2_Fgxp8B_EmEgfLrwfhq8coAU-4sbVGZgth2NJlwiuhBSY29UoCPa2d5AXKPPcdKw0uns3RD4Ekza6GBK",
+ "title": "Hardscaping and pavers in Jackson, NJ | New Generation Landscaping",
+ "meta": "Hardscaping and pavers in Jackson, NJ. 4.6 stars from 10 Google reviews. Call (732) 928-0803.",
+ "bar": "Hardscaping and pavers in Jackson, NJ",
+ "logo": "New Generation <span>Landscaping</span>",
+ "h1": "Pool patios, walls and lighting in Jackson",
+ "sub": "Jesse and Yolanda run it. Landscaping and hardscape.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.6★",
+   "Google rating"
+  ],
+  [
+   "10",
+   "Google reviews"
+  ],
+  [
+   "Jackson",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Pool patios",
+   "photo": 1,
+   "text": "Pavers and coping around the pool."
+  },
+  {
+   "name": "Retaining and seat walls",
+   "photo": 2,
+   "text": "Walls built to last."
+  },
+  {
+   "name": "Low voltage lighting",
+   "photo": 3,
+   "text": "Patios and steps lit up at night."
+  },
+  {
+   "name": "Landscape beds",
+   "photo": 4,
+   "text": "Plantings, mulch and stone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZSmtnF3Gaud7DqPmEsiWROLmKx9juoSKCmslJ3KY6mod10e9a7VVA82MQ-Lw2_Fgxp8B_EmEgfLrwfhq8coAU-4sbVGZgth2NJlwiuhBSY29UoCPa2d5AXKPPcdKw0uns3RD4Ekza6GBK",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetG8DGC6RAkVcQG9jEUFaAlSQNorng-VECq4ypuBEZSz6PMxpbiMfefVnNrIVQPnRqJZoe1m8Lm_VWzyajWgegsiso7_7Tt51r6Nuq98_e3Hm9a23RKF5lN2YJxAe5l2uDtJqDaaUIYS4w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TcLmYSdLmhMJuKGFVfFNgD8XHGc7Dx5H7uTdwzu3gjjSggZOvp0MrirwThLZpUEx2j6iMnqbn_81CgjosH71sZhUAH0-K88RmIRV7c0h0pPAbVolMlLXC92c0kTsWBhirHeKGiGprqQBnB",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QOk1pCicTbmeIfOBq_ad2XmVir471K7BWDtuAZ4sH8bmuZYbQkpppG6WHsdJhRn_KGWC3enpeq6KkjfN1beP4z0eUAxprXnDCeyLT53lOLlkRsDQ34uowNL9mAPC6iy3Qdu1dC16_yxXn0",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TdWLoFvl9hnEKiW-dpg1Z7Qi_ebeLxPfXKPdd1BC3Zley3UGZYi_7OxjGUFfItVknHtC3iUJc5YKZ3MLHqWHblblr0BeJw4ChJprs_6Wv8aEzTuSyz2KfbhpXVUboxkjo74CXR4NPb_TDg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHtf3N6JbjtUNWKVnoCJozjEfm4COW6zUUaFocNgByvnlGqrLg0AP5o4xcdU-ifhH2rDjecB6mSBr39TnARQpX2eVe46nBd7ZTWWlxR2k76vHEOP27UJjbUR8m4O2CcxgFXzTuO_2P-Eo_",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Valderez Boyle",
+   "text": "Jesse and Yolanda are a DREAM to work with! This company really goes above and beyond to make your dream landscape come true! I highly recommend using them!"
+  },
+  {
+   "who": "Parthiban R",
+   "text": "Got my backyard pavers and fencing done thru them. Very professional and job well done.. Finished the project well in time and they quoted almost 30% less than any other I inquired.. I would certainly recommend them for outdoor work.."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 928-0803."
+  ],
+  [
+   "What areas do you cover?",
+   "Jackson and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Jesse will get back to you.",
+ "footer": "New Generation Landscaping · Jackson, NJ · (732) 928-0803",
+ "schema_type": "HomeAndConstructionBusiness"
+}
