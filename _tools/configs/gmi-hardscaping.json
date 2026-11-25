@@ -1,0 +1,121 @@
+{
+ "name": "G.M.I Hardscaping Pavers",
+ "town": "Edison",
+ "phone": "(848) 219-8584",
+ "rating": "5.0",
+ "review_count": "14",
+ "areas": [
+  "Edison NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtajH-5qkQci4CNp7YQTp2aM0FEPoOm-11Q5cnIvEj4hPqQKqcho_W0_P8O4UBhmNVA87RIyn6iaFEVH0NlAzk-5vacwuaL9-7z8Vbv6mBgpSoqlhCs5U1EKjgDMPYVvEz757O",
+ "title": "Hardscaping and pavers in Edison, NJ | G.M.I Hardscaping Pavers",
+ "meta": "Hardscaping and pavers in Edison, NJ. 5.0 stars from 14 Google reviews. Call (848) 219-8584.",
+ "bar": "Hardscaping and pavers in Edison, NJ",
+ "logo": "G.M.I <span>Hardscaping</span>",
+ "h1": "Patios, fire pits and walkways in Edison",
+ "sub": "5.0 stars from 14 Google reviews. Isaiah and his team, from design to install.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "14",
+   "Google reviews"
+  ],
+  [
+   "Edison",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Paver patios",
+   "photo": 1,
+   "text": "Patios built on a solid base so they stay flat and tight."
+  },
+  {
+   "name": "Driveways",
+   "photo": 2,
+   "text": "Paver and stone driveways that make the whole house look better."
+  },
+  {
+   "name": "Walls and steps",
+   "photo": 3,
+   "text": "Retaining walls, seating walls and front steps."
+  },
+  {
+   "name": "Fire pits and outdoor living",
+   "photo": 4,
+   "text": "Backyard spaces built for real use."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtajH-5qkQci4CNp7YQTp2aM0FEPoOm-11Q5cnIvEj4hPqQKqcho_W0_P8O4UBhmNVA87RIyn6iaFEVH0NlAzk-5vacwuaL9-7z8Vbv6mBgpSoqlhCs5U1EKjgDMPYVvEz757O",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SC5CDAJp6YgxvuccOFhoS9Hizpe29JKElVPVpFS_43hS0pJoqEtyLED7uDiQ2AYAUEbMrjKGmR2wM90rxqJ-tRbP6ZVCvcTdnPg4Tg28qgdJLi9eGmtNiWhYarxFkfL6srcK1D6gsGcio",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBAAOHqFzUeTiQLS3oRHeh1KyZDxJsP4Ek4hZ4Hvu34_18Q0EBvsu5I2FnqgTd284-kqIwpQlJ9QNEQhxNIWG27j5JVShc37mKsJYlej_W57sddwOvCX5cIt3ObllIabLsZinreJE3_3Cl",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RR4xcaCdHERO_bItGWhnoRvhKxBLaC9RvV5O2WATKLOOarCaVw9PUGnkYhaKVXRzfy_cJ13ltx1GVU7kmracDlSr1iQLaDID0r0eUMOyUSx5P-EBH_sWaANGo7mRWj0pEN_0k",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3jcXCkDgu4QS_EUCcWtK4fjIkDyMu0-97OyVYORAW7LmuxsPlteeeKAlRd44edtw6wZXLGls_ai7Yc0mCAWQDgfy4uawu7ZtzWZJ8AT-AxPbLTf2pJHRUHavugfj5sZp79C1A",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXQmR_GUdNzWeoZCYt34qZZXa6cCcsWbV9NbVXtfeOnD1AMfxQMU5DkeLJT-vqoiYqpL6-tABZhhIuAuo8VqM4fIpAfhEsxHV7rXM4iFxDK5jAZyh9JJq7s2gnjeTjSU5zNZ4K",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Zoraida Montalvo",
+   "text": "Highly recommend! He does great work and is reliable. From design to install I give him five stars. I had my front steps and walkway done!"
+  },
+  {
+   "who": "Johnson Mathew",
+   "text": "Isaiah and team was very professional and honest. Our new patio looks great and the price was fair. I will hire them again for future work."
+  },
+  {
+   "who": "Zinnat Habib Khan",
+   "text": "Isaiah and his team were very professional and punctual. Good job on the yard cleanup. Reasonable price too. Thanks"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (848) 219-8584."
+  ],
+  [
+   "What areas do you cover?",
+   "Edison and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Isaiah will get back to you.",
+ "footer": "G.M.I Hardscaping Pavers · Edison, NJ · (848) 219-8584",
+ "schema_type": "HomeAndConstructionBusiness"
+}
