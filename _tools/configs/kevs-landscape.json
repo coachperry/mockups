@@ -1,0 +1,138 @@
+{
+ "name": "Kev's Landscape Management",
+ "town": "Morristown",
+ "phone": "(201) 572-3328",
+ "rating": "5.0",
+ "review_count": "11",
+ "areas": [
+  "Morristown NJ",
+  "Madison NJ",
+  "Morris Township NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QSXb2RcdpBKcybuq9PC2jBqcib5MZzD6V2YLz2zLGuYvHnbVu74msehIP1j6ttM2Zdui7jSLB7qFkdGaxdRXkwacaN4ErnE_7C9w3OKfn1aMdm-vs6LNxcg4-3NXNGfpFlQw4P",
+ "title": "Landscaping in Morristown, NJ | Kev's Landscape Management",
+ "meta": "Landscaping in Morristown, NJ. 5.0 stars from 11 Google reviews. Call (201) 572-3328.",
+ "bar": "Landscaping in Morristown, NJ",
+ "logo": "Kev's <span>Landscape Management</span>",
+ "h1": "Landscaping in Morristown, done right",
+ "sub": "5.0 stars from 11 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "11",
+   "Google reviews"
+  ],
+  [
+   "Morristown",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QSXb2RcdpBKcybuq9PC2jBqcib5MZzD6V2YLz2zLGuYvHnbVu74msehIP1j6ttM2Zdui7jSLB7qFkdGaxdRXkwacaN4ErnE_7C9w3OKfn1aMdm-vs6LNxcg4-3NXNGfpFlQw4P",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPO9rmgRiNomNX3StPf4x2mU941pfr5g06B2RY5dqInnmrqLAOjHHkSB5_TxLg17XJoohugdL1VpGwl1y0tobDY5lKK8tKg3jkY_G1oqlxmLypqtywDUyMztI46brhpIgTZXc",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_ufKhoZkkchgqaZjx8S15oOMAKY3HEt1RLQIRQIe4JqI7dUG8DjY1NN33gktqomkLTBRwHIcH6dV2eJqYhS1UFNZ1w40MwsjMzmEk9197KNwvWA1XrNjtztglJQUIuzgaGYPa",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcY2SC4Mj9BVNPKY9fyqTswxhChGAL0UBjXnIZVolvKiqBywpm5aD_Gqftuw9TX8PVtgisU4cVcxCL2zvBe2Q9TjLYRDTRGdNPVkY_L-_scfSA9FQo_0Tqk_zh-J1J7FdcAA--FRw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl2DEBdiYarwumymRlGbYNm9I4OPEMY81RPObXTM1gvzRMBJO4CzzkYt-zZ5WiR5DdWl9Nhl8frdol-MtExU8Ha2A75eZC4a3f8Xps_I7zJ4iWvFltqTe0pT2XJJHogyejasnI",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLsLKtXvkubvVHMUYQHQ1wPhVDUhlfEBbtfrqLeEmWJ-Xm533s8fByUDFM9BD44IZP8z92vcH9Jn5TAzQr0hDDCbDkxBVNyKkgj9LhLypabBzZiL6U24IOmB_wccuTiqxSZTET",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiLJhvsnT72UOCVdo3sKIOlJbJI375nyZxQR3R4rlt_yZ-DfxJ3o2jW1m8ULpTCXA6kTg0PQV9tzqU1ZH8AzhipSEEmQCSui4z-ZB4VHOtwcBgOBdMQsmP1iJ7cj0uWiiYyp7f",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJF5hAQPFL6BOGskwd07_lY_dAZVokjJy1-cCtcgBfhKvPDhSTMvT5qxdScuzHD-xH4iNnSGHK1d69C1KWu5bY-MwJZnDyUQVIyQEmrfP2LMfqrdm7LMYdS4gLh9RDfqjhegr6",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuBNebtZ9Y6mETOxj4dZuljqT8iHCqrHJgqNm-Rjzp2d8bgAVczlGdQOb8ihp2fH5eRLxcISaWjPxOF8BSTwNxx885BqeP8NLqPU2VcMwF4HfIGGprGi_GmIeT1Fy9oCq1VL8AnQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzGnYS4Gj38TFkYGUZ5_SrI-ZAPyKivGW0_Cyo_NKmbHxy71xa3Sk8cCp2wZB1PQmbUAyEeBB5_iyMNi0UUUkpjvboCIoyGf1dnFn9rrMecc20NBx6FXwyVbHGATHFdaHH63JV",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Marie Kaufmann",
+   "text": "Kevin is the best! We regularly call him for clean up and maintenance of our yard and the difference is always incredible. Kevin is professional and thorough. We’ve recommended him to all our neighbors. Can’t say enough good things! Give him a call - your yard deserves it."
+  },
+  {
+   "who": "Kathleen daloia",
+   "text": "We had a great experience w Kevs landscaping . We had to remove dead trees and have new trees brought in . Kevs found us beautiful healthy trees and installed them, they are thriving . I highly recommend this service provider. KD"
+  },
+  {
+   "who": "Alex Collioud",
+   "text": "Kev is an amazing landscaper and even better person! He gave me a great price and did awesome work on my property. Will definitely be using him in the future and weekly this summer! Hats off to the KLM crew.\n\nCheers!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (201) 572-3328."
+  ],
+  [
+   "What areas do you cover?",
+   "Morristown and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Kevin will get back to you.",
+ "footer": "Kev's Landscape Management · Morristown, NJ · (201) 572-3328",
+ "schema_type": "LandscapingBusiness"
+}
