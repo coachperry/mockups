@@ -5,9 +5,7 @@
  "rating": "4.5",
  "review_count": "60",
  "areas": [
-  "Avenel NJ",
-  "Woodbridge NJ",
-  "Middlesex County NJ"
+  "Avenel NJ"
  ],
  "palette": {
   "ink": "#17251a",
@@ -15,7 +13,7 @@
   "paper": "#f3f2ea"
  },
  "font": "Archivo:wght@600;800",
- "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf3DK7nQg5UN9gcjTP-GqatruBvZ-hy6_vgsAQFwUCZFrqxDkm-0CQOVwt5ZZMWe7I9tbeMnehyyNBMkT2DHOnDvudeqWzTpRqTo1tdqVS3s-rU4PWMTE1zU-sY8gwxjdCth1CSnyWK-UQ",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TyBMsutz-lX5y6GAQ46lOTrptrYpI0NKHG707aJDp-801km-qVqMugy3pf-xbysDCfMyhgfEeUZ8eNIlDcpqlZNVt-WVduM63hZjtSo4QbHlM-YXwhbyLem61GUs9rJgmHEw8YjZoo0iXF",
  "title": "Tree service in Avenel, NJ | Treeminator Tree Services",
  "meta": "Tree service in Avenel, NJ. 4.5 stars from 60 Google reviews. Call (732) 326-0911.",
  "bar": "Tree service in Avenel, NJ",
@@ -63,6 +61,10 @@
  ],
  "photos": [
   {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TyBMsutz-lX5y6GAQ46lOTrptrYpI0NKHG707aJDp-801km-qVqMugy3pf-xbysDCfMyhgfEeUZ8eNIlDcpqlZNVt-WVduM63hZjtSo4QbHlM-YXwhbyLem61GUs9rJgmHEw8YjZoo0iXF",
+   "cap": ""
+  },
+  {
    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf3DK7nQg5UN9gcjTP-GqatruBvZ-hy6_vgsAQFwUCZFrqxDkm-0CQOVwt5ZZMWe7I9tbeMnehyyNBMkT2DHOnDvudeqWzTpRqTo1tdqVS3s-rU4PWMTE1zU-sY8gwxjdCth1CSnyWK-UQ",
    "cap": ""
   },
@@ -76,10 +78,6 @@
   },
   {
    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QMRnpiDbIX9S-ftaPvH33eGRkB4EBmzZEpIv1_5_lMj-TOYRp554z5C5bionZhewPpGSNKNaacREUHgbY_yoBPT7OJjWl7iLlakZLGy6ICe-t_UImAU77MnLZdzuX27zONJwo",
-   "cap": ""
-  },
-  {
-   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TyBMsutz-lX5y6GAQ46lOTrptrYpI0NKHG707aJDp-801km-qVqMugy3pf-xbysDCfMyhgfEeUZ8eNIlDcpqlZNVt-WVduM63hZjtSo4QbHlM-YXwhbyLem61GUs9rJgmHEw8YjZoo0iXF",
    "cap": ""
   },
   {
