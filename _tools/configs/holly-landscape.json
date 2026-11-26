@@ -1,0 +1,137 @@
+{
+ "name": "Holly Landscape Services",
+ "town": "Flemington",
+ "phone": "(908) 361-0711",
+ "rating": "5.0",
+ "review_count": "14",
+ "areas": [
+  "Flemington NJ",
+  "Hunterdon County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TfaERVg-ZK3UZYjDnmJp9HfhifR5HkOFbhDh-60L0-IUcDRnG4kRB3g3NMwT3j0x3gEOkz--KRS7hI0ra2lUpFcKHAIYlDRrgqI5HlZUDow0WAhmx8t2SVXY9D_7MzRbnz14I",
+ "title": "Landscaping in Flemington, NJ | Holly Landscape Services",
+ "meta": "Landscaping in Flemington, NJ. 5.0 stars from 14 Google reviews. Call (908) 361-0711.",
+ "bar": "Landscaping in Flemington, NJ",
+ "logo": "Holly <span>Landscape Services</span>",
+ "h1": "Landscaping in Flemington, done right",
+ "sub": "5.0 stars from 14 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "14",
+   "Google reviews"
+  ],
+  [
+   "Flemington",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TfaERVg-ZK3UZYjDnmJp9HfhifR5HkOFbhDh-60L0-IUcDRnG4kRB3g3NMwT3j0x3gEOkz--KRS7hI0ra2lUpFcKHAIYlDRrgqI5HlZUDow0WAhmx8t2SVXY9D_7MzRbnz14I",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyL_NWr03ELKNq7Q78hjd8FIbiJu39xfio_RqwzAU9iksrNGWbAA3Vy6-qhIUCWds4m2S-w5Vox8-0zRC7B9H3lJy20zpIei5UChepNFRutJtAEtKDBbBXli80sleMJpUQDDH0gOpuVeQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZt1VoPiP0FGz3u5SNxEOhu_jxliRihmvOW05TA65Ao5oghRQjuvVhGnn-MiJfwuZvkBOZF2gckkmFrcNpbW9cy3e2R84apQOXG8rWyhvVB5YjkILbOpZy7GGjuyzHOwOd8zqL",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7vmwpJC1dN6p1j-o-X-VaG52QKVrSTKIDdvmjb8ZFTVQ32XpHP3CdOP5u7PYzBuyFcEsYFUojYFw305JKTGaOKXVcQmBlsyRnUszIycBdi3t8IVZPMRRVmJEYofsPkBvb-i82LOOOm37Z",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SkgBvE-bWAKfxM6kXLAf_RBjDojzi-9HcLbNeUA--H5nKMKkraahkmCg6QkJO0FdfoyMvLyf-cmwm2u7iZrNV62znuhXLv-C1tKHp59vYQdRz8LA9MsKveNsCBqmM0ERdMQ6IlXq2ICnI",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevE6DAxpr0BzoL_li43Q6j6HRN2oM671DWlzBqIKtOBC9KTGB3DVyud83b_YSV-sLtEHiTU2c5dLuFrF11qAI0gh-R1l42pWxxTCt_Nn0ObLh1qS2aZEKmYSHjnsrqwKpEWB0",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcX3CbBMEqWzyInaX0K9umVM2Nuwua2AOgkaSftJx0O1LbPUvMTIS0iD9PcbrVjmE8QUY-R3u_UqTdtuhNDvgdVKwvJrODGfzGS6Os_juQOea0AXfrkVOerRf1nfwgAy9w4a_J7OZB9_EiD",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbkV3ufzqoeX-qwz-e7Obo0M7IHyJ00DQG3r-aaplHpM5qZ2bAsaksjXP9gOOquMvaULt5PpcVCrNPjwFEEq3N_9zvjlsMxvLugj0cmxAYjzf3u6hIjhh-t22bmfUs_Mml6PySYlRfoYr0",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemdlXaYRcnrAQQWF5d-Q7Rp6K62LXxtyn29bS4YIB2IeGwSA8d5ztUkHzudhRcL5PJeDTUA3xHhDikfNBUWHkx_u4ZYi0Ys8AW_bfcq2kuBPy4bLbfxtvBNzO585-fBcy9uljHPX4ulKA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetFFBRlEa33jAVDxY1ZKvAMG1bQg6A2EZ8MSPDcPQLO_SXr1myU_gbjKF-aH-fiiNwGFPgM0y4vAsKLaJrnvbHkV0BP_p3TgoF4K1rG4txjbNCOPEp2Kqlsa0J79TsiThYCQHf6rVpOrOY",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Yaritza Reyes",
+   "text": "Outstanding service from Holly Landscape Services LLC! The team was professional, punctual, and paid attention to every detail. They completely transformed my yard, and the results exceeded my expectations. Great communication, fair pricing, and excellent workmanship. I highly recommend them to anyone looking for high-quality landscaping services"
+  },
+  {
+   "who": "Kate Kadri",
+   "text": "We have used Holly Landscape several times now.  Odilio is very attentive to detail.   He listens to the customer, is responsive, works efficiently and is just pleasant to deal with.  His prices are extremely reasonable and we have been consistently happy with the end results.  Thank you!"
+  },
+  {
+   "who": "Joy Ghanim",
+   "text": "On time . Work done right , and at a fair price . Cleaned up and placed items back . Would highly recommend."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 361-0711."
+  ],
+  [
+   "What areas do you cover?",
+   "Flemington and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Odilio will get back to you.",
+ "footer": "Holly Landscape Services · Flemington, NJ · (908) 361-0711",
+ "schema_type": "LandscapingBusiness"
+}
