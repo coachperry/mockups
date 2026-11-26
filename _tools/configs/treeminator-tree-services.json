@@ -1,0 +1,130 @@
+{
+ "name": "Treeminator Tree Services",
+ "town": "Avenel",
+ "phone": "(732) 326-0911",
+ "rating": "4.5",
+ "review_count": "60",
+ "areas": [
+  "Avenel NJ",
+  "Woodbridge NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf3DK7nQg5UN9gcjTP-GqatruBvZ-hy6_vgsAQFwUCZFrqxDkm-0CQOVwt5ZZMWe7I9tbeMnehyyNBMkT2DHOnDvudeqWzTpRqTo1tdqVS3s-rU4PWMTE1zU-sY8gwxjdCth1CSnyWK-UQ",
+ "title": "Tree service in Avenel, NJ | Treeminator Tree Services",
+ "meta": "Tree service in Avenel, NJ. 4.5 stars from 60 Google reviews. Call (732) 326-0911.",
+ "bar": "Tree service in Avenel, NJ",
+ "logo": "Treeminator <span>Tree Services</span>",
+ "h1": "Tree service in Avenel, done right",
+ "sub": "4.5 stars from 60 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.5★",
+   "Google rating"
+  ],
+  [
+   "60",
+   "Google reviews"
+  ],
+  [
+   "Avenel",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf3DK7nQg5UN9gcjTP-GqatruBvZ-hy6_vgsAQFwUCZFrqxDkm-0CQOVwt5ZZMWe7I9tbeMnehyyNBMkT2DHOnDvudeqWzTpRqTo1tdqVS3s-rU4PWMTE1zU-sY8gwxjdCth1CSnyWK-UQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SKNrvMu93iAma2IyNRHwqV6KZ76qIPQKbvNEQRETUHosW2930qCz8nD17nRNhET07Cx5-SlqhPHAf9cef0PwwKpY_kKOsHGseZJ3ZhTw7fEzHDaN-lQe16o6EzGX3fq-OM0D8b29nl6lZD",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7voeOsPF2y_4Ycb4kidCQY1ZPCUIv8rxpFhua_uYXg8FRV7wksxkcAIi53ecSXewXLoanU0-iMLfTZ81PXDKTGmaXo-2uYRrspNmDEfUWXgQg36z8Nt7rjvtsEI3NpJawOLdj",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QMRnpiDbIX9S-ftaPvH33eGRkB4EBmzZEpIv1_5_lMj-TOYRp554z5C5bionZhewPpGSNKNaacREUHgbY_yoBPT7OJjWl7iLlakZLGy6ICe-t_UImAU77MnLZdzuX27zONJwo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TyBMsutz-lX5y6GAQ46lOTrptrYpI0NKHG707aJDp-801km-qVqMugy3pf-xbysDCfMyhgfEeUZ8eNIlDcpqlZNVt-WVduM63hZjtSo4QbHlM-YXwhbyLem61GUs9rJgmHEw8YjZoo0iXF",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SocmYOhE5A4AA1kbxDxiBH_0RcTJ6wb7eM9ttWKdNdDEc4dMw-GkML2xmy2cgbZlt5C5RfSzE9AS4f_zAZMJcvojeGK2BUftQFFs9KPIz14HXyD1f0moTDucEfdcQ79-zTZLBTWQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ra2l9dTWqFV_sXX3g60zYq6bC1VjyyAsFrnhg1MUCcUxIr1gCdsomPUKK5zj1w1sK0wrRRED6NupkGylCj1EWJjMWfGdj24LSFVgH9LkYKZjC6MxVNv7qS6_9ghoNMRZRwQHio",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVJXbkRI4tq7687zfT3BBT3ZfeeZk868lanQygwBW6Kj3U8X4bg0W3bt_r3dU2TAuIBWYmg0tsiBxJAPIbTIXaFPK9ZzGxxeoU9qC7HWAZ5IfdmAyoq95rK0r8zKhl7cnBQXmm",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Anna Hallgren",
+   "text": "Really pleased with their service. They did exactly what we asked for. Lillian came really fast to give us an estimate and listened to our needs. More affordable than other companies! They cleaned everything afterwards and were careful with our landscaping. Highly recommend to use this company. Thank you!"
+  },
+  {
+   "who": "James Morales",
+   "text": "Outstanding job done by Lilian and her team removing a tree and several large bushes in my backyard. They were super careful around the yard being mindful when moving their equipment and cleaned up with no issues. Highly recommended!"
+  },
+  {
+   "who": "j k",
+   "text": "Lillian and her team did a great job pruning our large pine tree that has been dripping sap on our truck. I didn't even realize how overgrown it was until I saw the before and after pictures.  Easy process and communication. Thank you!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 326-0911."
+  ],
+  [
+   "What areas do you cover?",
+   "Avenel and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Lillian will get back to you.",
+ "footer": "Treeminator Tree Services · Avenel, NJ · (732) 326-0911",
+ "schema_type": "HomeAndConstructionBusiness"
+}
