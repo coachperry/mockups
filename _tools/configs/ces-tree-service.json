@@ -1,0 +1,117 @@
+{
+ "name": "CES Tree Service And Landscaping",
+ "town": "Morris County",
+ "phone": "(551) 427-7487",
+ "rating": "5.0",
+ "review_count": "13",
+ "areas": [
+  "Morris County NJ",
+  "Passaic County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TdHM6LwxEKBzU3Yc32duw_4V_3u1Ujo3Q0jpVICZoyNbUi86WvzMzckOK2eq-d0QIt-pwafPvaPSxOXJCQgGMUAo4ulPYnGaIfnR3O81is1i4fq2xRzhf6RCEIAmBDm3NJk4q0aRjp4FpH",
+ "title": "Tree service in Morris County, NJ | CES Tree Service And Landscaping",
+ "meta": "Tree service in Morris County, NJ. 5.0 stars from 13 Google reviews. Call (551) 427-7487.",
+ "bar": "Tree service in Morris County, NJ",
+ "logo": "CES <span>Tree Service And Landscaping</span>",
+ "h1": "Tree service in North Jersey, done right",
+ "sub": "5.0 stars from 13 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "13",
+   "Google reviews"
+  ],
+  [
+   "Morris County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 3,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TdHM6LwxEKBzU3Yc32duw_4V_3u1Ujo3Q0jpVICZoyNbUi86WvzMzckOK2eq-d0QIt-pwafPvaPSxOXJCQgGMUAo4ulPYnGaIfnR3O81is1i4fq2xRzhf6RCEIAmBDm3NJk4q0aRjp4FpH",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R83Ju-QTQbrvAY4dLSvapzp-4gED0itfsRX5XPKO1oj5K7KfhzgPT4WDdCPVf1wrF2mjXGFIlUR26tYs_huewOHkR-kn1woH1qpu32d4Cw0FKrW4es8WvKQcb_1X_NmoAHzMAPf9Hck7I",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5wM1HGijdsDkBTxRffFpqehMHIQy-kAXa6-_QIRT4jzECxwM3E5eGiptgLQnfbHGH4KN6rB7Bab0r2AzEvblZNA5VzeGFPsypyc4lIChzVgN7u332KexRhBJc7WyRvrTgmzWlKrtZxRg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlwmN7atzMcq75hntl-G7WQs-NPjTdvonUnAKZQuOphHA4iG1Cp4-R8LS9Kor_C_DaOdFfJiJw16TqsPfNkuDVmrW9KFN8R-fW1fR6tpQHHEYOgbJ9VfBoohDP7lP7YHXsW1fC",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Mae Comerford",
+   "text": "Connor and his team did a fantastic job with many tree removals from my yard. I called for some information an within a day he came by to look at what needed to be done and gave me a very fair price. Him and his team removed the trees the following day. His team worked very quick and were super professional. Highly recommend."
+  },
+  {
+   "who": "will kennedy",
+   "text": "Connor and his guys did an excellent job removing the large infested ash tree from my property. I have had him back earlier last year to prune trees that were overhanging my property. 10/10 give him a call"
+  },
+  {
+   "who": "Adelina Le",
+   "text": "I had a wonderful experience with this company. They were professional, punctual, and extremely efficient in getting the job done. The crew worked safely, cleaned up thoroughly afterward, and left my yard looking better than ever. It’s clear they take pride in their work and care about customer satisfaction. I would highly recommend them to anyone in need of tree cutting or yard services!"
+  },
+  {
+   "who": "Antonio Rivera",
+   "text": "Connor and his team did an amazing job with removing mutiple trees from my front and back property. Price was reasonable and fair. Hard working crew, very friendly and professional. THANK YOU"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (551) 427-7487."
+  ],
+  [
+   "What areas do you cover?",
+   "Morris County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Connor will get back to you.",
+ "footer": "CES Tree Service And Landscaping · Morris County, NJ · (551) 427-7487",
+ "schema_type": "HomeAndConstructionBusiness"
+}
