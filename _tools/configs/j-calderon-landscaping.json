@@ -1,0 +1,134 @@
+{
+ "name": "J. Calderon Landscaping & Construction",
+ "town": "North Haledon",
+ "phone": "(862) 888-6849",
+ "rating": "4.7",
+ "review_count": "12",
+ "areas": [
+  "North Haledon NJ",
+  "Wyckoff NJ",
+  "Franklin Lakes NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiE3l3s6VVc316ZAu2q8sEeriYl5dyMkPbfqFbJRLxdpPn-qzM9EPKgc5J2_f_wHaQhQA4Uj8PkdTI3Faq-yLWHfRsCspbO4qvmP9dwk2r5FkgnClxGu5Fkt8VXXpvHvbSuwGuUw",
+ "title": "Landscaping in North Haledon, NJ | J. Calderon Landscaping & Construction",
+ "meta": "Landscaping in North Haledon, NJ. 4.7 stars from 12 Google reviews. Call (862) 888-6849.",
+ "bar": "Landscaping in North Haledon, NJ",
+ "logo": "J. <span>Calderon Landscaping & Construction</span>",
+ "h1": "Landscaping in North Haledon, done right",
+ "sub": "4.7 stars from 12 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.7★",
+   "Google rating"
+  ],
+  [
+   "12",
+   "Google reviews"
+  ],
+  [
+   "North Haledon",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiE3l3s6VVc316ZAu2q8sEeriYl5dyMkPbfqFbJRLxdpPn-qzM9EPKgc5J2_f_wHaQhQA4Uj8PkdTI3Faq-yLWHfRsCspbO4qvmP9dwk2r5FkgnClxGu5Fkt8VXXpvHvbSuwGuUw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-ggM7IL8qZdf2lfAMld5fw3vXfKmjLqVN4spiKZuSNv8OCepCot4EIeCxl8Lbnif2X6vx3nu_D2OYhxbg4zUMC5O_pmP1lYbrBaCO-rypnIY7sHM-TnhjWpqu1RoF6-lGvi4s",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_0-O3ZGezrlhiAUumYMD1LihINmFIuhj-iuQyQiSwR5N7oVSghEaTnJDDf7n4NOuqVhxiQJLgh0sncJzYHucifsm7SPM04QPo_qXYe2ul3tvlgGinF8fqW2hP-BCqPxISIkvB",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQ29CwupN3QK4KgK4V6iibuM4CrhJTPCl982K2MPk6ZEWdd9KJhCp6uhujFO5uSJKRflpUG_GnMGzTzuQHLsezst1ve_tKBPIev-fhtgDGSnHwLArKorlDDlhaDWVBh7F2_n6y",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sce4Xl3hZ85sERp9afBgyfOGgYaZDAEBOoMTibYUpfALWeL-hosevhSulxuKlIx9puHtXcmOBaPSj-4imDRFESjNezFOar_TSu7f60uO7aOjlnBJXHb4U1vMMo5uiAJkiTNf6qOQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoRtpycmfDQ2QRhbahmQcXBGM2EV-8p8FQm9KSIE0isWYEE1lcLtftNbzkf7uQ2oQbM2y3Ez71RZUOe5tlzq9JJQ67QOr9jUw4OJG37vqCJdv2kR4tPBsNW0iuJY6m9Lrwb2h_Xw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewOED1gV6VxVLyH5OsoQvaHGGcXfqOLoKfOnV11ISoi1i2JFXDv8U95FM92sVft2dt7JEzxnoI3-PpU0mKcOzQx52FOidtAgZ6hkFVjHd9807thACVjikCzFbuZjk5i463cO7Ux7aU4Gr5",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ7UGIvCfvOz06Y--hJqEjbnrrzLyYycqlOAbHU9zTNqywc9TUJYVKTwjLTxa_51vRmf3EOZw1MNoQOfpAaIUP7SsNv4kZX-OwwOiZS7UjCaOqPZ1i9EC-qeoRaRZNPQPGLVmoHA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Kader Hammad",
+   "text": "I have been dealing with Jason for years now, every time he goes above and beyond, he's done home improvement for me, finished my basement, redid my roof, painted my house, retaining wall, jack of all trades and master of all of them. To pay what he charges for someone who is licensed and fully insured, is something else these days, his prices are fair and reasonable compared to what other contractors are charging these days. A++++"
+  },
+  {
+   "who": "Isabelle Kwon",
+   "text": "We had to remove our roll up grass, clean the driveway, restructure some soil on the ground, power wash and wanted to do it last minute.\nJason kindly picked up our call and came for a consultation right away.\nWe then had to leave to do our errands and Jason managed to do what we asked after.\nHe also sent me pictures of before and after, and followed up promptly.\nVery good service, Jason was very nice and friendly."
+  },
+  {
+   "who": "Yev G",
+   "text": "We had to clean up a very overgrown back yard that involved removing large area of ground ivy and multiple trees that had to be cut down and stumps ground.  Jason provided the most reasonable estimate for the job. He and his team were on time, got the job done as promised and removed all the debris after clean up. They were professional, worked fast, and got this job done in half the time and for a more reasonable price than all the other landscapers we contacted. Definitely recommend his landscaping service."
+  },
+  {
+   "who": "Christopher McBride",
+   "text": "I needed a 33 feet long and 6.5 feet high retaining wall done at my house, after receiving numerous high estimates I was referred by a friend to contact JCalderon Landscaping, They gave me a very fair estimate and did a fast and excellent job, I couldn’t be happier with there services and would definitely recommend them to anyone looking to get any landscaping work done. I’ve had some bad experiences with some landscaping companies and it was refreshing to see that there are still companies like JCalderon that are fair, honest and do great work."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (862) 888-6849."
+  ],
+  [
+   "What areas do you cover?",
+   "North Haledon and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Jason will get back to you.",
+ "footer": "J. Calderon Landscaping & Construction · North Haledon, NJ · (862) 888-6849",
+ "schema_type": "LandscapingBusiness"
+}
