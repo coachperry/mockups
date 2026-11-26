@@ -1,0 +1,130 @@
+{
+ "name": "Silvanus Tree Service",
+ "town": "Long Valley",
+ "phone": "(973) 713-6251",
+ "rating": "5.0",
+ "review_count": "19",
+ "areas": [
+  "Long Valley NJ",
+  "Washington Township NJ",
+  "Morris County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfM14WLtjd9iqhrGpFq4PNmxEkyQwIvO9O_4CeojjRfI-h9r3ZpsJ-Y9A3s3Zw9we1Tp1A1O9rI5PIuWTzyyNF_Rm2zdurvz5axlu2UQrc70kkRV7B8T6zkde8w93VtLZhdGbRy-6b7dY",
+ "title": "Tree service in Long Valley, NJ | Silvanus Tree Service",
+ "meta": "Tree service in Long Valley, NJ. 5.0 stars from 19 Google reviews. Call (973) 713-6251.",
+ "bar": "Tree service in Long Valley, NJ",
+ "logo": "Silvanus <span>Tree Service</span>",
+ "h1": "Tree service in Long Valley, done right",
+ "sub": "5.0 stars from 19 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "19",
+   "Google reviews"
+  ],
+  [
+   "Long Valley",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfM14WLtjd9iqhrGpFq4PNmxEkyQwIvO9O_4CeojjRfI-h9r3ZpsJ-Y9A3s3Zw9we1Tp1A1O9rI5PIuWTzyyNF_Rm2zdurvz5axlu2UQrc70kkRV7B8T6zkde8w93VtLZhdGbRy-6b7dY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SCfA8yZKRk-4gN7k2pM65CS2TknfM8pnpVNYQ6cORBYTFtHhRfVWYBXS84M5NQzSBjA1XN9XJYeNLQZ6ssJiAVkfiP0SEHJ-mZGwnAT6a82oMHTYJF2de5cLZk8_VMQEFpbswRUmBvBcpd",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TTHzlEBBngmf8B5fzvOJzpHLUh0_r6itTLvXElI8fRpZacYAajvq3Vyp6NI0ON3JI4MfgOzTACEr32QJHVl_de9V26_lC90F9kUB_1q2KTT3Ll8WppTgYKrMKxHGvMakG8YcS3prun8IP_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QfMEItpIcltNonTaq9tcnapv15jl4mmkYzLtwj39kiTxnwd9JWJgr8ZWw50knpXVMdr-caaUCGB6dFTLRtArzGQGF-hHin63J5tOn0GjURhuvvWruSIV3lNgYaswaFsBD8GV9BA8Hd6xQp",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TBvivnHGouMfFhObHU8KUpb0RXR98WVTXIZ9P_yDSI0DCwbxOJwxo5456ZGyXNqunVdJWmEKE-P-aimOkKgsuwXi2V9Y47rmw5yNljuCoXzuuci4GaSkf3Qt4d6vTRHSUsbR6KA5etx4xW",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Th2DZ7psFxh9OUY9WRwH3mtfpSp-bnZdar0kYogxQJ94Qc9RhZaZwo1nRlURvnRkVvfT2fCdyKQJbX58i5X95EQVvOwVlECQ3rTICJ1v3mS2HBGEOkGKzIWoJN7XSmxKR3tUQb1VENYmCv",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qx4lKe0HYvAC3PvAJ26qlkS1md19KRA3gV5dWKeUSgXzlIMD12y0D54t1i8c4lmbGrChLEesha674BlmqYvpUjZpU23cqOI3gkctgcYyW5tiW1QnR2jDOnwScMgfJH0ZEef_05VQuYSxk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RkoXf-h6AhuP22WJ8f6b7CWTGKDntaSA6OmVACZBcMRS-mfNGYxgvmNSW_BtQ7hJpu-aFUQK-Ni_Zc0J8E7N2ECbKYUJElKlLSPv-DiIYuXLi3Xa8QqoV5j3nyy4weqMl5DTZaNZRo1jY",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Jeffrey Fuoti",
+   "text": "Fort was fantastic. He arrived in time for both the bidding and completed the work perfectly. We removed over 14 trees in extremely difficult areas due to the pool. Highly recommend!"
+  },
+  {
+   "who": "Guardian",
+   "text": "The team did a fantastic job. They were professional, punctual, and efficient. They safely removed the trees I needed gone and did a great job cleaning up the debris afterward.\nHighly recommend them for anyone looking for quality work at a fair price!"
+  },
+  {
+   "who": "Dan Hudspith",
+   "text": "Took down a bunch of large trees at my house and gave me a great price. The guy never stops working and cleaned up like he was never there. Definitely recommend."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 713-6251."
+  ],
+  [
+   "What areas do you cover?",
+   "Long Valley and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Silvanus Tree Service · Long Valley, NJ · (973) 713-6251",
+ "schema_type": "HomeAndConstructionBusiness"
+}

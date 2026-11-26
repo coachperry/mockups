@@ -1,0 +1,126 @@
+{
+ "name": "Gramajo Tree Service",
+ "town": "Ledgewood",
+ "phone": "(973) 906-8039",
+ "rating": "5.0",
+ "review_count": "160",
+ "areas": [
+  "Ledgewood NJ",
+  "Roxbury NJ",
+  "Morris County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THHeQR8tYxVILqjIFhuCSKkeufOqyDibCEi6fxGBA4KRHPD01d4P_vu2501hTDWYgYZjXUuDrHWy4OHtUPWqdJAagbNsOoga_ihNry60rPvwFpe5wDngijhDgkskEp0GA6L2sQ",
+ "title": "Tree service in Ledgewood, NJ | Gramajo Tree Service",
+ "meta": "Tree service in Ledgewood, NJ. 5.0 stars from 160 Google reviews. Call (973) 906-8039.",
+ "bar": "Tree service in Ledgewood, NJ",
+ "logo": "Gramajo <span>Tree Service</span>",
+ "h1": "Tree service in Ledgewood, done right",
+ "sub": "5.0 stars from 160 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "160",
+   "Google reviews"
+  ],
+  [
+   "Ledgewood",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THHeQR8tYxVILqjIFhuCSKkeufOqyDibCEi6fxGBA4KRHPD01d4P_vu2501hTDWYgYZjXUuDrHWy4OHtUPWqdJAagbNsOoga_ihNry60rPvwFpe5wDngijhDgkskEp0GA6L2sQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RchUPrPFgNX8UwHVz019CiN8oxdN3ekEWLGCKU1V1VMKwq43VpWSg_TSj1uwV4HFDm3K7PsJRiNWZsDHvtx2aAlA-FdzmjnVXbu-DXPLvb477J2lM1SsVNt4Gi3VkDO9oBPksPQQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RprWHVujI33UQL_blr8UlDQbnj3I_WEb9TQB70OlGPMabvmx9AOxgK7ts3fYoznfiYygGir1Qr8KGoklklDAU7jEqX2u1BaiRTcb_j7aRZt-m0VxD128609m6NJ36VgPtTM4og",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qu6iB01iQoFFe1qYx202Apfz6XLeaPilOfZ2igwnuZOPh89__Mb5xOarbYOW0mpEzPxXwWexn1zpYWO5bp9-6rIxb7Y-YVwc8miMhp6UpuC5msZ05kvgsfiHCd2m6JIU3sP49i",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SD_ym43_j9BQcp4TOTayvXlZm8qaBan67I1DXlpAjHvKF7XVcFYKeL7O6MIckjlSOXjvbeSDAx5XbpKsc9q8M97WL1xNZIi4X4pNw9hKYSR7ntK7VDxt2ufe_9v3t4YPYLAYqM",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-tgvdFI4eQ7OpRYbDFvdFcTe-03QdbOgnJM-qmdOdP6b9zfKjGlR5WSTEr73UsH4rAbH3Z00hO9vOn0VT5r1aOhUkB3S8MdsPlbmqm02PGV3KpYp4VrcpgeQN2Ab2gOQuIKFJ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLG5RTNdO77SFbrVx-YzNEz6H__2WLYaT0BzyVQk7lcbiBTAf1SxMV9UItIO_IaGRk8PIV00H0JzAW61cCsKxO10CbBY-mkm8hgIE240kzy8YEpuEfGkVsEQFC9oSmXu1ynzzW",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPbxTafhqrmz4RYJubGqHWEWnjvXoDOSZn0uimZj5hn-fNFF3vs7hLO3qm_HtEV5BTiHyQ_bOa3xIT3q5ME3DyZIujtbwyLyDClU-p7zGCClpVNuHMGW7Nf07bhHEi6AmnWpSE",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Big Dudes Big Foods",
+   "text": "We had multiple trees removed this week by Gramajo Tree 🌲 Service. They were quick, clean and courteous. Elmer and his crew gave us a very professional job at a competitive price.  We would recommend them to anyone."
+  },
+  {
+   "who": "Shannon P",
+   "text": "I love working with this company. They are VERY reasonable for tree removal. They are also honest about what needs to be done and what can be put on the back burner if you have budget constraints.  They are quick to respond to inquiries and to get quotes back to you. I messaged, had a quote and the job done within a week.  I highly recommend."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 906-8039."
+  ],
+  [
+   "What areas do you cover?",
+   "Ledgewood and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Elmer will get back to you.",
+ "footer": "Gramajo Tree Service · Ledgewood, NJ · (973) 906-8039",
+ "schema_type": "HomeAndConstructionBusiness"
+}

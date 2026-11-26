@@ -1,0 +1,129 @@
+{
+ "name": "Luxe Painting",
+ "town": "Morristown",
+ "phone": "(973) 452-9028",
+ "rating": "5.0",
+ "review_count": "20",
+ "areas": [
+  "Morristown NJ",
+  "Morris County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9ZM-UeAtdYWh7BezpBcIJykGtnmvIl4jH2knT3sst2jkpo0abSafcXosfR1xzNgCY7uU3GdxPClLPteZEb-FX--nkByv0hTDBakVteN6_8bzrm7x4MSGXZu0n0HUk_uTjLXR5",
+ "title": "House painting in Morristown, NJ | Luxe Painting",
+ "meta": "House painting in Morristown, NJ. 5.0 stars from 20 Google reviews. Call (973) 452-9028.",
+ "bar": "House painting in Morristown, NJ",
+ "logo": "Luxe <span>Painting</span>",
+ "h1": "House painting in Morristown, done right",
+ "sub": "5.0 stars from 20 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "20",
+   "Google reviews"
+  ],
+  [
+   "Morristown",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 1,
+   "text": "Walls, ceilings and trim with clean, sharp lines."
+  },
+  {
+   "name": "Exterior painting",
+   "photo": 2,
+   "text": "Siding, trim and doors prepped right and painted to last."
+  },
+  {
+   "name": "Cabinets",
+   "photo": 3,
+   "text": "Kitchen cabinets refinished to look brand new."
+  },
+  {
+   "name": "Prep and repairs",
+   "photo": 4,
+   "text": "Drywall and wood repairs before a drop of paint."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9ZM-UeAtdYWh7BezpBcIJykGtnmvIl4jH2knT3sst2jkpo0abSafcXosfR1xzNgCY7uU3GdxPClLPteZEb-FX--nkByv0hTDBakVteN6_8bzrm7x4MSGXZu0n0HUk_uTjLXR5",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QLBDNyuwGB92H9tQBxLSInCQ0zHhhiIJMi9PEMuT2ojsESNMdgdglZTF_t5l7bHurLsHJROohZ9z3xaVWIpgflYBA7MUWweyXXqLj21d4zWulxG69KR3BQC22oBH8QSi0-BnI2",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QpFjMGdlYKhIhGIwuySySZhQj8oo-jSN797djpF3RDwnPsjUUAEhBt0ofwMLTB2oY_4GCbotern0NTdutLyZ0RdqfvohPGB_9grd7Ybd0A4S3W_0WnBJV-CO3h8tiT4Vx_QZnkWQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Thvwfh-5y1cNE3aC9t9d476XWaEbNBwvHtkVIUOF9gFYxPVlMnlAszcR83tUHk1WaI0_QBw0e95zfFUmS_DnlKdfIsG4d5c_j1rF4zlpAjO75hHWQbxcvXisxHyE1h8SJZp6PH",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdHh5nCHN0M8qDUXFGfUMd3ao4XT3BVFIZQMzUHFjLz9bhBwhr4VRSWof9x8d8KnXQuuBRQQrwsWoWfNAamijBbxeWAHXuSzhXODwSwjtXgV6BJaPBG0fm8Nrj2pxhElnjCUFR",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNUWAzJDqkcniXK6EmmZIevkpul57b6AlB3AEuSl8MO_6N8jtyhCJTtqe-JCzA5lZ7sTLvJWynGmqFRD2TuIfSTcs4b3AMwfQF4ELiZowxwZTSJWomXreepBu0DyyXdi5UJtQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rr1N9v-oBa-kckegmr6sNoaFOmODROp8xNiITeyv82W327U7ETYJAqY0oji7iMVRfOGiqg-hpZekRgEf6fyscKGPnmyQrmPAtt9cu41addlSCKSrqBS2eQcWOlllEgDDZ6vJRa",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDHr67SxQUGROGJSZC29Xw3lAqXoIL2HTg3OGw2F1yq5GLikuto1T57dVfEAYkj0fQvKXuVBs3u6-dlJXGQip-eg5kttHTCHve9rrAOEFUrKoW_wrMtu00YWZVnnq5LiRrNlVv",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Tracey ROth",
+   "text": "The guys at Lux did a great job. They were extremely through and meticulous in getting the work done and always cleaned up at end of day.  Definitely use them again"
+  },
+  {
+   "who": "Ben Fox Rubin",
+   "text": "Juan and team are very detail oriented, precise and easy to work with. They fixed up and repainted the whole first floor, repairing cracks, dents and holes, replacing drywall sections where needed and adding a fresh coat of paint. Thank you!"
+  },
+  {
+   "who": "Deborah Smith-Gregory",
+   "text": "Meticulous worker!  The space is beautiful. Prepared the walls, took care to cover railings, steps, they did an excellent job and I would certainly recommend them !"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 452-9028."
+  ],
+  [
+   "What areas do you cover?",
+   "Morristown and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Juan will get back to you.",
+ "footer": "Luxe Painting · Morristown, NJ · (973) 452-9028",
+ "schema_type": "HousePainter"
+}
