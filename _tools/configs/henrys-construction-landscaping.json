@@ -1,0 +1,134 @@
+{
+ "name": "Henry's Construction & Landscaping",
+ "town": "Livingston",
+ "phone": "(973) 855-1977",
+ "rating": "5.0",
+ "review_count": "13",
+ "areas": [
+  "Livingston NJ",
+  "Short Hills NJ",
+  "Essex County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIfhYuYdrR88PAOIvEKJk8nNuN59dC2ZwmTi1ObYrIbBKeDpaE94bsDRSfBX32wIOBXzh-e6W2evUFFG5ti7I6WChXtCEpuquyPQfQ0lgdhzzzoXn-1PuJawzDlTzq62fDlRohtkHeSHBP",
+ "title": "Landscaping in Livingston, NJ | Henry's Construction & Landscaping",
+ "meta": "Landscaping in Livingston, NJ. 5.0 stars from 13 Google reviews. Call (973) 855-1977.",
+ "bar": "Landscaping in Livingston, NJ",
+ "logo": "Henry's <span>Construction & Landscaping</span>",
+ "h1": "Landscaping in Livingston, done right",
+ "sub": "5.0 stars from 13 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "13",
+   "Google reviews"
+  ],
+  [
+   "Livingston",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIfhYuYdrR88PAOIvEKJk8nNuN59dC2ZwmTi1ObYrIbBKeDpaE94bsDRSfBX32wIOBXzh-e6W2evUFFG5ti7I6WChXtCEpuquyPQfQ0lgdhzzzoXn-1PuJawzDlTzq62fDlRohtkHeSHBP",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SKEz5inst_nEXZs15jxYqLN0dRQ7G4u52qaS5HozYjioEqoG-h97xoYhM1_FPLfwCQHvuA_aOUAn6udFC47m9ShZ5gSaa2uHVauD0xb1vepCfY1TgEqNftnv4yO-W2C2jzWU7Tv8j4F4M",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RYZCJ-64kcHqbJeZKcvon0PEfs_aSj6xs0Y0oc8TqGbzB8amNZxvLTpDDoNVV85YMK3q5DwVQRJVYSPtxuRdnI-9MUwUe5-GXXViJAnoTupJa-E50U2Gw0b9Dptg9bX4VGh4duDkSPmbo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz3mBoypg1AoHKy_f5FsRradXwrhL9XHrjlw7GRj24bmDdcWG0ZjVWIFw-rJ6tAY2pZWFIAOmao2VzhG6IQ9eb0DkFdtYpZL5Admtnfd2C2SfNeIEUWjMHjXnyEp1iQWtBd8C8pLu5avO2",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGlOilGLYJ3sgFENcEuThHNqGQ7BQp_BaiLth7-d-rjAWJ1xBEXJaSiHl9m0_BxQ3B9HyFxRM2eAjdpCYQat1buUqz26_UCeN1uA6FdRut8V3cFFMBW9yKAStoG-XPqdmnSMwHeKYjBWp_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TCxhiV6YulY1E6hjLLO9DXc7cSuw7ur_E3cwnH6sdt5bxJuE2ekNbdm9OfMPtuS_ZZxWQSQzrcWUvGfarM2IMtTepf78563DR0WHk9XhGLy-bbtuWixH4k8h7TaGvw8NDupqF9Tal1jMHm",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TRPm21wW5ELj7pHnekKM5aMqly-QunMG8MBxlphm3PiGJP-9bZzPfqygRZYVBVMk0jZu2deK3pEBXKlJ2AWmYVoY0T9xZDaYFGK9suil66IeTWsil0EFGlVjmpa4_gJXgHPjLcpuAckjUE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjg0ljuWeUrFJcPqrRwPHaTnCd46jyP15HnJygvLru5ntn5hXcH9_AQCuQYyqgM-K-0kuIK9nKN_I43DUjcOhn8CJOeiEp4uw3o6hHzSqjfHWQUZ9O3lmR3Z4dq2PjTGpUaljSWw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6l4jqD6pEkD7FjAuBOK-tlKT1cltRRPSB7CD3tpr3aHFkLE2QZ7Xr8u57YNNC4DKkGRwlURb8PCT6bs77VX5PEAQ914kADbEicnMVEC_sEVRQ6if_UaB_l2Itc0CQWWaj2_Z4",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "mina",
+   "text": "Great experience with their construction services! They did excellent work, were professional and reliable, and made sure everything was done right. The quality of their work was outstanding, and the whole process went smoothly. I highly recommend them to anyone looking for dependable construction services!"
+  },
+  {
+   "who": "Gurpreet Singh",
+   "text": "Really good customer service. Very polite people/workers. I highly recommend people to come here."
+  },
+  {
+   "who": "arkiives",
+   "text": "Great company with excellent service! Very professional, reliable, and hardworking. 10/10."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 855-1977."
+  ],
+  [
+   "What areas do you cover?",
+   "Livingston and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Henry will get back to you.",
+ "footer": "Henry's Construction & Landscaping · Livingston, NJ · (973) 855-1977",
+ "schema_type": "LandscapingBusiness"
+}
