@@ -1,0 +1,141 @@
+{
+ "name": "P & A Painting & Carpentry",
+ "town": "North Jersey",
+ "phone": "(973) 345-1104",
+ "rating": "4.9",
+ "review_count": "64",
+ "areas": [
+  "Passaic County NJ",
+  "Bergen County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPYBbls9QVZS_h6BFhyC4i1t8jlrDLrYGJ17JqiV75OnL-mOCJ345EASP2U8GGaRf8XIlxocwAUDuIWsEeroLyGj97Q89N4_TEQovNboFLikP5W4tLYtr_wP54tB41dBt7NFBv",
+ "title": "House painting in North Jersey, NJ | P & A Painting & Carpentry",
+ "meta": "House painting in North Jersey, NJ. 4.9 stars from 64 Google reviews. Call (973) 345-1104.",
+ "bar": "House painting in North Jersey, NJ",
+ "logo": "P <span>& A Painting & Carpentry</span>",
+ "h1": "House painting in North Jersey, done right",
+ "sub": "4.9 stars from 64 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "64",
+   "Google reviews"
+  ],
+  [
+   "North Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 1,
+   "text": "Walls, ceilings and trim with clean, sharp lines."
+  },
+  {
+   "name": "Exterior painting",
+   "photo": 2,
+   "text": "Siding, trim and doors prepped right and painted to last."
+  },
+  {
+   "name": "Cabinets",
+   "photo": 3,
+   "text": "Kitchen cabinets refinished to look brand new."
+  },
+  {
+   "name": "Prep and repairs",
+   "photo": 4,
+   "text": "Drywall and wood repairs before a drop of paint."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPYBbls9QVZS_h6BFhyC4i1t8jlrDLrYGJ17JqiV75OnL-mOCJ345EASP2U8GGaRf8XIlxocwAUDuIWsEeroLyGj97Q89N4_TEQovNboFLikP5W4tLYtr_wP54tB41dBt7NFBv",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SAz-lS4l5K0XTf3ESxPJ-DXd_QB5leB_042BWgEikw_pIDVGPvG30r8_cp_vdTp0LizadaMmp1aRgATtE8QKGwYfpUUA4BMLXEpY4lEC0xIcedFRnBB5HzbSzjXFr6_bMy7Cymx0V0xfrM",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5ZB5TQ9vLxWDzGcBVV9q8osz4g3UUBaye7EoRJWdNQftXGK6uxbPF9i53oVYS-BBkLA3Xl3OjJ1GTZUUlZXSEHHRoGfOM5mruIs6sFMjTUKQeTXRgh96e50nzwf28dwj53RH1Ng",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeP6rNcuNXeE_U_YCTJUXvwdwFG6i2n51hVRuYyz6T0-4w_SHiplJGNAvoW0G3_H6VZpqSlw_GH51S86MxvlmuM5CUbE0HKI9VeEpbzvo1pHvO7Jmgk1qw6gwA9sWk5H1G5r17M",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXuvxtfPc_WuCRBueD9FuQKmU2rz-qdfJ99cAqQNqoU3OusZOO6_AJH4K6Tdsa7VISfZdpFvluN3EL5GBzPJcT3X_JOBS5QpTG3FbK8D5AIKpzMMmA_WwZDAaxxcZEIMwbXB8syN9Zpdcu",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHOJKZo9HxF7sJS6DyJYk5_TJyfnGGr6GDPoYvWxhh7vo8hbSkg509xFhvQTSXwVmuYSrP-S6Uk895W9nyLZOCnr7znk1Mx-qEIs5VolGut1zjJcgzooW1IGmcRih1JJrPpcopeHpoPCtn",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSQ4STfkX4F4QtUx7efEwe7G2bVJMnX7HYDMRLsamUhT91zIMH15pU99Xrz9mKl8TVdxFtOA7QFel1fx2bmEW1zSh_7FR4d80IYJTOXuoMXlNbcJ4bWQkIfmSvhUZr7UsVxcxr",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDlRazv12n9uFq58z_qwukQpPYuV6xR43WTBS9fSXqd9y0aYVa0Pl10zmrJffBg5qr6T8V8zO1viE2jR704sxVtDK387_RLKhRgJRqZQyJw6-v5o3LFMbi30lTleIJmWy18E5AbI88JWmH",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbflvJNGyw8Zsg1Kq67kDItAQdpENQM-I2CSC2FrA6rBVJPfZ5CvvNBSkhXJb-mrwGm0D-rbyIEYNmkBbndszsYbNh7yAZqJQuHbiTeqzi8D_ug0JOJamICaGUBhOF8X7Heq-SYg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUVSHhuNQmDqeAJDQsTz8sUYrvsA42W5w11VsinE78GvCAfO6aYJLnae-BKC8MN9KsXqjNwPQLm2OdiBdrvTiQBEj8KTxZWNOvggq0obe4W29PJ64BSRfyeJZ3qeL3Yx2Nw8tROA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Paul Adams",
+   "text": "We've been using P&A Painting & Carpentry since 2014 for exterior house painting. For the job just finished, Andreas Jr. and his crew once again did an outstanding job including power washing our concrete and repairs to some weathered wood trim. They are trustworthy, punctual, and very pleasant to deal with. I will continue using P&A for my painting needs."
+  },
+  {
+   "who": "Hao To",
+   "text": "P&A helped us scrape away a century of old paint on the front columns of our old colonial. They then meticulously prepped the area and finished with a fresh coat of paint. It brought new life to our front porch. Highly recommend Andreas. Professional, courteous, and reasonable pricing."
+  },
+  {
+   "who": "Diane Dougherty",
+   "text": "P&A painting, Andreas and his crew did excellent, meticulous work in our home.  It was a big job that required extensive prep work and throughout Andreas was flexible and the finished work looks great!"
+  },
+  {
+   "who": "Jayne Barrett",
+   "text": "I cannot recommend this painter highly enough! He just finished painting the interior of my home, and the results are absolutely flawless. From start to finish, his work was excellent, professional, and incredibly neat. He paid attention to every single detail, showed up on time, and left my home spotless. If you are looking for a skilled, reliable painter who does top-tier work, look no further. I will definitely be hiring him again for future projects!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 345-1104."
+  ],
+  [
+   "What areas do you cover?",
+   "North Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Andreas will get back to you.",
+ "footer": "P & A Painting & Carpentry · North Jersey, NJ · (973) 345-1104",
+ "schema_type": "HousePainter"
+}
