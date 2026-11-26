@@ -1,0 +1,130 @@
+{
+ "name": "Mark's Home Improvement",
+ "town": "Mercer County",
+ "phone": "(609) 743-9610",
+ "rating": "4.9",
+ "review_count": "31",
+ "areas": [
+  "Mercer County NJ",
+  "Princeton NJ",
+  "Hamilton NJ"
+ ],
+ "palette": {
+  "ink": "#1a1f24",
+  "accent": "#d07a2a",
+  "paper": "#f4f3f0"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TElPGhvZme_1uIVhmNrfZJpz9Te_vlnKyKVGp-MK2yJusFFzXmNhmzKEfvtHnwxftwsl9hQBQIQxZJOZ4JTRasIx_WmPx7jLZSb4rJQBxuGj1vnfsmUpqpYiNF0nqXOTe4RytePA",
+ "title": "Home contracting in Mercer County, NJ | Mark's Home Improvement",
+ "meta": "Home contracting in Mercer County, NJ. 4.9 stars from 31 Google reviews. Call (609) 743-9610.",
+ "bar": "Home contracting in Mercer County, NJ",
+ "logo": "Mark's <span>Home Improvement</span>",
+ "h1": "Home contracting in Mercer County, done right",
+ "sub": "4.9 stars from 31 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "31",
+   "Google reviews"
+  ],
+  [
+   "Mercer County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Additions and renovations",
+   "photo": 1,
+   "text": "Bigger living space built right."
+  },
+  {
+   "name": "Kitchens and baths",
+   "photo": 2,
+   "text": "Remodels handled start to finish."
+  },
+  {
+   "name": "Decks and exteriors",
+   "photo": 3,
+   "text": "Decks, siding and outside work."
+  },
+  {
+   "name": "Repairs",
+   "photo": 4,
+   "text": "The jobs other contractors won't call back on."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TElPGhvZme_1uIVhmNrfZJpz9Te_vlnKyKVGp-MK2yJusFFzXmNhmzKEfvtHnwxftwsl9hQBQIQxZJOZ4JTRasIx_WmPx7jLZSb4rJQBxuGj1vnfsmUpqpYiNF0nqXOTe4RytePA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TeWjV02CbIATvmRglKFdOUotRWBFKjNB1VH4IgnxwDLtpw_IrWD0-xjFcQJq_sp5edNUwvhMyX0x8t8rHpR6a4ds6P1lHlDukiWgEbbkyyP7PzcD-OtLVIfWu-s2remdtIxw3Y",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9Bi03ruhrOpeEiFFik14kFkRYqn7P5TDHQWIsOHrK-QUKsePRi_HNWT7MyzlR1fbQqQovc2TrT2Y3f5y5T1bWCKBiYu50izUMQmYl0ywrZnBYsr8TtGRIR8k8grVZS9XDxDj9",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDZmcA5icO2YZCrdRGKiJI-PXgl5B380plv7Z1QjLNMTvhe3EYI3qQWK1uEgCCC-yC0PrZfXPDHEDt1KQJ5bnhBErZRV46Ew1lbzmfUcsjLihbulyAtGlSsnNKdQQgHvEnYVbfbw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-ccznnR0mxfnV0q3idSNgeZ4oj7YXdpMituB9uUJULTub3cPxe-9sezzeVIL_Nr0An_qOAjLo4MakybSHPtua1V0unLsu3uGUQP-zYkoPs9YZ7ZnY7vPub-8NsyE5jYl7yudzdA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnfUt3QoRF7y1JZbTzX0gF-qr6FRB5GC_56pt4UUfddbCODjQdHlV3tzcAn9LPUvtGA80Tx5ZhoHi6nlx3Cf9BJFYVfzL6Unrdo00ZWGvFK4Zsv83w2gvNJVxkQ0_B5B2dUoTl",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwHqyxbvh3H8buUWJD6QIxEcUGA6j7aTN_OW9ZBcE7JY3PEjbNw0D5sau8T5MyA3H-g0Au7NlbjAFEP7TA_QIh9V-3Ys3nfJdMuyQ9BdkSbnfiFzrM1-2qG9e0b9vjrBFLqntT",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjdkzVJj4QYYoW1Sp0SEK89llpMidYf3VeA0bk9YvWpCGMlTxq548ypecCXbs-bhheKUAl4zvHIKIz9b7rjvDGE-ys36nn0ctohSlhOzmywcPkKds_Fk4uAysN6aSUWx9Rjein",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Crystal Sydor",
+   "text": "Mark is knowledgeable, trustworthy and has always provided superior service and results. He responds in a timely manner and does his best to get your project on his schedule as soon as possible.  We have had him do several home improvement jobs since purchasing our home two years ago. He is our first call when we need something repaired or installed."
+  },
+  {
+   "who": "Jessie Phillips",
+   "text": "As a realtor it is important to have contractors that you can depend on to be available for estimates and most importantly stay on schedule and on budget.  I have recommended and personally used Mark's services since 2005 with no complaints from anyone.  All clients have been satisfied with pricing and workmanship and especially commitment to appointments, communication and deadlines."
+  },
+  {
+   "who": "Joe Seghatoleslami",
+   "text": "Had Mark in to replace some old sliding closet doors. His pricing was fair, he was always on-time, and the work was done well. Will definitely call Mark again for my next project!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 743-9610."
+  ],
+  [
+   "What areas do you cover?",
+   "Mercer County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Mark will get back to you.",
+ "footer": "Mark's Home Improvement · Mercer County, NJ · (609) 743-9610",
+ "schema_type": "GeneralContractor"
+}
