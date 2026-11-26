@@ -1,0 +1,134 @@
+{
+ "name": "Kensington Home Services",
+ "town": "Summit",
+ "phone": "(908) 680-0080",
+ "rating": "5.0",
+ "review_count": "20",
+ "areas": [
+  "Summit NJ",
+  "New Providence NJ",
+  "Union County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9To8BKOuI1aEDAoCGwik51IiPda91OfCsySwg7kKT_dTUc0sWssImBRUt9mEr7BGvG8wx6f1eRREOhZT22RDaa9JOMpwno9lmaUA-dm8ra7W3t0jIxpSGkKa6BW7OATkv3aYp2a",
+ "title": "Remodeling in Summit, NJ | Kensington Home Services",
+ "meta": "Remodeling in Summit, NJ. 5.0 stars from 20 Google reviews. Call (908) 680-0080.",
+ "bar": "Remodeling in Summit, NJ",
+ "logo": "Kensington <span>Home Services</span>",
+ "h1": "Remodeling in Summit, done right",
+ "sub": "5.0 stars from 20 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "20",
+   "Google reviews"
+  ],
+  [
+   "Summit",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 4,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9To8BKOuI1aEDAoCGwik51IiPda91OfCsySwg7kKT_dTUc0sWssImBRUt9mEr7BGvG8wx6f1eRREOhZT22RDaa9JOMpwno9lmaUA-dm8ra7W3t0jIxpSGkKa6BW7OATkv3aYp2a",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QqmyQGIZtJfD3Rtnfk3UjYUF7l_hak7guylB2JUWQM55XyggDQNtQJuM8hP928PNN7cwDjzLPI-jGKUjZxYHxRuaQbfQS6YnNpJkA1-PJQVV_NfEye5VzClxKWnLR4mNoqsU88bQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8FwIq3ozXQ4KpIf1XgN14RW6I4uwRfkrEngexVQav3Zsl5NHZdgwMr4OyI4vZzWEs2QRD8qSccsdFwD95MQ5rDyu8T62IbQEq1ARGqdZAqgZiIZ3mqWTF3K2m3a2veWLQGEkA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QSAUFH9ClMYsdwIzHYl7a8o2Xth_2BvmogkNDwY20xfCaZyPSYIootHO21j-U62mjtih29qvgwDEa1e8Nd4RHoirvPMjUCri0EN0ARWuF0mlA64IR5ifUOHgs7qsqM_KDpQCOd",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf05Hu36S2zzJNRbQwhkFO20BXaB1LYyNzgQcdfs7iwAY9oIR94R40_XaDI51_e33k6djxUSqsjQJjhSIALR_kShzg4UTAsTYDtC1INcuq8Cab7d0g_A_KUuYWjy2KLFNjc5bRt",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc54s1V1wdOUsXMN1y2TiV80HGAfXG09HtYB455E_MEKOgTQQTdj2klchdvAVe_cVaqqL6JEZ-DHM4osZcY8YzrAvxgJxuGNdmtSxEkS8_eJlC5IS8FEvhykoH7NfTyrxicQIFHMg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLff3hoIa07t4Ubpx4SJx-7rM9kY2V-gpvaz8yKYAT5Di-Y-ZqU-7VoMA1JsicxnYvDToqdkZ5sFjzcqbFOtodH3d8IIpX5-r33bzyYpdBMhGB9OeG6mveCgXubzQNClioNqOIZv",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcS1qWyJ-Vl8rmhPvaDkgulZOZTIafCvR5JSUpY0R9uC-2rFhExZ4ZYpYrjSlW9o1Og9jyzjXFJCeRAlHPuIUSEJDeluI9pONxzX9eMrxIqNExhX1n4x28ksThJTOOTFhTxMgJL6g",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePU9fOJKsSdQlSdGdlbqzlhZUxmpNGON3DDlJOuQPOobN7z-Trd_vlJVaqXas_xykIzugez1flamOo6YT53MKFDX0ybOemL6gSdQfdRc5vyKDgCrwVt58nZXWxqO0K8ScDqI8f",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Melissa Haile-Mariam",
+   "text": "Kensington Home Services did an amazing job on our bathroom renovation. We had to do a full demo and rebuild, and we are so pleased with the results. Bruce, Dean, and Joe were all extremely professional, knowledgeable, and pleasant to work with. We truly appreciated their attention to detail and craftsmanship."
+  },
+  {
+   "who": "Max Billek",
+   "text": "We hired Kensington to remodel our bathroom. It was a big job. Our existing bathroom was a mess and needed to be entirely ripped out and replaced. Bruce was extremely professional. He was prompt, courteous, and fair. Joe did a wonderful job. He was hard-working, prompt, professional and skilled. The bathroom turned out great. They kept to their estimate. The work was done on time. They were easy to work with and, overall, we can’t say enough good things."
+  },
+  {
+   "who": "Chelsea Sheridan",
+   "text": "Joe was fast, efficient and friendly. He helped us build shelving for our nursery, and spackled our plaster walls where they were uneven. We are very pleased overall with our experience with Kensington Home, and would definitely use them again!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 680-0080."
+  ],
+  [
+   "What areas do you cover?",
+   "Summit and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Bruce will get back to you.",
+ "footer": "Kensington Home Services · Summit, NJ · (908) 680-0080",
+ "schema_type": "GeneralContractor"
+}
