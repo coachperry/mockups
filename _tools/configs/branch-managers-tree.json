@@ -1,0 +1,113 @@
+{
+ "name": "Branch Managers Tree Service",
+ "town": "Monmouth County",
+ "phone": "(732) 535-2223",
+ "rating": "5.0",
+ "review_count": "21",
+ "areas": [
+  "Monmouth County NJ",
+  "Middlesex County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SzJBgLsN-fmduaBT2sC54N2tY0ULU5ZbNyoNgT6SG4P8VSJJ2U5_3whVcIeEQ4SmrJPYWYp4BlyCe910OWyEnUvvH9Ce47bgJAKBXtoRKbavaKWrRCrMCz1FulfKZztngHr2vhkw",
+ "title": "Tree service in Monmouth County, NJ | Branch Managers Tree Service",
+ "meta": "Tree service in Monmouth County, NJ. 5.0 stars from 21 Google reviews. Call (732) 535-2223.",
+ "bar": "Tree service in Monmouth County, NJ",
+ "logo": "Branch <span>Managers Tree Service</span>",
+ "h1": "Tree service in Central Jersey, done right",
+ "sub": "5.0 stars from 21 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "21",
+   "Google reviews"
+  ],
+  [
+   "Monmouth County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 3,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SzJBgLsN-fmduaBT2sC54N2tY0ULU5ZbNyoNgT6SG4P8VSJJ2U5_3whVcIeEQ4SmrJPYWYp4BlyCe910OWyEnUvvH9Ce47bgJAKBXtoRKbavaKWrRCrMCz1FulfKZztngHr2vhkw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2I9uG-cqo5cdKpjJnffpHQ0sDPGMejIgNOtJOOT7IoaJgVGWifF7HEeHuH6VqwjeVKhEpE4IpUPzfE5Pe9jn52yNldXkTQk6ohdlx03XgKYzyMGDZQ6OdXwxyD-_zN4K1hO9El9miGwR1",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV4hsR67xWotbc4wIrtgl-J14S2LC59stWZQ-0q3iz-UYhAp4Ecj_JEfnR1DJQBALEZl1O_ZqYTi8Jsjb_jYG1O23WGtut6abBBoxP4006o7m-Q9vS3tp71ifyu6SKfKpVBDvLuw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd3HhPHZJRx-pdLttoC3xkBdJXoxN-xZk9bU9A1iNGibBkxzUtxMmYal6NsWGlo7fPcNTG2amJjhs2bucb_s3DtATwTYCl5Hgkia1GxN_6yTJhgn0_cTOyTb548dqRcMudYVA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Kelly White",
+   "text": "Todd and his crew removed a giant oak tree right next to my house and another big tree in the yard.  Todd was super easy to talk to and followed through far exceeding my expectations.  The crew worked the entire day getting everything cleaned up and removed.  If it wasn’t for the missing trees you would never know they were there.  Also extremely reasonably priced considering all of the equipment required.  Highly recommend"
+  },
+  {
+   "who": "Julie Lyons",
+   "text": "My neighbor had them working on his property. I asked if they could take a look at my oversized maple. Todd came over right then and there and, not only did he quote me a reasonable price but he took care of it before he/they left that day.  I would highly recommend Branch Managers. I was so pleased I have them coming back to trim my backyard green giants!"
+  },
+  {
+   "who": "Kate Ab",
+   "text": "Highly recommend Branch Managers tree service company, super efficient, great prices, professional team, the property looks beautiful and very neat! Todd the owner is knowledgeable and gives you all the options to choose from, very happy going with this company"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 535-2223."
+  ],
+  [
+   "What areas do you cover?",
+   "Monmouth County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Todd will get back to you.",
+ "footer": "Branch Managers Tree Service · Monmouth County, NJ · (732) 535-2223",
+ "schema_type": "HomeAndConstructionBusiness"
+}
