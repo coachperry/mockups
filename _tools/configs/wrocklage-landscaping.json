@@ -1,0 +1,142 @@
+{
+ "name": "Wrocklage Landscaping",
+ "town": "Oakland",
+ "phone": "(551) 207-1124",
+ "rating": "5.0",
+ "review_count": "12",
+ "areas": [
+  "Oakland NJ",
+  "Franklin Lakes NJ",
+  "Wyckoff NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RG0_P0VfCPDo_bFiFkZFkjbfEp6D5q3HDs8E39dXVoorVYeqdNG1L1FfE5LvjDYRd7fp_omY_6698Vuz4vFbiLTNAHbtxMh59cpgBrFROjcBxy5t991heL80ySTdVDTQMb28SOdxttuP3z",
+ "title": "Landscaping in Oakland, NJ | Wrocklage Landscaping",
+ "meta": "Landscaping in Oakland, NJ. 5.0 stars from 12 Google reviews. Call (551) 207-1124.",
+ "bar": "Landscaping in Oakland, NJ",
+ "logo": "Wrocklage <span>Landscaping</span>",
+ "h1": "Landscaping in Oakland, done right",
+ "sub": "5.0 stars from 12 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "12",
+   "Google reviews"
+  ],
+  [
+   "Oakland",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RG0_P0VfCPDo_bFiFkZFkjbfEp6D5q3HDs8E39dXVoorVYeqdNG1L1FfE5LvjDYRd7fp_omY_6698Vuz4vFbiLTNAHbtxMh59cpgBrFROjcBxy5t991heL80ySTdVDTQMb28SOdxttuP3z",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDULgvY-BgTwYMqu0gVzzOmJFoL5IcFgZszsrVLRE0Yfsq3ZixnJcL_QUAv2sevh9aq5luQxADjh2fncZeVeSegOqU64Jx6JN2INSARFoSn08LX6_bCKzobOVFuq6kltpNBR0HBPVkIQOc",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q1XHfkQRKJyHCBnA6e3qh82ws8r3NCKdQUtlBANLCVmDEP6yzTMzukILpJ1nAkNeo6KIJ2DShK2svu0Yp0_usq7rbIzH1SN5IdG63mhqltcUe6cAbTiLGxJX4T_3GD6u9ToI1sjyMAcQXD",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeabnqBAc1AiRNEDdzrfkXgZ6YCXfZr5XSu-3TCSVa7KJQRxbuJNesF_AkdOKyPQ4tKHkfZ02uYl5YwnsrfO8F1xouqjkfC2jNjxczf5YWEj5soOAiJy1JjR0U8TJBdo-oJ2Zyx02YyKKDu",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUCCCA5ZF6-_Mc2SQa58LkmrntmhXakojmF-Oo2BimqK0wlhkjCc9qzr2UpI2fI68Ti4kdGA1Pp5NvNbJNqKKgEjH91c4tL2V2X3Dr-SiAtipKApoUpLcr3sCrxh8fkR-lUJZHxhaD3P29",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0yBWTKMJMJryUX3CjRF3qi8JLTxF02ocJ-6Uy00TcjBt_IbGmlU0Xtw_f2_eUYjqL2wtVq723aQhoEpib94Mi1yzdO6zH0PlZdAv246WTDLw-13CDFfso94Vj4lEZoogZuN7mABwhAEo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLci5x-RAYfnMCjFGxzStKLApoV241EHSrvblTDli_t36QSlEY19l_aq1ADufCrEyG9nKMPOgwxS6rWhsy2aotx9qnV1M9fYELGjUP9oubKn9q10PDI_USiWvIi7Stcy4Tq8y6fie9S1KbrN",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVBIwXULLwnZTn5hZsA4EiGE-ov-mulnsoNMegE8Ki-73nQ9Fgg88L3ORt2OiOwomjk23fkvWcAei5BhaIMs8uCR2b8ZAV_VGl3ZWUaBIlA-FaB8EMzaWzqDli_w5tPAvR-eZ_84MeUVYx",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJeGb9xcJlSia8rY75v92Qh4jtJzYztQuMgNpQxiKhhSIJGLZhi-iw6I7TOTcgsLeASsyXNmgaAYKWFvFNtuu_DIbRg2tBxOvt28BA98_kWnaCNB_iwiRS0WZNXMyUL957svZUEB4VgYuK",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSaXBddCNAe_PHOjBaS3L3OxvXlriKSE9Shuornd3H6pX08UYbhZx2akkiJ_ZPh1GuZ1jgLY88R6I4jefYflal4UsQ3UkpJjVm_pMjUhX5x1tkW4lEOnSzdZONVEHNkTO_600amECnImI",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Wes Kelly",
+   "text": "Overall, extremely pleased with our project from Wrocklage Landscaping.  They removed two elevated beds from our yard.  The team brought the appropriate equipment to remove and level off the bed and replaced with sod.  A pleasure to work with-Brian and the team’s positive attitude and focus on the customer made for a great experience."
+  },
+  {
+   "who": "Hershey Groff",
+   "text": "Wrocklage Landscaping and the owner Brian are wonderful to deal with.  Brian and his crews go the extra mile, are dependable and trustworthy, and always do quality work.  I have worked with Wrocklage Landscaping for years on numerous projects and cannot recommend them enough to anyone interested in landscaping or masonry services."
+  },
+  {
+   "who": "Mary Kunz",
+   "text": "I can not say enough good things about my dealings with Wrocklage Landscaping.  They maintain my lawn and perform cleanups in spring and fall. Whenever I have had special requests, the response has been immediate, helpful, and beautiful. I’m really thankful to have Brian’s services"
+  },
+  {
+   "who": "Alex Bari",
+   "text": "Absolute pleasure to work with from start to finish. Brian is timely, and always maintains a professional and positive outlook.He is responsive and does a great job of keeping you in the loop. Sod installation went smoothly and I could not be more happy.\n\n10/10 recommend, A++"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (551) 207-1124."
+  ],
+  [
+   "What areas do you cover?",
+   "Oakland and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Brian will get back to you.",
+ "footer": "Wrocklage Landscaping · Oakland, NJ · (551) 207-1124",
+ "schema_type": "LandscapingBusiness"
+}
