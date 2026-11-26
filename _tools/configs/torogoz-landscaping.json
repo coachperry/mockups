@@ -1,0 +1,138 @@
+{
+ "name": "Torogoz Landscaping",
+ "town": "Franklin Lakes",
+ "phone": "(973) 742-1241",
+ "rating": "4.7",
+ "review_count": "13",
+ "areas": [
+  "Franklin Lakes NJ",
+  "Wyckoff NJ",
+  "Oakland NJ"
+ ],
+ "palette": {
+  "ink": "#1f1d1a",
+  "accent": "#b5793a",
+  "paper": "#f5f1ea"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2D8JJSyEcVv_d_vdpOgjsDc64Iiri4MLVCFVK4TUIPwarvgHEIw51sYIdlUrHb8FRFrFnAOpgTXAmftDmJqVjjjKFSUhNgP-SaClB9j4lw0hMRCK8BG62yQ9HA7s8FL7jfbpd9Q",
+ "title": "Hardscaping and pavers in Franklin Lakes, NJ | Torogoz Landscaping",
+ "meta": "Hardscaping and pavers in Franklin Lakes, NJ. 4.7 stars from 13 Google reviews. Call (973) 742-1241.",
+ "bar": "Hardscaping and pavers in Franklin Lakes, NJ",
+ "logo": "Torogoz <span>Landscaping</span>",
+ "h1": "Hardscaping and pavers in Franklin Lakes, done right",
+ "sub": "4.7 stars from 13 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.7★",
+   "Google rating"
+  ],
+  [
+   "13",
+   "Google reviews"
+  ],
+  [
+   "Franklin Lakes",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Paver patios",
+   "photo": 1,
+   "text": "Patios built on a solid base so they stay flat and tight."
+  },
+  {
+   "name": "Driveways",
+   "photo": 2,
+   "text": "Paver and stone driveways that make the whole house look better."
+  },
+  {
+   "name": "Walls and steps",
+   "photo": 3,
+   "text": "Retaining walls, seating walls and front steps."
+  },
+  {
+   "name": "Fire pits and outdoor living",
+   "photo": 4,
+   "text": "Backyard spaces built for real use."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2D8JJSyEcVv_d_vdpOgjsDc64Iiri4MLVCFVK4TUIPwarvgHEIw51sYIdlUrHb8FRFrFnAOpgTXAmftDmJqVjjjKFSUhNgP-SaClB9j4lw0hMRCK8BG62yQ9HA7s8FL7jfbpd9Q",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-D5TNIUUBdH55LNO_DJQvO4n7RU6yXt_Msx2FV_scZMrQyLaRYdmDwK3dO9RdSvp1OSzXJ3f_c7m0cxuWdMZ0ymTdBBtylhXZn8EBPJUqMCxwP0-WmrwVxVEX4yecSTR3QOyV",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TcNTJK6w30RjJKSoIcYHZeTwtbV3IBAOE-3i4dlucy9yDo8T91_GnOVi0_xRYaSGywBhJnbbDnVp600RIx6YInYOrW3Nha25LPZ74O-_fARcafsyUVNrXH3Af4ZxUIT65pcU-Jmw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rwt4SFe0JZTFW7BhOIR0684g3W83avmYpCPYmM-EpLnU0gNZNTYivwVC-sP7e8nXtnWiF8lYlFQA0JNic_qlOV-ALDWMcOA4Lk_S3s08YxobKr4cU2hgLHq1STQ1h9cCKi96Yo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RvDMQWN5d1_VuwwDgFqKNg-tDFnyMjiFfz7WlGL4-7q9rhy-RkyUaDr_FQ4m3UVXI9y3FJa6R0uRyyfCz-5NZQimNSUCv9_KAAloPZM9WZzshmBdEhxQYIQuOIWdDVSGT4w60K",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLhRLHnBp1ZW7zmcW1PDKIqYg4vMUUb6_VReCH86HbkqH40JC0Ue4QbSuvTw5nK02b0ZGggwQm9MYlndJXzzvikHQmX1g-3Q2HtcMntUJi_RyLNkvbM5GDPprHelGIVDauC2vZtQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb_1o3y9L4O9sZwVDIptkXNXq1Vl4-VWLNzSN5zmxqfC8YxTbiGu1EN4095A6DkZSAnSN6kbtK-AG548lWuRUA7lOh2bXR_AyGA-9yhpG-k4urDw6Zcqx8lEsjG-q-0-4nUvbm",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrDj4g0wGWyX5-M4dXugjj4tpWiLnY6YuSx-8-33nU2cJJFFK2Lf0NEPGlDMVDEgunbUc4716QHDfZsw5dodByFzL8d5JdjEMzpItJFoh8Y3-adYJoWKoT_UyEXXQ5H31SlZfdHw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNpqmz6of3H7BD50rYoBLfHLlQNghYUQk6zNidfEE_hMI03tp6haxaLhwOgPq4arbK1XAwHmYKo_K7Ee34kg_qsHfHEza86g52MmedSDJJNAhIeBlBaRdzVTnLt-xtGLTa5WsO",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Adam G",
+   "text": "I had my pavers patio, retaining walls and driveway done by Torogoz Landscaping. Santos was a pleasure to deal with, and  the crew who did the job was extremely competent and did an amazing job. I truly did receive a top-rated product for a very fair price. I got more than I asked for and we are thrilled! Highly recommended company to work with."
+  },
+  {
+   "who": "Billy M",
+   "text": "Torogoz Landscaping is amazing! We recently remodeled our home and needed a new front walkway, reconstruction of our back patio, and some landscaping assistance.  The owner Santos was great at helping us pick out the right pavers as well as the design. His team is extremely professional and did an excellent job. I highlight recommend for both hardscape and landscape projects."
+  },
+  {
+   "who": "Lawrence",
+   "text": "Santos is amazing to work with and is very knowledgeable of his business. Re-did our entire backyard and planted new trees and installed a new patio. Great pricing as well."
+  },
+  {
+   "who": "Kevin Bonanni",
+   "text": "Santos and his guys were great! Re-sodded my backyard, went from looking like trailer yard to a professional gold course. Him and his workers were attentive to detail, open to explaining the process, and very thorough in their work. So happy with the finished product!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 742-1241."
+  ],
+  [
+   "What areas do you cover?",
+   "Franklin Lakes and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Santos will get back to you.",
+ "footer": "Torogoz Landscaping · Franklin Lakes, NJ · (973) 742-1241",
+ "schema_type": "HomeAndConstructionBusiness"
+}
