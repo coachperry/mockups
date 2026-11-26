@@ -1,0 +1,125 @@
+{
+ "name": "BellaVista Landscaping",
+ "town": "Fair Lawn",
+ "phone": "(201) 301-5917",
+ "rating": "5.0",
+ "review_count": "36",
+ "areas": [
+  "Fair Lawn NJ",
+  "Bergen County NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKEQpM4MHQ-S9roTjJO_hWvEBwE5lKFsMlH8cscUp-bNUnxTcYoy_Xe3r5AHiXlVJ19T4-JOmeFIh_GHbC1E-dGPHPA16_yLLKi1O1yajnD-cEH1f1vPhAusEBa3_PBigMlYA7tw",
+ "title": "Landscaping in Fair Lawn, NJ | BellaVista Landscaping",
+ "meta": "Landscaping in Fair Lawn, NJ. 5.0 stars from 36 Google reviews. Call (201) 301-5917.",
+ "bar": "Landscaping in Fair Lawn, NJ",
+ "logo": "BellaVista <span>Landscaping</span>",
+ "h1": "Landscaping in Fair Lawn, done right",
+ "sub": "5.0 stars from 36 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "36",
+   "Google reviews"
+  ],
+  [
+   "Fair Lawn",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKEQpM4MHQ-S9roTjJO_hWvEBwE5lKFsMlH8cscUp-bNUnxTcYoy_Xe3r5AHiXlVJ19T4-JOmeFIh_GHbC1E-dGPHPA16_yLLKi1O1yajnD-cEH1f1vPhAusEBa3_PBigMlYA7tw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0yPDKM5HmCJwCiUwDjpkZuoVkxHcgckSvzk8efLgfYv7KjuM9Ni9VQyVKiS3WBRKhWB0KyjWMp0ihXHZM70EUIDImsmpw357AQFwKBVhpmbPhMmzzBENKWyKkZTdYZevCSjQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDvd4viiRhDSfub5OnODk1YTvFYRptfGZ0TtemyRF-CchT2SSsI3eAYflYOMAYAnA4MAHzmtGqvSR3mD9TUWOvRzs0Qg2Gbo13sOCZ0-LYa312z_04OXkUe2x35KOxcm9XrPI",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qh337aNW8ILddZYodopkiQyyuKx6wokCbP9DLDI6bX6gEB7R8xEFIt4mq61uSouNq_mJhrfTzyub9-dVlMyA7Nx1ZRhokeQPWLNXC-CI3LxhOtuw2EANCrSzru4ZDKpE4HFWkT",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qcf9m4I8bWxMugmmbRlPZ1n4N9wGgUZqtXQlF3pLqBylgDgNmFsnGjxZDREMIhue4kCmV1lQPKek9KS7u-EQZzZavOIWxm3IQ2XQo_70So752eocZ_jLYxKu-6saI0IzBwTB4",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_htRKyUiC8I27yt91jUrUvnyKduvltzSH_eBvnA6DJKnupQfnnwK7JVF0CKSyK4H-JwTiu165KvifdAjYb_XDx6YMdDV88kpvcLJngC5j_CXw7k3N4AGHIZNdWaz_B-73Mj0RZw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNd7lyX67ueJSZSV5CC1tbiKAK7A58SprvuAJVE_kl61XYpagktXtM21izRfvduTGWYTSMpN8wNJDO2krjXaKpdigbJ5cOBZXux25kjHMG0ffXpGzOeSgkysbVuw_48_Zy2FxS",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TL8NWWKmxMdGsDZWWEP2hG6Mvf-zhjBzugMyYT_OtDISkZULPRg6WeVll79XZ_x_3eBp3-DMg_HO8ukqf14SLvxePPpYfw9GeAweGJA0t1tYtOCokd1PbEtANv8Z3ZaR7wIT8",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Ed Saar",
+   "text": "Bella Vista is my go-to for any and all tasks related to my lawn and gardens.  Anthony is wonderful, listens to what I want and provides expert insight for informing maintenance and improvements to my landscaping."
+  },
+  {
+   "who": "Phil Kearney",
+   "text": "Bellavista has been cutting our grass, doing fall clean up, and other landscaping services for three years now and they have been excellent. They always show up, take great care of the property, and are very friendly and professional."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (201) 301-5917."
+  ],
+  [
+   "What areas do you cover?",
+   "Fair Lawn and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Anthony will get back to you.",
+ "footer": "BellaVista Landscaping · Fair Lawn, NJ · (201) 301-5917",
+ "schema_type": "LandscapingBusiness"
+}
