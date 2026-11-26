@@ -1,0 +1,142 @@
+{
+ "name": "Neighborhood Powerwashing",
+ "town": "North Jersey",
+ "phone": "(973) 908-2817",
+ "rating": "5.0",
+ "review_count": "68",
+ "areas": [
+  "Essex County NJ",
+  "Passaic County NJ",
+  "Morris County NJ"
+ ],
+ "palette": {
+  "ink": "#0f1f2e",
+  "accent": "#2a8fd0",
+  "paper": "#f2f6f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQFqA3keIRIFj_nNpSCGb9hFFM8Fr_-ab4nNALWygRqzx0m44HYI4Hr3gmPFuzoxuIuY28eQlbTsiRCf0r0MBaKlPnde_I6kfxh26wXOa1olOZI724LlT1IQiXSTxNUfLMUs5S",
+ "title": "Power washing in North Jersey, NJ | Neighborhood Powerwashing",
+ "meta": "Power washing in North Jersey, NJ. 5.0 stars from 68 Google reviews. Call (973) 908-2817.",
+ "bar": "Power washing in North Jersey, NJ",
+ "logo": "Neighborhood <span>Powerwashing</span>",
+ "h1": "Power washing in North Jersey, done right",
+ "sub": "5.0 stars from 68 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "68",
+   "Google reviews"
+  ],
+  [
+   "North Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Before and after",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 1,
+   "text": "Soft wash siding that takes off mold and grime without damage."
+  },
+  {
+   "name": "Driveways and patios",
+   "photo": 2,
+   "text": "Concrete and pavers cleaned back to like new."
+  },
+  {
+   "name": "Decks and fences",
+   "photo": 3,
+   "text": "Wood and composite cleaned and ready to stain."
+  },
+  {
+   "name": "Roofs and gutters",
+   "photo": 4,
+   "text": "Black streaks and gutter stains gone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQFqA3keIRIFj_nNpSCGb9hFFM8Fr_-ab4nNALWygRqzx0m44HYI4Hr3gmPFuzoxuIuY28eQlbTsiRCf0r0MBaKlPnde_I6kfxh26wXOa1olOZI724LlT1IQiXSTxNUfLMUs5S",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCFopRYXdvxYprX5nBV6iMg-8Xj-noHkS4IKAbct9QH2fT2hVPvfdYDnJLPDXPG_TTRwLPNdK8T0qIqYGCNcR_8pNctb8HnLFGey6Cr66w72KVhG8kdmu99oXTBmAJpUjeSgY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S9Hq2Ir_pPeCBs5t1UXyKzZSGa9OlBLWzV5CMooFQIjbzhVZUelpnMaEMbuoKH8wu4VWBG1pUgDZrWU0QG5yMl75ssIkHFfY78RL6tY6-4lgnI3TFnY6Zt_GMXQaeAM2IpZ2i8",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnOunmONedfRI8K0jNTbbQcttS_8Hm0jydvnO3t6QbQcnSK1raHjlP4GOi233j03XLZA7hAEuDTOiImzknyfE-SUf3zaFUsvsthY-5hoGt1hEG5_D2FDprjj0JRBGlbobxKd8",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SF6y4uVJ2DvLEhiF5xtuhd6wn0578S-9dg3ejXKwbh4ygtoMSGlTJqjgvsQIG7x9o9UR0CWlno7UG0_dTXPNR1zwA44SHi3nWiXpwy5c-FMkUhCjJz1a45-zi4dBSDqo_2vWyD",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTakgzoI_VkTTbmas-vqteEKQnUELxK028msZ4vq3QDoDH8UHVzSt6ES3N7ZZExfAk31pWkXx_cjKlrRwUs8l9jKH6UXYH6CMJK3W0PTCxGDb5Dskl-kttdqWFydc-7ED81W_S",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWEnOSyMmHJlNIL1-W9NACMIDP_7-w36qvRTP_cr9AS9aYQFQRdWmCrajNocEbm92LT4dKi34FuHgEKVY4Pe8kB9xd6VABnZpfni0dlD2gnCG9_Cj2uR4txMepYDOo3_hDizPhftncNngf",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_Lel2Ki2CC9qWXdqmnfiaYSd329zd1rfVenykfJed80GSK3k_5UHlz-u6Gw9o8rGCgOXhp_w3T3_VArS6_NCndBfrGz96U6SQhYuahFmG_nBtJRNwEjpP1cNzwRqiQO7XzU6nHDYm7vGb",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebBV718THn35PHCXMoo3DmZKfQECmcGoUaanhsXmn2yQWrcU_bJ8XjBLUXkvmEW8dFrDCnMXUwDT2Tun-38gHEb7m-VBOdAX2HbzJj_juiKMRwLCGJ6Aak7r2Q7BPGjJ7ycu8SHOxEHww4",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8EG1KwIIH9b5UKAkY1DZZw6V1ISFGyZYZepQ5RcnxDsZlX0zY5_ZzCaYrxlr7okpmkKPslPJjvSYLxN0JcOx4vAHuHZ7DjXElsNKy7EnvmDA6VuJmdRMKbyA9RbuVhRCv5xctmnFhlqCW",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Therese walker",
+   "text": "Brian is very professional and his pricing is very fair. We are so pleased with the results at our home. He power washed the house, back porch, stone patio and walkways as well as our outdoor furniture. Everything looks great!"
+  },
+  {
+   "who": "Anna Soliman",
+   "text": "After seeing Brian’s signs posted around town, I reached out as the exterior of our house was due for a deep clean.  Brian responded immediately and gave me a reasonable estimate.  Scheduling was easy and communication was clear. He did a great job and I would recommend him for any power washing needs you may have."
+  },
+  {
+   "who": "Guadalupe Cabido",
+   "text": "Brian did a phenomenal job with my patio and outdoor rug, given that have gone untouched for a few years. Scheduling the service was super easy and quick and he was very responsive. I Definitely recommend his services."
+  },
+  {
+   "who": "Kathy Licata",
+   "text": "Brian did an amazing job on our property.  He’s prompt, reliable, professional, and reasonably priced.  I would definitely recommend him for your home services."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 908-2817."
+  ],
+  [
+   "What areas do you cover?",
+   "North Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project. Brian will get back to you.",
+ "footer": "Neighborhood Powerwashing · North Jersey, NJ · (973) 908-2817",
+ "schema_type": "HomeAndConstructionBusiness"
+}
