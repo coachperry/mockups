@@ -1,0 +1,138 @@
+{
+ "name": "Barker Landscaping",
+ "town": "Plainfield",
+ "phone": "(908) 731-2714",
+ "rating": "5.0",
+ "review_count": "43",
+ "areas": [
+  "Plainfield NJ",
+  "Watchung NJ",
+  "Scotch Plains NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUHq4_qLd6EZDKWfaiVBT5Bdpw9PwH6j089y7RTr92rpF5u9-hBc0S5OXES7Yxrp1dotFMUZ7BTwhHTCnwnQMkesRppU_DkV9CTJtRENlzOm_tBSCM0FRfP5trHzyO8gf-amxg",
+ "title": "Landscaping in Plainfield, NJ | Barker Landscaping",
+ "meta": "Landscaping in Plainfield, NJ. 5.0 stars from 43 Google reviews. Call (908) 731-2714.",
+ "bar": "Landscaping in Plainfield, NJ",
+ "logo": "Barker <span>Landscaping</span>",
+ "h1": "Landscaping in Plainfield, done right",
+ "sub": "5.0 stars from 43 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "43",
+   "Google reviews"
+  ],
+  [
+   "Plainfield",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUHq4_qLd6EZDKWfaiVBT5Bdpw9PwH6j089y7RTr92rpF5u9-hBc0S5OXES7Yxrp1dotFMUZ7BTwhHTCnwnQMkesRppU_DkV9CTJtRENlzOm_tBSCM0FRfP5trHzyO8gf-amxg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcGmM6X5JyOIJ-tnRJe0XepPXK0bpXNjv-F5haR1jOZAIxdbFdF557M1Fuy6e4EAcQ6ax9j1_I3zbmeQ6L5hfY7KLZNQrY4SjDjo6aOZVViqSGr0_NScCiuIWmpn1TuyT2Cowt",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOlpVbMi6trX639geteKzqh_uw2lTpzJ6pCg3t6cLWNPguyfqlVy_WXctkBbmCsHJnR1vuS-t4YkfKAGJ76Ta4QQDWWGihrM9PfJhWSlOqXqIHvjKRrc79jO7oGJ0y2vVbl3IC",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7yghR66F3r6KmwWhij_-3U_hDoF6ThTs4sgKweCf2dHUgc63akEZ5-mrX7xh78IUwFc09oYUw1NYcFgmi5ecxy6o8BP3a0wB6P-jc62axy75XV8FUMeXnMESRsDN9jQ-8dCA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsjHOZduSWwu8pr61OduDQWO6fpN3BP6E_Vc-5zv7BlQfbdzW3oxeZxOxnCEuFLyeLF-oifAKyKDBjdhmUib0wq-XnwH_mdfd2weAHBvB0GmD29xJZgGLCGaGx3ob25FlFjRFn",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHWoWHRPdtlzAAlqNRCDgwo8iYbNHTttbzcitkMzijWwknYjk7uoONbR6p-lXMyLGeCE3FgTWvGrzvgmN66trrV2qz7NV0ZTjplbw24wHkysl4aIOr1WQE4nJtCbfUAxcZK3qp",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIHUFfF1sckuHJ0QjsYkVh5aeJv3p1zHRX2_NXdItBKAY_CVaPYgd_3AEnxFGq1Yjre_x6KVE09oNTT-gA6e40WFTBSXL7FrdR88HDi4q00IGiCk7UsolLmBlrAbgwCsiUx3LvfA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV1QjPdyPBknAKNszzT0yg0F-mqisTgAROqCeRuLNwUhPOQ6z9YNWR2rnoiyTl1e1pxRws8sPy95g80fEu7yaOSXj1XfOjMAsZNjtOHl4W0Z_omBlBh_z7ffOM9-zQAnYx0NefQDiMD989",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJRSf6hlK1uXWJgSahqjpGB-PoxHmOOPqHEtf1vPfvb7zwF8gO34I_E_ECWMqbZ_-INB73ENDpaUEYuLZ_hHJpgn5S-Iait_up-aWPasEXXa_1_Pvq9tD1wHNAEy0-lruaPQo",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePz8kMxvMP_qyz2b6b2J9BLrFgCBwRJ2cEz9UMC82wlaCvg7KzLBpfwPoNv25Nay1_hehuX5nwym7uZLDxDl27CvQnL41qIHAMA-ajnlD4TJOoV6w3IoluCsKajcOYd1I2ESBaxD2w32Pq",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Andrew Carty",
+   "text": "Hired Barker to clean up my front and back yards and clear out my fence line. They did an excellent job. Thorough, quick, and a fair price. Very knowledgeable and easy to work with."
+  },
+  {
+   "who": "Nyla Glover",
+   "text": "Barker Landscaping came through in an emergency and cleaned up a fallen tree. They got it done very quickly and extremely efficient. I now have a new landscaper. Awesome work!"
+  },
+  {
+   "who": "Patricia Thomas",
+   "text": "Pays attention to details. This work took more than a day and he cleans every day before he leaves. Very calm and respectful."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 731-2714."
+  ],
+  [
+   "What areas do you cover?",
+   "Plainfield and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Barker Landscaping · Plainfield, NJ · (908) 731-2714",
+ "schema_type": "LandscapingBusiness"
+}
