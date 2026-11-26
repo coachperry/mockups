@@ -1,0 +1,138 @@
+{
+ "name": "Spartan Painting and Renovations",
+ "town": "North Jersey",
+ "phone": "(862) 485-4023",
+ "rating": "4.9",
+ "review_count": "96",
+ "areas": [
+  "Summit NJ",
+  "Union County NJ",
+  "Morris County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SF3yf_Ry1FfOQZfQMbdp-r1KYliA_KOJLfgysmaJNymcFsmxMz4QQZ4wbmfn0w7J7NJYmWaM7uQj31WDzzoAe8K_Td_TuO09829a7YMcCMYprrgL5-5VmT93sMC7g6nhyE4WDTJFZWsaU9",
+ "title": "House painting in North Jersey, NJ | Spartan Painting and Renovations",
+ "meta": "House painting in North Jersey, NJ. 4.9 stars from 96 Google reviews. Call (862) 485-4023.",
+ "bar": "House painting in North Jersey, NJ",
+ "logo": "Spartan <span>Painting and Renovations</span>",
+ "h1": "House painting in North Jersey, done right",
+ "sub": "4.9 stars from 96 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "96",
+   "Google reviews"
+  ],
+  [
+   "North Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 1,
+   "text": "Walls, ceilings and trim with clean, sharp lines."
+  },
+  {
+   "name": "Exterior painting",
+   "photo": 2,
+   "text": "Siding, trim and doors prepped right and painted to last."
+  },
+  {
+   "name": "Cabinets",
+   "photo": 3,
+   "text": "Kitchen cabinets refinished to look brand new."
+  },
+  {
+   "name": "Prep and repairs",
+   "photo": 4,
+   "text": "Drywall and wood repairs before a drop of paint."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SF3yf_Ry1FfOQZfQMbdp-r1KYliA_KOJLfgysmaJNymcFsmxMz4QQZ4wbmfn0w7J7NJYmWaM7uQj31WDzzoAe8K_Td_TuO09829a7YMcCMYprrgL5-5VmT93sMC7g6nhyE4WDTJFZWsaU9",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SsFbbpmHzSUQ-Pp7oEDyEbkIfIJzAPN5L2037uz45ciTkTQb3YfuLBctljzx5wHbtThqj0gMydBomwxN4JV5QRiYQ9iOapoSkzrb3E4sTpKnrXExnqLj0OI3LLWJXiY0HKJp-2B859p3Q",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R99tEOIWV7QlhB1jJujYTH5E-ssb4w9SQVwUshJutkplC_AerFtkxmSjmR3uiQDtL-BRZNpVFJOaP8FlCCOgFgnrimGySsptqRQVvApbRkX2-YmB1TsYKjoKqx2U39i_f4-Qx2YyYZJGk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5lzXBKmIZ82UeGmkJknVZN_YmllO-jYlzhLBbuyR393_b41DJfm3cnxbVH8r5ZWKYZ4OoaXj7z9WNDu9OgcHW6oGnpLcn7U-JwmddlAlmEFHuobTJpC-xwp8fs69lxg8JYCqyQh9lJEYY",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJIE5nu5nGHsqOcMPsRCxBl24tF-R7yzCjehq-22vaEUc-H1v2T4VZEtWgU4kxwUPeeYNvpJYX1mgILQot8GNU4YbvZwqtqLYcJK0hMpBTl8_S-smgvi-JjydFIZfHK3IcU6yT9zp_ObFi",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5z7br34rdS4rY5GSAoHKgvTdN0w5i60v7dkG7_cJYuk3pjaBOPdqHUJCL6_pRiEVVe-DtqNIvItXjJoXRA69YwQxBtivyiMXTjHJ0IgDdBKTmwGZvZlNopEOKsY2L-j1a0pOxuhlcl4A",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-tRpsKiVei_X_TI8j76ie5YCvXTKPUTzfwGfTBSQ2GBI0UrWrUDTBY-EFoBJN7P_16juzPmtacwNxD1yhwHJlNlk14XSqX8EABzZlGlL_5HRUg2PBtMI5tYN-CnF6P9MU9FgJwd8x80Tm",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbwAyRlewCLONAJ-yDCS4oAvWLHPE1KgNH42PfukjlY4qz73pNsTaTFYhh8s7oVSvXIrnhHVKyTuNgs_6hnSDDV7WevCeIm-lsZMT3cjyG3LROkFqVEHbAXqByc_eq1AX9WxpCJt7oOIw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegw8CfFwxPvr2BfaAbuGdHs2oFZOp0ygiM63eaMlVqrcoJ5eZRYtLN-v-yLTMqoIR0vHs0_dYMKnE8GCT70fcfdDmrx6FZKewF3lyUAAe7r6A7dS3oO4z-KpLQgR1wPCcRGbD2dK3tRZPX",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQ1qm3I_zA9bPkWSKQN74pYvNQ77u1T9Toilb-20SuqdhUgeQFJsEwMG4-7oM9wDvlEQpUeV_W-VnH5FhHznyDg4OCT5cnEo6VOlN7H2_eBfl5_Ur0xxW4l7r27gb9NWXMa8u_3geFiFV4",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Rob",
+   "text": "Spartan Painting did a fantastic job painting my house.  They are friendly, professional and do amazing work.  They took the time to fix all the minor imperfections in the wood and trim and how house looks so good now.  5 stars!!"
+  },
+  {
+   "who": "Christopher Mattia",
+   "text": "Spartan Painting and Renovations did such an amazing job painting my new home. The crew was very attentive to all the details and made sure everything was perfect. Would recommend you to hire Spartan Painting and Renovations 11/10 times for any job you need done!"
+  },
+  {
+   "who": "Cara Dlugo",
+   "text": "My husband and I hired Spartan Painting and Renovations to finish our basement, and we could not be happier with the job that they did! Niko and his team not only gave us the basement we wanted, but they were timely, honest, communicative, and flexible with our schedule. We are so pleased with the work that they did and would recommend them to anyone looking for a reliable company to use for a home renovation."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (862) 485-4023."
+  ],
+  [
+   "What areas do you cover?",
+   "North Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Spartan Painting and Renovations · North Jersey, NJ · (862) 485-4023",
+ "schema_type": "HousePainter"
+}
