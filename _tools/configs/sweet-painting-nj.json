@@ -1,0 +1,137 @@
+{
+ "name": "Sweet Painting NJ",
+ "town": "Bergen County",
+ "phone": "(347) 261-6141",
+ "rating": "5.0",
+ "review_count": "43",
+ "areas": [
+  "Bergen County NJ",
+  "Passaic County NJ"
+ ],
+ "palette": {
+  "ink": "#1d2330",
+  "accent": "#c6553b",
+  "paper": "#f6f3ee"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ssgtrv0nXDtotFiey4LIg1UBaso96DqXAhv7hH9J1VSKDWYh8F4P3-CqWBR0O9bdV-VaTIxia0ykSbUGpprM_duKn7HdvMtn8Qp_bKsE91VsM1WVhXxYbXUO-c_kqK0zzz5bi5",
+ "title": "House painting in Bergen County, NJ | Sweet Painting NJ",
+ "meta": "House painting in Bergen County, NJ. 5.0 stars from 43 Google reviews. Call (347) 261-6141.",
+ "bar": "House painting in Bergen County, NJ",
+ "logo": "Sweet <span>Painting NJ</span>",
+ "h1": "House painting in North Jersey, done right",
+ "sub": "5.0 stars from 43 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "43",
+   "Google reviews"
+  ],
+  [
+   "Bergen County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Interior painting",
+   "photo": 1,
+   "text": "Walls, ceilings and trim with clean, sharp lines."
+  },
+  {
+   "name": "Exterior painting",
+   "photo": 2,
+   "text": "Siding, trim and doors prepped right and painted to last."
+  },
+  {
+   "name": "Cabinets",
+   "photo": 3,
+   "text": "Kitchen cabinets refinished to look brand new."
+  },
+  {
+   "name": "Prep and repairs",
+   "photo": 4,
+   "text": "Drywall and wood repairs before a drop of paint."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ssgtrv0nXDtotFiey4LIg1UBaso96DqXAhv7hH9J1VSKDWYh8F4P3-CqWBR0O9bdV-VaTIxia0ykSbUGpprM_duKn7HdvMtn8Qp_bKsE91VsM1WVhXxYbXUO-c_kqK0zzz5bi5",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SiPkaCqFSWg1tvbIuZAAfnWt-M6C_6Qte9JT7IX5WkyvdNm-dPdVpl7F5JCrr90L4BXoFLvKelbKraW_IMtdwPPDNM5VFhye46JfzosggSMOxdfe8XNbee2kioe9Nikty8Np2I",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SZXMrp8IP-a_iZQeZuxROBT_J33OnjbxxzOSt9FNesCqp_OFTGz90OdtIKZ0ue8LZ92UGSUNLPotcwVptkXz9ehnaWcwwnHzWwwymxHzpzLV5lTh5XDfW0g6HpeXtdaFF_Tte4",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q1wOuET5MSrz6vLHHQPMiQl42dstJydH6YkVzaULL0iTfbmzTw53Ic7IWx8kX9TIiySQQjnr2MN4dRyK8mCIQA61uR97G2f2ZOoh84dAUgRBYoxJc3HXfbybV8GXP03XvN9mBf",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebM6rL27vc1mbQ6Yly24oa74odWkVv3AXAFMN0wAhe2lBoqEtQ4x3hlrgkh309oMJuw8bxBBqJpn_Aai4wiTXDNUiYv7dPfgSz4K-R1m5HajBtwKbbIjk00AQpo63_y2CWXRdQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZX9v5l67n5kvlHUmnP7LF9I6g2xVd_0wFAqmV1WjKTBOcdNCouBiRfr6bg7M3OmCBMEuY06qRfunPvXGsNKXimuvg3r3B2h8GlVn7jjgvHgmS71VIGutQz3O9wvIFyKRAv44X",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCvOLwP-dneVkcb5R8nR_eodk_eTHVkeAAITLXWbwUlUACwhoEwCeSJjdrH7-zdg7TGo_w8ZqJfjKPUyNvsfesZNk2Z8b4jO_Kd_i_gCbyWssbJNken4Lz7ZQV5Fc3uVkVaQIx",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcWgaUAp6DaS1liJ9cyZId20DpWuq27eJ4wuOnJvhLdX5cMsn94if9JksLwXBqCGSPDk9e22nBIqRsaTbvWaBaEQX7ludSF0cdl58ZrbZSxQUAg7hXUEteScRyc4RoAE6qy8vg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZwFP6ZqtpYrElsVSwSgWTQDaAmhXimZ_lnENtWezMjy0XhMOqLMjQZNMPfS-DP5xgF9AWTW5ySauhtIWTYlUJdQ_5c_yex-wApvhBk_gYLrQPdmtV4GQwZh8YXQbLt-1NQ48KrQ",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Robert Lanni",
+   "text": "Mike painted our 24 year old deck and made it look like new.  His painting and clean-up was meticulous, the job took 2 days with power washing and 2 coats of paint."
+  },
+  {
+   "who": "Svetlana Vukcevic",
+   "text": "Whole team is fantastic! Mike went above and beyond to meet my expectations. The price quote he gave me was very reasonable. He also worked very fast and he was very neat. He gave me great advice on colors for my new apartment and his painting team were prompt, polite and did great job.\nMike is a true professional, I highly recommend him!"
+  },
+  {
+   "who": "Oscar Gomez",
+   "text": "Mike did our 2 decks at our place. He power washed both of them, waited for dry process, and did 2 coats on both floor and railings. Two different colors, did a great job. Good guy, very reasonable. Will be using again in our future projects."
+  },
+  {
+   "who": "Qendresa Hajra",
+   "text": "Mike did a great job painting my room. It was also last minute and he answered my call and we met the next day. He was generous with costs and also have excellent service!  Thank you Mike!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (347) 261-6141."
+  ],
+  [
+   "What areas do you cover?",
+   "Bergen County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Mike will get back to you.",
+ "footer": "Sweet Painting NJ · Bergen County, NJ · (347) 261-6141",
+ "schema_type": "HousePainter"
+}
