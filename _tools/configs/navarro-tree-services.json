@@ -5,8 +5,7 @@
  "rating": "4.6",
  "review_count": "70",
  "areas": [
-  "North Jersey",
-  "Passaic and Essex County NJ"
+  "North Jersey NJ"
  ],
  "palette": {
   "ink": "#17251a",
@@ -14,10 +13,10 @@
   "paper": "#f3f2ea"
  },
  "font": "Archivo:wght@600;800",
- "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkBpv8HUga0NSDLEuaIoDggdiSPG72DzwtdJ17udr2ZDHJFTvyWjk8X8O5lM3u2QOpGv_Ih1KTpRALwGB5q5OR2btY2OOMu5Q8-Kk-kXXKymQgj43ufHg0WS7xaFnYKreltiA",
- "title": "Tree service in North Jersey | Navarro Tree Services",
- "meta": "Tree service in North Jersey. 4.6 stars from 70 Google reviews. Call (862) 202-6452.",
- "bar": "Tree service in North Jersey",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRdoA01YT6Mv501WtCXYmPtzAvzkuGzwaEMZfcW3OeoLckN0SF7VwF-E5abX01kknKTR7cEoqyqj7AWZRjI6hnSjW5i7j-t5K3TKD1k3lwWcPBPblBLS6tDOcMIIqSmJgOqMYX9A",
+ "title": "Tree service in North Jersey, NJ | Navarro Tree Services",
+ "meta": "Tree service in North Jersey, NJ. 4.6 stars from 70 Google reviews. Call (862) 202-6452.",
+ "bar": "Tree service in North Jersey, NJ",
  "logo": "Navarro <span>Tree Services</span>",
  "h1": "Tree service in North Jersey, done right",
  "sub": "4.6 stars from 70 Google reviews. See the work, then get a free estimate.",
@@ -62,6 +61,10 @@
  ],
  "photos": [
   {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRdoA01YT6Mv501WtCXYmPtzAvzkuGzwaEMZfcW3OeoLckN0SF7VwF-E5abX01kknKTR7cEoqyqj7AWZRjI6hnSjW5i7j-t5K3TKD1k3lwWcPBPblBLS6tDOcMIIqSmJgOqMYX9A",
+   "cap": ""
+  },
+  {
    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkBpv8HUga0NSDLEuaIoDggdiSPG72DzwtdJ17udr2ZDHJFTvyWjk8X8O5lM3u2QOpGv_Ih1KTpRALwGB5q5OR2btY2OOMu5Q8-Kk-kXXKymQgj43ufHg0WS7xaFnYKreltiA",
    "cap": ""
   },
@@ -71,10 +74,6 @@
   },
   {
    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMDZklNXPmu8KQ-PTjX2E02h-dEzcT8w091VnEJSreFcaK7cxAbwOOSkARWSbDGjcOWgChkKBJHpbMudmC2mjQ4LKLQyfhDXKgfrOAZmcPkuRWS45NqLPiMaAh2OEedAI5bp16WQ",
-   "cap": ""
-  },
-  {
-   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRdoA01YT6Mv501WtCXYmPtzAvzkuGzwaEMZfcW3OeoLckN0SF7VwF-E5abX01kknKTR7cEoqyqj7AWZRjI6hnSjW5i7j-t5K3TKD1k3lwWcPBPblBLS6tDOcMIIqSmJgOqMYX9A",
    "cap": ""
   },
   {
@@ -120,6 +119,6 @@
  ],
  "quote_h2": "Get a free estimate",
  "quote_p": "Tell us about your project and we will get back to you.",
- "footer": "Navarro Tree Services · North Jersey · (862) 202-6452",
+ "footer": "Navarro Tree Services · North Jersey, NJ · (862) 202-6452",
  "schema_type": "HomeAndConstructionBusiness"
 }
