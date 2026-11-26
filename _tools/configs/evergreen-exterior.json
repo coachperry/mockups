@@ -1,0 +1,113 @@
+{
+ "name": "Evergreen Exterior Solutions",
+ "town": "North Jersey",
+ "phone": "(862) 668-2018",
+ "rating": "5.0",
+ "review_count": "12",
+ "areas": [
+  "Morris County NJ",
+  "Passaic County NJ"
+ ],
+ "palette": {
+  "ink": "#0f1f2e",
+  "accent": "#2a8fd0",
+  "paper": "#f2f6f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sc4YUoq3vsMaUVUkbgmRYRaYcQvAx_NaM0ZKlhpoW7umSbpN-wwT3q9iWDW7HfCND-QfSoBkAbQHiL1ezeQ7iTsX9DmIx1Hf4I8hhE7dXqZBmV2nirOJ1BRmXO9j2xCIX_cKjE",
+ "title": "Power washing in North Jersey, NJ | Evergreen Exterior Solutions",
+ "meta": "Power washing in North Jersey, NJ. 5.0 stars from 12 Google reviews. Call (862) 668-2018.",
+ "bar": "Power washing in North Jersey, NJ",
+ "logo": "Evergreen <span>Exterior Solutions</span>",
+ "h1": "Power washing in North Jersey, done right",
+ "sub": "5.0 stars from 12 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "12",
+   "Google reviews"
+  ],
+  [
+   "North Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Before and after",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 1,
+   "text": "Soft wash siding that takes off mold and grime without damage."
+  },
+  {
+   "name": "Driveways and patios",
+   "photo": 2,
+   "text": "Concrete and pavers cleaned back to like new."
+  },
+  {
+   "name": "Decks and fences",
+   "photo": 3,
+   "text": "Wood and composite cleaned and ready to stain."
+  },
+  {
+   "name": "Roofs and gutters",
+   "photo": 3,
+   "text": "Black streaks and gutter stains gone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sc4YUoq3vsMaUVUkbgmRYRaYcQvAx_NaM0ZKlhpoW7umSbpN-wwT3q9iWDW7HfCND-QfSoBkAbQHiL1ezeQ7iTsX9DmIx1Hf4I8hhE7dXqZBmV2nirOJ1BRmXO9j2xCIX_cKjE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYlts2aUprvNzonAaad_Abi-p-LLSbWLbia1iv-LksyhXQuOxGeUHADV4XKaiklEAwI1nxVgwT6CttUkZi3lumUnHj0THM9Aft6LzERWpMqne4PxJsHiR2tWeeDvKU0MAPsgRFyw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvNzpckI4DiHvZEGZlz4myy4Q_fG2_J50pWzHNZzatm5ekCIfIASUFW-05yf0f_b-5xkkugNc-9uFxRRs1jB08GAKpG9G8dzjrjE-WFzcDQRGFxI4lPrRGVd9e8f-83Fo6uS7F",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgkZ_4xdTaQDsr42CZfaQbBkM94HtIQvSsPE_pdLFzfmQ1sNRm7nAJ1jNNjrWkgSF6lCV541pE7aN0mdGj9n9IsLEdIwYYrGbpO_BikZhjALhh5pDuvk1wQUC4xdD6arq9ysqK",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Zay Hulse",
+   "text": "Fantastic experience with Evergreen Exterior Solutions!\n\nThey power washed our home and it looks brand new.\n\nHe was professional, punctual, and very thorough.\n\nRemoving years of dirt and grime from our siding and driveway.\n\nHighly recommend their services for anyone looking to refresh their home's exterior.\n\nGreat job!"
+  },
+  {
+   "who": "Mordechai & Yael Syma Zakutinsky",
+   "text": "Evergreen is the best!\nWe were so happy with the service, they are amazing!\nCleaned my gutters, power washed my house, and even did some small repairs, with the biggest smile!\nLooking forward to working together in the future, would certainly recommend."
+  },
+  {
+   "who": "Lindsay Miller",
+   "text": "The team at Evergreen Solutions are very thorough, professional and kind. Amazing job. Super grateful for all your hard work!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (862) 668-2018."
+  ],
+  [
+   "What areas do you cover?",
+   "North Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Evergreen Exterior Solutions · North Jersey, NJ · (862) 668-2018",
+ "schema_type": "HomeAndConstructionBusiness"
+}
