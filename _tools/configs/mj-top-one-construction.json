@@ -1,0 +1,134 @@
+{
+ "name": "MJ Top One Construction",
+ "town": "Clark",
+ "phone": "(908) 583-7947",
+ "rating": "5.0",
+ "review_count": "18",
+ "areas": [
+  "Clark NJ",
+  "Cranford NJ",
+  "Westfield NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TqfJtLEVpseRUnTwj1VR8ZIdu0Bz3UYn1lwhLa7Uh7URY7KM3eG4Na9uVpO7_hoiuNNCyY7sOc_CfhE9pqI4EHfR86Yli5pfqPZfzKEeg_DK8NyaFJxUsXJVUcGdS34nm-wLzV",
+ "title": "Remodeling in Clark, NJ | MJ Top One Construction",
+ "meta": "Remodeling in Clark, NJ. 5.0 stars from 18 Google reviews. Call (908) 583-7947.",
+ "bar": "Remodeling in Clark, NJ",
+ "logo": "MJ <span>Top One Construction</span>",
+ "h1": "Remodeling in Clark, done right",
+ "sub": "5.0 stars from 18 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "18",
+   "Google reviews"
+  ],
+  [
+   "Clark",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 4,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TqfJtLEVpseRUnTwj1VR8ZIdu0Bz3UYn1lwhLa7Uh7URY7KM3eG4Na9uVpO7_hoiuNNCyY7sOc_CfhE9pqI4EHfR86Yli5pfqPZfzKEeg_DK8NyaFJxUsXJVUcGdS34nm-wLzV",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SEuZCOUaOYbkydjdFsfSm_9IIEbooR8mwqB2ky7QvwYZTRCW112Aqo-3SlLP-d6EmHRE9_q6aoxEa8b2Ba5GBuZHgoR99X4DfWWAi_SD8a0Vtuhj-_TjA_zS6wAmmxAWl0sphy",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TjHMOFmgdXZq0T2TakRXI6Hvu8v-4wI8HcFu8K6-7viNHvVllIE2nQGAunsjW8-XngLQ41xumhm87rAy_AV9OrAt-3kI7EH4qFhmr1OdM7I2mghIXwj3POIIzAZs5tNBALBsyIpQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenJMLvqQoOvtoPnb3YTVj69567Knin-k_kNZMK8-Udmgl0LjP3E5ve6Eo3erirlPl8FD-Mo49yDoqKzC6uZFjyqXPeRwrnJgzoWJcSMOOubQ-FGmma5dKM_L-t2hOlXKNd6qHd",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmKVOIrHhG3gCOwk8k6udQ5Qs9kSmmWCYJ2Trn0BCUjm7qnWDGQRgOXZMA4jJ-bjPfloal2sSsyx2yqOzlBY_u6jgJiUqexFkKbJUoY6kjTT5Xkb1shOi8kuixXUYi9Rp1RWGqe9zODtTg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOQGjTN4LymabkzjCy_3mlWnLacWuV75Y1H3SHJl-4Q_CQU4npNn9JMB5stKIIXXdTBSpKzVnoZbqvuYZqZyN8odug1826hPZ0SnhOyYX7Myyj_jlRw4leClXZu5Vtww42DL3gGgeMYCDf",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvAdX3iARejG3iaGcysjNwZ2Pq5pfu9S_ri03fmheuU4h9_vDz3NEmoZlCkIh8DDilA6A5NoFEFoCIpeAdqd2W1IldJCkC5gj4a9ml7bwnG8QglrMFRM8EGAi3bmrNq6PsiTFb",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcA9yC1kYxIneFST_99PXp4nVUHPBVzL8iXSgisRzp1NW9xYXHAKcHsdlefdc1Evd9sW201coqJbVULzhFhfOUoh7qJwpNxs_WTZe_oBaxlkt1zW009YsT6v1xesiId91lZ3Npp",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdujdQo9VhqUgaQ5tGNuxSwY2FLCDq4iw54OEPKKF4hi0r1pXtMRR14dS1w0QplTHceJQzUOD7cpZjl0-SDxMUH0qIbL_QfHOlN0b9sYlNJzsy8E1OyqAhuEIBwbdeWwUVg6ggtYA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "David Waring",
+   "text": "The MJ One Top Construction did an amazing job in my complete kitchen expansion/remodel and bathroom addition. The owner Marcin was always available to address any questions or concerns we had and gave us great advice on how to make our vision come true. They finished the job in time and on budget. I would definitely work with them again and recommend to anyone looking to complete construction projects for their home."
+  },
+  {
+   "who": "Sari Landman",
+   "text": "Marcin is the best!  He took our home renovation from vision to reality. His attention to detail, excellent communication, and talent gave us our dream home. He completed the project in the timeline promised. Would absolutely recommend!"
+  },
+  {
+   "who": "Lauren Milan",
+   "text": "Highly recommend Marcin’s work and would absolutely hire him for future projects.  He renovated our kitchen and we are extremely happy with it.  He is on time, takes pride in his work, positive and easy to work with.  Do not hesitate to work with Marcin."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 583-7947."
+  ],
+  [
+   "What areas do you cover?",
+   "Clark and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Marcin will get back to you.",
+ "footer": "MJ Top One Construction · Clark, NJ · (908) 583-7947",
+ "schema_type": "GeneralContractor"
+}
