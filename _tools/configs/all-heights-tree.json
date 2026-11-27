@@ -1,0 +1,134 @@
+{
+ "name": "All Heights Tree Service",
+ "town": "Hopatcong",
+ "phone": "(908) 313-2473",
+ "rating": "4.9",
+ "review_count": "31",
+ "areas": [
+  "Hopatcong NJ",
+  "Sussex County NJ",
+  "Morris County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-gOOvgl8dc4qeFAwoJO-xKKTqt7qmD7Jh1dRoNJnxzrIE_Djy2IKlPeor3Q70Jz8H2AGn18oJ_Z-LzdJ__cM68JoH96r4XNwsESx5y7vRlc3bbBwzBZl_k5U7bD9HkPevAjQu",
+ "title": "Tree service in Hopatcong, NJ | All Heights Tree Service",
+ "meta": "Tree service in Hopatcong, NJ. 4.9 stars from 31 Google reviews. Call (908) 313-2473.",
+ "bar": "Tree service in Hopatcong, NJ",
+ "logo": "All <span>Heights Tree Service</span>",
+ "h1": "Tree service in Hopatcong, done right",
+ "sub": "4.9 stars from 31 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "31",
+   "Google reviews"
+  ],
+  [
+   "Hopatcong",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-gOOvgl8dc4qeFAwoJO-xKKTqt7qmD7Jh1dRoNJnxzrIE_Djy2IKlPeor3Q70Jz8H2AGn18oJ_Z-LzdJ__cM68JoH96r4XNwsESx5y7vRlc3bbBwzBZl_k5U7bD9HkPevAjQu",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8RcnTLSHv9ArGtN-l4TPdCM16Qwk7PMa1n0SU_2sQPOHBAsW3DbdXZydh6yo5FHH8PW62cir-ZQ9ZDhu8Ufqyh8rgayBuyhRv8o8pxy6Z9SNG5X4MoI-P-Dw1ig_mf0FSx41L",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXgCGUMkM-H8GtcvCgbrJx5kfiRKNqCo7F2FAmxlxhlCKnBuDu13KYJv1YcKqFRzNzv2cakeDNs6vG3zWLWkWyzEPIyFgNlBfUG_SbS4vqVVemuIGkqQA90QukN17RwNCliKpv",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvtVlLJG7VB2uRUdsKZFCX_vv0CMfW5ZUvQiJlM6ddqGs87z-SUVn-udykRButcb07x4xHbcAR3z0dLyd9tdcqQzNVcWm7BDu9K7xw5hB_QkK91I_z1_rx74lIWxr6aluHevTU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdHXfWngSeorw7df3GUEq_97zJ8RfL5pbdblTUHrhEz5hrR62lcesJDdYes0wrmfIYCl0btcyqyWbFkBj3zVLA-weXlUbeKib2PvlaIdG-aSZ6laqnGz0ZkEytWtky7wRJLeiG-w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDtJKFUOG0MZ02_lJiMsGMaEDjyodNGDb8sKHoV-8PF3fqehgi9PwUyBTklOW8jo4m7FlV2U50Mz0X5R9vxYStjNIwMg7NF9sw-onwAHCYR18XQ2sZ5YvuJBDzDy5CtvrxGI9Q",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffSoc-zEKyBtyEMtHrgiXVB6A0zR2MACudu5d68SH737yvMs-x8tG3NN6qmhKavFsoPgGZZM-pNBQo3KXlmZ5IaMxH3FUAdV5ZfKWsFaUn7DsTlzWORWswnLPYUfG8lYRN-ASO",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc94pu1PMizzk3RRA3g0tx7fIOcdBqhwwZIxNI4KKuKvh7I7RFrPX3GForLk2biMTXTd9ErQB5GkhxAHVMEIFuhdjZMx9A2dAvJQMJuZPpXS8bm04MuWghEUa9d3VAJOYagXPTXbw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLezxoSip9Kf6Tu-83BUCTnsU5i1DiKm7uHlzKMB0Yn38KeEzTYY90EA2WX-KuUIBK5p55tJwv6jbWT1DG1IsepEvxE0XnG58S7sxNr5sLXQ50RBgYX0zMcWusdNKAFiN-y5gp-Eqhbogivi",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Jason Snover",
+   "text": "Travis with All heights tree service was excellent. Him and his team knocked it out of the park. Very clean, fast and professional. My well was only 3 feet away from the tree and did an excellent job protecting and avoiding it.No questions asked you should call him and his team for any tree work needed."
+  },
+  {
+   "who": "Justin Hughes",
+   "text": "Travis and the guys came out and removed four trees on my property. Travis's communication was incredible and the job was done right. Highly recommend!"
+  },
+  {
+   "who": "Johnkarlos vargas",
+   "text": "You will not regret using this company! Travis made it very easy and was very knowledgeable and knew exactly what we needed. The work was done efficiently and I could not be happier."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 313-2473."
+  ],
+  [
+   "What areas do you cover?",
+   "Hopatcong and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Travis will get back to you.",
+ "footer": "All Heights Tree Service · Hopatcong, NJ · (908) 313-2473",
+ "schema_type": "HomeAndConstructionBusiness"
+}
