@@ -1,0 +1,134 @@
+{
+ "name": "Platinum Home Improvements",
+ "town": "Morristown",
+ "phone": "(973) 262-0969",
+ "rating": "5.0",
+ "review_count": "37",
+ "areas": [
+  "Morristown NJ",
+  "Mendham NJ",
+  "Madison NJ"
+ ],
+ "palette": {
+  "ink": "#211c19",
+  "accent": "#a6532e",
+  "paper": "#f5f1ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RvD8FwOUPQl4o8yxWSPZC1enZiqoLCxToZ9FjKX7SaiFm2TBfseQACweGVS10YRZzZl2v3w3CYd7MKwjULoLskEIgRNoyaD0f_xJ1hL_zZKHC7YblxElcKB03krHKJSDtMGPQ3",
+ "title": "Masonry and paving in Morristown, NJ | Platinum Home Improvements",
+ "meta": "Masonry and paving in Morristown, NJ. 5.0 stars from 37 Google reviews. Call (973) 262-0969.",
+ "bar": "Masonry and paving in Morristown, NJ",
+ "logo": "Platinum <span>Home Improvements</span>",
+ "h1": "Masonry and paving in Morristown, done right",
+ "sub": "5.0 stars from 37 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "37",
+   "Google reviews"
+  ],
+  [
+   "Morristown",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Paving",
+   "photo": 1,
+   "text": "Driveways and walkways done right."
+  },
+  {
+   "name": "Brick and stone",
+   "photo": 2,
+   "text": "Steps, walls and stonework."
+  },
+  {
+   "name": "Concrete",
+   "photo": 3,
+   "text": "Slabs, sidewalks and repairs."
+  },
+  {
+   "name": "Repairs",
+   "photo": 4,
+   "text": "Pointing, rebuilds and fixes."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RvD8FwOUPQl4o8yxWSPZC1enZiqoLCxToZ9FjKX7SaiFm2TBfseQACweGVS10YRZzZl2v3w3CYd7MKwjULoLskEIgRNoyaD0f_xJ1hL_zZKHC7YblxElcKB03krHKJSDtMGPQ3",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNRWy7jGE4KywKJ6KAsMZHyAPuuM0im93YUJbd8VT10swmZbxXWaGq2SpmzjZgAOJ9GJlCIX8PU9h5TcgI8P1hIsye4dgLRJHEoV2UlO4UdW15dXjRQm5xGvwQ-YE358KuK08",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLkUr-3t7GN5VAWRwL54ViumxIil2sEW5dfPK6tRFa-m2YkoEyzweCSNXvlsbZ7ysMVPOyQILuitC7UG1gXB4kcdeQSkDTrp5Wkxg_mw18Tv-ypXyYGIx02Vl8aq_eDKyBpLK_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sm9bpPTUSTPyw1_zfilmsi4CIApLEye5LTQ_rdWxSqrqEFXuKZOayyYk2nNzJu8mTKvrVaF7zo7wMsik8ojafNsqmDd3p2dUmfPR5HSUINaaOuSXWkQUYjRO1YqFNxefnGWi4",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCj_BBWQ1y4S-M9JapcUyg-KT77iL2LEPp3zO7Q2BxcutC6BtTAKEbqhK6mY83bMykRZrB-IZU4HhwWgE3BdYaKjJVHZhd6npB0HsZ0Uv8ViVnt3jXH-_TCkHgBzgZOCfUn3jr",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLet-WyJbHW7y5_tQZvISmg-KciakQRlpKRrxcwGSvVRuwE_E__LRX833JRkbtToGJtd6V1RiZkOJ9U0hODGBLmGtads4VdtTmpNF2P819lgkuqyTwfA3z4bWNjB2TTE1CycjAv0",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9TTTlol5EHi3_9gPwbBJIP9mptO16v1BzO9mhJhGFU5PfmdQQqZ-k3rsG2wSOfc3GS6b6XMKfTs-a6i9FjwlvJbgzholOzDy4ZKhIHcNQYzweDpYCLWHIn1jMvLsuMusIDxbFnw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFV841dF2ZYrdCoG4TZYhm2ZqXCR66F9yucwoM_wdRmwoeBOr_8J6zZMj98vyqRA5-E4GZwr3NQVEm4qfxlBusv18i9pWHPbH-hEDwqOSXn34qM--_wZs7ErtkTNc6hS1LHTWx",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSKGkhkFJiczKYSGAaIhof_w5rMSmZ2nKeyQP6XGiHdrTqFoUeBBWlilzYMv-Hd0JC1wwisHgHHMfDwTe_bTZp5iYVr4PczdesLfp5QlZywbzj5hvjWM9DDeHeefgFRWgzSYBIdA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Elissa Goldman",
+   "text": "Platinum Home Improvements did terrific work on our front walkway, shored up the steps from the street to the house, and fixed up our retaining wall and a small staircase in the back of our property. They were very professional, reasonably priced, and did a great job. We would work with them again. They are charming people."
+  },
+  {
+   "who": "Margo Baumgart",
+   "text": "Mike and the entire team were excellent, thorough and very attentive and professional throughout the whole process.  I couldn't recommend them more.  We absolutely love our new driveway, the amazing back basketball court and retaining wall that they built and designed."
+  },
+  {
+   "who": "Peter Truax",
+   "text": "Platinum Home Improvements promised and delivered a top notch job. From the price to the professional installation of the driveway, paved walkways, and front steps made this the right choice. Fare, dependable, and courteous."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 262-0969."
+  ],
+  [
+   "What areas do you cover?",
+   "Morristown and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Mike will get back to you.",
+ "footer": "Platinum Home Improvements · Morristown, NJ · (973) 262-0969",
+ "schema_type": "HomeAndConstructionBusiness"
+}
