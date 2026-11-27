@@ -1,0 +1,134 @@
+{
+ "name": "3D Tree Services",
+ "town": "Somerset",
+ "phone": "(732) 357-7571",
+ "rating": "4.9",
+ "review_count": "16",
+ "areas": [
+  "Somerset NJ",
+  "Franklin Township NJ",
+  "Hillsborough NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZBKqdDPf71MW4x0NT4th1HQOpwBEkHv3nnMBHrynOlIhmmqcVk2Oyct5I-Ch6vNAQ4jN-60hTy_5MIDtEOzW07IGBTi89E9HrZvzERqRjVz_lBBA77J3YLEKwbxWrXQs-NzhE",
+ "title": "Tree service in Somerset, NJ | 3D Tree Services",
+ "meta": "Tree service in Somerset, NJ. 4.9 stars from 16 Google reviews. Call (732) 357-7571.",
+ "bar": "Tree service in Somerset, NJ",
+ "logo": "3D <span>Tree Services</span>",
+ "h1": "Tree service in Somerset, done right",
+ "sub": "4.9 stars from 16 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "16",
+   "Google reviews"
+  ],
+  [
+   "Somerset",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZBKqdDPf71MW4x0NT4th1HQOpwBEkHv3nnMBHrynOlIhmmqcVk2Oyct5I-Ch6vNAQ4jN-60hTy_5MIDtEOzW07IGBTi89E9HrZvzERqRjVz_lBBA77J3YLEKwbxWrXQs-NzhE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SD2wqdgeGfy3PHbXxcwMWerGZ5xjXeGDUB_r0WgweGyteWdM4YCKcHH0WsNMT3Y3Rh4NOyl1czaLRSo7Z4-PH7B7sJGN_PIDjv90DOP4LUek-Sz0fSPOHia1-R7711T5bm4bly",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-PUKqdHZTorU-vOeuspeDPbHm4zsDkaibZmbqk5R6ZjIGo-kqg2YaXa_D6mnc7gY1Qqb-ih11PiOyRpuoIENBhzZ7xDCKHJkxEsQ8vqXGeYrgcpR0TKBeHhcD3mfyCybBWQb9",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4owfvfSlxFzrmW_-hdv89zypgkV19HGgqd8EzKHByp1pWeryMY5sKybSfRMmp-NB6u17dXnSsqPQFpW3H2WKeAIS8mzAGFLEPTBqXHjNNdSYkLy5PoMtQEk6TeXFbZhQs-6C_",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLduz_eHN_dBjrJkqAh5Znf0hZIUpHHmM5s8Jwozudqem4chAOwiJFVjF6lQnDeI3quzA-r9jBbcDLKTyfzt2qhZUSGxAWLk5W0qUXVQEouov5HO1kWU4xVpFhSiT52HMR5_Mf8p",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIWIgM5quO4pRGqdvsKq0urA63J8TbNO5ccqPt50zZbtcPkon5u_BpqHtC7p71NQ9k3SuDhQsv_jiUeWJZCUyX6ieG6_QLtaA-M1Ewf1ccmw6azawTw5WIinAQRIXeTpLnifO-",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOo2fvmnuvBxP8Uon3yoZyZq4N8bY3pExmo_8r_QwvqdQXE9e3qP0_Vd001AcDdKN0tlKALfERoMkSGYjvhkgZr9aK62JfDKpdjZDv5LC4e_QqUm3vp9CllzsDWdEeaM8b4-AnwSwbfAw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdbwBjO0qaQmmNbijt2NZyiBq5wgjNSbeUwMEcNZgkMHUk5sf0dEetJNUM5NYd4sVry_pJBDlTxnkNiKzmor7_zWDyR3KqdY1uYJkAa2FK1LZ3bOm4bkKh18nmVwHsckZXv-5NxA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxihPqWQBnLnnH2QZSqC7bcprqgVyJApNlRfYiqyCIah63hBcoD9_78kcDmn0_O90sgpXCpF71Sw8OGZ00Vm2DA6IS4Ru0pTJXoIAO5_v68IIVACkauIW6iZipIg9JGWsJi1xcXQ",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "dan schmitz",
+   "text": "Bill and his small crew (all family) are absolutely fantastic to work with. They were half the price of a larger company I called and did an outstanding job. They came 2 days after I called for an estimate and started work the next day. Not only are they great at their craft, they are also extremely friendly and professional."
+  },
+  {
+   "who": "Walter Gregory",
+   "text": "Bill, the owner, was personable and easy to work with.  He and his crew did a terrific job in taking down two large pine trees and trimming several others.  Their price was reasonable.  They had to take down a section of my fence but they restored it completely.  They did a fine cleanup job when they were finished."
+  },
+  {
+   "who": "frank ferrante",
+   "text": "I am a repeat user and for good reason - Bill and his team are true professionals and do a fantastic job at a very reasonable price. They are a pleasure to deal with - prompt, responsive, courteous and conscientious. I give them my unqualified recommendation and look forward to working with them again (I have a lot of trees!)."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 357-7571."
+  ],
+  [
+   "What areas do you cover?",
+   "Somerset and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Bill will get back to you.",
+ "footer": "3D Tree Services · Somerset, NJ · (732) 357-7571",
+ "schema_type": "HomeAndConstructionBusiness"
+}
