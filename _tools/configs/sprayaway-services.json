@@ -1,0 +1,134 @@
+{
+ "name": "SprayAway Services",
+ "town": "Elizabeth",
+ "phone": "(908) 718-0008",
+ "rating": "5.0",
+ "review_count": "16",
+ "areas": [
+  "Elizabeth NJ",
+  "Westfield NJ",
+  "Union County NJ"
+ ],
+ "palette": {
+  "ink": "#0f1f2e",
+  "accent": "#2a8fd0",
+  "paper": "#f2f6f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TtP8WVQG6ceamru1_xi-SMkd6fydUL-9QgOU9Snl4qMo0cHnOWRh6qPK8O4KHLeBmpvva_yhi7McHP8yzemOcjX6mnM5ODR_HHUuvwtbvSznHYG4ZyWMG4Sn5tRi07sEqYGLUNWA",
+ "title": "Power washing in Elizabeth, NJ | SprayAway Services",
+ "meta": "Power washing in Elizabeth, NJ. 5.0 stars from 16 Google reviews. Call (908) 718-0008.",
+ "bar": "Power washing in Elizabeth, NJ",
+ "logo": "SprayAway <span>Services</span>",
+ "h1": "Power washing in Elizabeth, done right",
+ "sub": "5.0 stars from 16 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "16",
+   "Google reviews"
+  ],
+  [
+   "Elizabeth",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Before and after",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 1,
+   "text": "Soft wash siding that takes off mold and grime without damage."
+  },
+  {
+   "name": "Driveways and patios",
+   "photo": 2,
+   "text": "Concrete and pavers cleaned back to like new."
+  },
+  {
+   "name": "Decks and fences",
+   "photo": 3,
+   "text": "Wood and composite cleaned and ready to stain."
+  },
+  {
+   "name": "Roofs and gutters",
+   "photo": 4,
+   "text": "Black streaks and gutter stains gone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TtP8WVQG6ceamru1_xi-SMkd6fydUL-9QgOU9Snl4qMo0cHnOWRh6qPK8O4KHLeBmpvva_yhi7McHP8yzemOcjX6mnM5ODR_HHUuvwtbvSznHYG4ZyWMG4Sn5tRi07sEqYGLUNWA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8l5sYrcBm5p2KuHCicIqjWr115Vdd_5z3me-7bSI39fayt3PnEuruWwsEa5ovIBxMn37Wa47VhtK5lQdFG13AMQxNyCXWWssKHiEDV8Eclvapcxa_A6VldYZQRfuTmLgs6REf4w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StRgfFo0wshXM8X0YIv1CwrYXL-wLTC46Xo7a8pKgpJaArfuS-OuDFw7UjX3qYYo4c5BFYB-IoWj_krec4dzurDC9i2jJRtx6gh9MLoqADtXV0uvLlvEP4Q1pQgm1sWyPau-5eiw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDAAdBwFxUIWxi3YNWVsYlx8gBLf8HvWoHD9xkdk0svLTi2PfEuA5gLM3a5Ujo6NYTrrxN9WPh98m4OwNscaYx-YAgj7BqSIyFU6N_aUAEMnLVtH-n50Kl7bdNSV9VgLsGB2qZCw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2xEaveaRzqk2bS7GeNSyUxGCK55X55Bb6Z3-L3OpePKrUWY-hklLgXoK0WeYX7PDl8SHHcQQmAuNWXRV6p5degkalkCsjXgAojaA7nYbKU0hvhuf_TC4rBS9frs2ol2lSquXjLw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyQVoZAHfQKU1gklQ6ws9U4UyXk2rkx3ni1p_zjIdBc2BhGfCilclRR7P5OEA7aAhMnqNvv0n0AJCQXvP7wSjUI5ps4JpnqdDNxlp_DJ30mDw5JRAmjl-yq0d6EP-STalOPQI",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxNtYykKtpXYspvhXAl_Cy1ejed2AQmo-N0vP2NMpUnM1eo_wjZX1tNZbJn0X0HmFGyDtmBDTjy4y_7qfmMvn5oJoc3gdXf0ppvpXnuSaVAtH_V_Qqv6URCZG8xmA8EVzNMXNe",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj106yArOuTjJUZ5abyQbF9mNeSPgvtdAKjFveKwV_D01dnhZEThu9qE8U7X6l-APbWNI3Fp1qeITRmWSO7927KNoBDm5WNk72StHKcsHWS4qlkuj0VzeEzzb4BqpLmQ5IsLMr",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOdaGlSHTx1EXdIuDuMQ4FLQKUZvaK9_iLHIlUDmRNs45QWO9LCY_3GOUv3h5pI0XYQyvxv_1sRr5h8EkDXFcThCRDjnr-Ke2aBTyKu5n7QXUwa1bo52LoEapH7S2JYg69fQCWG4-obXCk",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Donna Fernandes",
+   "text": "Had my house power washed by Sprayaway. This was the first time the house was ever power washed. The difference was astonishing!  This was my childhood home, and my parents never thought to have this service done. I am SO happy and SO pleased that I did. Richie was punctual, polite, fairly priced!  I even had my patio and fence done. I would definitely recommend his services. In fact my sister loved his work on this house she is having hers done next"
+  },
+  {
+   "who": "Sean Kaverick",
+   "text": "Hired Richie to power wash my moms whole house, windows, patio, deck, and balcony. He did an awesome thorough job. Price was very reasonable. Will hire him again each year!"
+  },
+  {
+   "who": "Kenny Miller",
+   "text": "Richie did an awesome job cleaning my gutters and power washing my patio and sidewalks.  He was extremely reliable, professional, and very neat about everything.  I highly recommend him."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 718-0008."
+  ],
+  [
+   "What areas do you cover?",
+   "Elizabeth and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project. Richie will get back to you.",
+ "footer": "SprayAway Services · Elizabeth, NJ · (908) 718-0008",
+ "schema_type": "HomeAndConstructionBusiness"
+}
