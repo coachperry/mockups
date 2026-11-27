@@ -1,0 +1,126 @@
+{
+ "name": "M & A Tree Service",
+ "town": "Somerset County",
+ "phone": "(908) 789-0752",
+ "rating": "4.8",
+ "review_count": "24",
+ "areas": [
+  "Somerset County NJ",
+  "Hillsborough NJ",
+  "Bridgewater NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_OW6HeniUMtXzFsh96hcPpGeXidUbt4ByiFuQp4Xkb8Q9BI24LzvKqATILdpl4ihLsGiU679WK28ycZeFb3y70hH62QzYJPHo2BAOTJamiW98OBxDRNuqDMAVD9fJ5NO_hFY2",
+ "title": "Tree service in Somerset County, NJ | M & A Tree Service",
+ "meta": "Tree service in Somerset County, NJ. 4.8 stars from 24 Google reviews. Call (908) 789-0752.",
+ "bar": "Tree service in Somerset County, NJ",
+ "logo": "M <span>& A Tree Service</span>",
+ "h1": "Tree service in Somerset County, done right",
+ "sub": "4.8 stars from 24 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.8★",
+   "Google rating"
+  ],
+  [
+   "24",
+   "Google reviews"
+  ],
+  [
+   "Somerset County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_OW6HeniUMtXzFsh96hcPpGeXidUbt4ByiFuQp4Xkb8Q9BI24LzvKqATILdpl4ihLsGiU679WK28ycZeFb3y70hH62QzYJPHo2BAOTJamiW98OBxDRNuqDMAVD9fJ5NO_hFY2",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RECwDHNnC4sFuxCCGKo1ZihpSj_P45ZW6r-Lg95Tsbv32rt5hZnPqyG7RjBaoEHjl_l1lzEW2Fdag0PomtH0-V0fnrHHSmwCaVZZAzveWSNptgVfzUxyxRgd5pD56C3OaQuqdv",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJ3A0FwaWZZ5KqIsnfEi_APPRcoC1imZ6qmrXGLwXJFPF_KXJccrQYUwwpBm5bWE8ZEIbUrN9HgNErlezvvXT1H-T3sVXMtLIRs6AQDmFeYvJLklbP6hVr1AVbHcNvKqg3gtV0",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKpOPhJfnFMomEMBY6cSR8jgZikoj4in6F02efBy49PKjGIECXe8WE6UF1di8RG-7GBR5bRQttCk_fMdR3d2bOuD3AYWqKHlFf8u-OhcIOYXg7pO6w8csvlc6VPQQ_YTuwLcbc",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCj9dvkIGr6vZkiwqLlaS3_FqSfZjhim1p5tbMDBOzQIPJ1F04K7ho8kY7Ax6O8wuevBQ4IHm6l-A0A2esuoavd96-JuVwQ8pU_mxsz_ojo1wLi48l6hg4L1RsWHfDS6mAX2ZU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevOhBFnQ7Qb7fJZ2cdojysiVrCiVBLyWiM0qxz6ZP9oGRl_9xY1_3BKShbIdjPFOiLKW4GCiB_LWL567fNrENLKLea3-TXGaNQUwPOp4844XtlqVAGa7M9lZEZghnYyQDe5II",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclLNRiccqC1XI0pS0rGo_NVz3ND3DCURx2IE20tePyVcEC7fJdQWZmVvcyTKwVRuj40fi1xqag0zu40dvBXvrqC8DRsM3EntX7QnP27d_rfiYfuHlSgjflmRxh44_MD-vdUme0",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Jonathan Baczewski",
+   "text": "This is not a typical tree service. They go above and beyond. The owner is very knowledgeable and his crew are artists.\n\nHad them trim several trees, drop a giant dead one, and grind down the stump last fall. Good price for good work.\n\nJust had them come back to remove a tree that fell on my house. They used a crane to lift it off since I just had a new driveway put in. Showed up a day earlier and didn't damage a thing. A+"
+  },
+  {
+   "who": "Brian Lindenbaum",
+   "text": "Mike is awesome. I’ve been using him for years. There’s literally no one better if you need any tree services or landscape work done. He’s removed trees, leveled our yard, TWICE! Once at our old house and our new house. Just use him. You won’t regret it. 5 star A+!!"
+  },
+  {
+   "who": "Tara McGovern",
+   "text": "Fair prices, great work. My yard was so neat and clean - had 2 large trees removed. Nice guys. Highly recommend"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 789-0752."
+  ],
+  [
+   "What areas do you cover?",
+   "Somerset County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Mike will get back to you.",
+ "footer": "M & A Tree Service · Somerset County, NJ · (908) 789-0752",
+ "schema_type": "HomeAndConstructionBusiness"
+}
