@@ -1,0 +1,134 @@
+{
+ "name": "FH Home Improvements",
+ "town": "Central Jersey",
+ "phone": "(908) 361-0395",
+ "rating": "4.8",
+ "review_count": "35",
+ "areas": [
+  "Middlesex County NJ",
+  "Somerset County NJ",
+  "Union County NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QqEAJKGzLF6gScCkhvVI4NOrY6dqBlLzYWB8ZMMSPs9CYIqTJ0nWoi1er38LV03t2uxS490Ii_d2hdaIGBRMD1QQx1geKTaApCbk7Vf-iz9560mBkYzN5532RPUpg8w2__HiFn",
+ "title": "Remodeling in Central Jersey, NJ | FH Home Improvements",
+ "meta": "Remodeling in Central Jersey, NJ. 4.8 stars from 35 Google reviews. Call (908) 361-0395.",
+ "bar": "Remodeling in Central Jersey, NJ",
+ "logo": "FH <span>Home Improvements</span>",
+ "h1": "Remodeling in Central Jersey, done right",
+ "sub": "4.8 stars from 35 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.8★",
+   "Google rating"
+  ],
+  [
+   "35",
+   "Google reviews"
+  ],
+  [
+   "Central Jersey",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 4,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QqEAJKGzLF6gScCkhvVI4NOrY6dqBlLzYWB8ZMMSPs9CYIqTJ0nWoi1er38LV03t2uxS490Ii_d2hdaIGBRMD1QQx1geKTaApCbk7Vf-iz9560mBkYzN5532RPUpg8w2__HiFn",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qjpo3e8GpjsN_bE6lhSA_2uYAuRRJVAWR16nssNJMbjUCZVoWdZ2QUQ8h3Vf7MXN9ybJDhpcl1nMv4UsBADsY6dKJXYbsQASLDnXK-ftL59qQog4tJC9vGdTX0iLi4Ano-HJPg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QErHLizMbv0m3wceSNtX1XI7Lk-9SB8SOg1T4QsAysnbUtaUeSC5AH3_WUPAkdRX4L88plyQTIF0jl-gkKOid_tmXHSu_irGKEJnWqEio7YuVWOrUF7usE5515z5vRaFqoB1nlqA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TnwMNqZUZIx6Gr7QoNwjhy4378sGQMjjBlUo93bg6l5QSf4-ezWH_cW4CcCHdQWNSTWkutPo5gkR9nN7zeR1p1AKUHjixjuCMAmQOH6VZQTbviTc7hd9Y1mPdHZtSAaI1z2HmC1A",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RDyaaHeG4MWpt6h6vIJXy1_7hf6fmVmJti1BfQy7kKQnTAbGJWzXr7DGu8nQCDd2LSqx3bl69ubYesSJhogCi0IDIe6y5kI1W9c7jGWjV2PvRAsbl0Ofz0GcTHXgYVX1n0rE-z",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiIjFHti8iaHL3rZ586l8uSEnSEcvekpQwJ-5AbbjNgq8jeO31ltYYp9ayLyVPO6Fih3oZwEm5Eqx9brKYklACxLxbhopseCGUXEYyZwGT8zYEN4WhGkgCWtMGvAhN-l2IJ5QG",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchsY2AIEehmf61C1Hwp5MXihlI6Hxft77dX32K7ercwvzoU-HG0FuXyrzZ0WiOLPqjNt9nkdyYSoY-PbFmw7YGALr6CuiYKjdKbrkTSu6aWRsq6a1oWJxdqA3rYJHvEQ6-OMgIlg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKckhHoZCr2BI-9aDAfq_cAZ-uU4eG2QTeYiYl4ifOty29mfma1Bc8NstHDHXbmX2Zf8NQjLG9VTfg7eql7trwm_S9ijfZZ7FdKO3JVTlkeBAjDgqr6yfrcfNBjdJ1C78AbKzJ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewysdFz-vmEvnOqZQqJW5YtZIizDoO8DHhV4lywgAFD4hNlQoGg9Yvy1dwqzHyAnTfQQvR87ZqxvwO1aZwni2nITLl-8-P6jlgTX36NmB-deUUekKvyQ5MpUl0UbeXMKxxJOH4",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Alex Lawrence",
+   "text": "Fernando and his crew did an amazing job on our master bathroom shower. He was able to diagnose the issues for a previously incorrectly installed shower, gut it and completely rebuild it. He came on-site every day of the project and finished the job early, within budget while providing regular updates throughout. We have another bathroom and other work to do in the future and we will absolutely be using Fernando again."
+  },
+  {
+   "who": "Adriel Carridice",
+   "text": "Fernando and team did an awesome job painting and refinishing my hardwood floors. This home has never looked better. The price was very reasonable, and I would definitely use them again."
+  },
+  {
+   "who": "Tony Coco",
+   "text": "Fernando and Daniel were wonderful to deal with. We had recent storm damage to the roof and They responded right away to our call. His crew, Helio and Danny did a beautiful job\n. Can’t thank them enough, would recommend them without hesitation!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 361-0395."
+  ],
+  [
+   "What areas do you cover?",
+   "Central Jersey and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Fernando will get back to you.",
+ "footer": "FH Home Improvements · Central Jersey, NJ · (908) 361-0395",
+ "schema_type": "GeneralContractor"
+}
