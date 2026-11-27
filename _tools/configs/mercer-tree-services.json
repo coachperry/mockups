@@ -1,0 +1,144 @@
+{
+ "name": "Mercer Tree Services",
+ "town": "Mercer County",
+ "phone": "(609) 586-3549",
+ "rating": "5.0",
+ "review_count": "36",
+ "areas": [
+  "Mercer County NJ"
+ ],
+ "palette": {
+  "ink": "#17251a",
+  "accent": "#7a9a3a",
+  "paper": "#f3f2ea"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLei5BHjx8O4uG866BgvnonnHlRQwljQTmChRVnmiLXgkBeAuD7tDH0erAtxH0PMdDkYy-NyDD_AjOaXfvMBrp23dtd8DFbo4puwpbl_LMrgExy9GF1eWK7GQt7U15cZE_jMNMzH",
+ "title": "Tree service in Mercer County, NJ | Mercer Tree Services",
+ "meta": "Tree service in Mercer County, NJ. 5.0 stars from 36 Google reviews. Call (609) 586-3549.",
+ "bar": "Tree service in Mercer County, NJ",
+ "logo": "Mercer <span>Tree Services</span>",
+ "h1": "Tree service in Mercer County, done right",
+ "sub": "5.0 stars from 36 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "36",
+   "Google reviews"
+  ],
+  [
+   "Mercer County",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent jobs",
+ "services": [
+  {
+   "name": "Tree removal",
+   "photo": 1,
+   "text": "Big or tight-spot removals done safely."
+  },
+  {
+   "name": "Trimming and pruning",
+   "photo": 2,
+   "text": "Healthier trees and clear roofs and lines."
+  },
+  {
+   "name": "Storm cleanup",
+   "photo": 3,
+   "text": "Fallen trees and limbs cleared fast."
+  },
+  {
+   "name": "Stump grinding",
+   "photo": 4,
+   "text": "Stumps ground down so the yard is usable again."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLei5BHjx8O4uG866BgvnonnHlRQwljQTmChRVnmiLXgkBeAuD7tDH0erAtxH0PMdDkYy-NyDD_AjOaXfvMBrp23dtd8DFbo4puwpbl_LMrgExy9GF1eWK7GQt7U15cZE_jMNMzH",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SAcXxKLqiQ34TVUX02zx-FtVbVzMP6gsomxJ0l4siTsL8RnOeC_SwpaDJpIfrBuCWFE7hg-yFtg0GI_Y7O6hfZZIcCWeZ40aopP4SeFB3xGGezdUe5I3qMsbkojtpjDiztjAHj",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUXEWTAx95ZFedP9cgvo2JAqFC4Cx_DHHTIXjRtMq_aQF3B4SfmLp_cGqV6P5Kl_qiUl7JfnyVpU78y922vU_Nf4aApm3PFHpkEBJ-xHi8kBPuRFmSUOTxCMEeGgmJiOfFQTpKzA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqx1rni6iTLWp7NGHTs7AtpSh2tx53S9uuE_MZAXMcO0R1OalbEkGsXGkfNQFL6xfGrVS76G6P8cxI1iRgND-2jND_Eu2zFmh1pBXBOUUSnTDU7u9PqFMx8kigC5RnzpyGPEKEGcTo8LyR",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEnRCy5hN-jJ0XlfaBvfFhQEGkQdoJHHTYnKcL6K5GSzUSkHgH0lX7ayayT_L86RKweaZEU2WcT-SnoR6LEKXux-bgsFof5kIUy9ofmJKf9XgkfyIb15fyUnPE4SXyOpHBsj17XhvWx4Ga",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFMKPpMjYBwlRnyZzdao1C-ziR7lVHLX63vYUqCLoXoXwqTK74ood4JS1Gu3UdO4TUicE2elnMQ6tLNLIaD9kDKA8SLWZwH9atuC2J3yWeactgQKcUsXhQ7156raS5stn11N8hk-AxMzhU",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyQF41IAxMyg3KKVyu7fHDDCgXXw7XwqHTnjFvjspp-ulJ3IOPIIYgcf0UAoAXPbA-pu1ifgBg3nWd7MFPrhICdHXFzSwwb-hZap7LLMHV0QUaB-aQxHqCjyYr68a5S9wuQ8N63w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegopXwvKIU6dQnCd5m3MHw2QEiqBxTrPEa19cGb3C61CSzGC30rlPblX0_uY4xmZcZqJ4t-BQ07XAARsaqcCKopWJ7MCPYEkaCO5R4FhC5APOMQOWESjnLeaWO22v90v-PDdvc",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcevokkMfhbkfBW8Oc-WX2i7NN4Yc6NxQ1Ql9ltE-ub-szgjVhKf1M6Ce_hXjH9y8FMdQBRm1wOd1wUqSZTD83bw_rC3VbCQkywbYynEJRwbNANTHhV563Y-OtMEZYkYZRIx1fzkQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfh_89PuJ-G19gGbTVzPX46q5ODxHwn9j7eUiIQfCccs5qpax6C-3HEWhuWHMmYUoo6psO0_HpCazD-x8esmG179neh1x7MW4oPB7WQy6bbwgwf0Qu8aStP9FbS7kmo3bAnUT42",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAHNnt5LX_fFul6e814Rdmp7Bg-6G78dbchjWxohBRnrNd90Y9o1jMFDsqKPBFNQcood8RXNYQLGEpwNW-BHV0D1FW7sh8lgybZpsCGuwgC7rNw6DBaTA4hJH1cdKal92yxqmu",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Rose Ryel",
+   "text": "Very professional and friendly. Jack and his team were quick to respond to my request for tree trimming. They arrived on time, were very mindful of my personal belongings in the yard, cleaned up beautifully and pricing was unbeatable. I would recommend to anyone looking for tree services!"
+  },
+  {
+   "who": "R A",
+   "text": "I needed a number of large Juniper bushes cut down and  removed.\nExcellent service was provided from my initial phone call to Jack, followed by the completion of work by his crew. And they did a fantastic cleanup.\nSo happy I made the call."
+  },
+  {
+   "who": "Chris Katzman",
+   "text": "I met with Jack for an estimate and let him know I had a fence being installed quicker than scheduled and his flexibility made the job happen. Jack and his team arrived the same day in the afternoon and safely removed two trees and grinder their stumps. They leave the job site very clean and took everything away. I would highly recommend this company as he already did tree removal/stump grinding for my family members and neighbors. Thanks again!"
+  },
+  {
+   "who": "Frank D",
+   "text": "Had 2 oak trees removed near property line which required one of the workers to climb each of the trees as bucket truck was not an option.  Did an excellent job taking the trees down and grinding down the stumps.  Cleanup was taken care of very well.  Would recommend to anyone."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 586-3549."
+  ],
+  [
+   "What areas do you cover?",
+   "Mercer County and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Jack will get back to you.",
+ "footer": "Mercer Tree Services · Mercer County, NJ · (609) 586-3549",
+ "schema_type": "HomeAndConstructionBusiness"
+}

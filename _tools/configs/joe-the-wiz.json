@@ -1,0 +1,136 @@
+{
+ "name": "Joe The Wiz Landscaping & Home Improvement",
+ "town": "Westfield",
+ "phone": "(908) 338-2774",
+ "rating": "4.7",
+ "review_count": "15",
+ "areas": [
+  "Westfield NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLcp16_L9_MKzDdlQ87C8IDSCgE6NnxPYpKnPMSZ-NSYtek4B-mWwfn65ipKDIvrG9C7WS5jyKkbYzI4EAZ1XsyPSX21gTYMYO1iBZtGcYREA3n2Vkr955TZhZcIsNmv9EEDuXLZ",
+ "title": "Landscaping in Westfield, NJ | Joe The Wiz Landscaping & Home Improvement",
+ "meta": "Landscaping in Westfield, NJ. 4.7 stars from 15 Google reviews. Call (908) 338-2774.",
+ "bar": "Landscaping in Westfield, NJ",
+ "logo": "Joe <span>The Wiz Landscaping & Home Improvement</span>",
+ "h1": "Landscaping in Westfield, done right",
+ "sub": "4.7 stars from 15 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.7★",
+   "Google rating"
+  ],
+  [
+   "15",
+   "Google reviews"
+  ],
+  [
+   "Westfield",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcp16_L9_MKzDdlQ87C8IDSCgE6NnxPYpKnPMSZ-NSYtek4B-mWwfn65ipKDIvrG9C7WS5jyKkbYzI4EAZ1XsyPSX21gTYMYO1iBZtGcYREA3n2Vkr955TZhZcIsNmv9EEDuXLZ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrMA9Ynf0J5NhS5If4zZtGILJHcCYGh06SxqHUokQ4fWtu2eajgrAePaZaL1yT7HXzjLXGcYoj0HCWVmfuTYjvaJzA8RjU572lLCNM1vzLn78LWYAyoci-CE1x8EapC6OGY17uJ8tSNa1X",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMoTaQLdP_aYsTqLuD3PVQew4ZZJs1YvuCZRNtDkonGHBCQA21nWYF2B1y2UbvY9aDjqcV26hDwVyqpZfoQk8W_BNR1_LaZE2B6B6GzZoPtJVnDNPGAp2Kjo9PTGrz9oTM9Wpy",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QaeAHg75ymZSZg4Me32kcPcEHlSHDLBUXp5WfA-bnmb8JUyImXRpWHGQYgo_kjmzOGGS5EfuveCzZQjZHxaS-ilu7e2m7GYc3tqB17pIpat-TmNlnidRB_rhvX5Im16oC6JgcK",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR2G6HMLi_RPhSfOXIjprlDtCM4WXUpxD09BRVsbfxb_8HCZJBu_bHy4WdEy9gcE01M-Lv6w-g2q0WzqGgaddAfJ9y0x8ZWsvRBNwhdpTllCmfEeJXyIOH5ZuNeV_4CmFIQCt4AA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU_w7-dp5VNSdlSuvue45_E9QhCILPQQT03kA8nfj2v2KtBltI4tEsXyjI1Ydr4yxe8baMlRuEohdSvWPCeqDJjb49otxG6Ltk6tUQsu6Cxpmto3Hkfb_bpWi5Dkifbrw_lZSs",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ_yAKYsgS0qIj4d6dOY0iBteklpv1Qnw3gQBkIk3nDq_qP9NNqgC0X50t4DUU5HSxB0KVlXnaM16jCZXEulAU6VvVo7UeZt22FfTWQjcxE_5CGhaff8tQCKHTHsooGI_VBuLk9w",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXYTTY3G8NVVV3mnVy7EIZx9cd-LAsd2s4LhXqiqX0rDB_kZXLq9TXpx08cWzIYUnNDFVNiDpQmempgFHJbf3cYTCFlzJnO8U9qbEVz2q1KGjMIaNfjFU_69ExBF7Uq78D7XcV",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccPMGczcs7Mu9BPAyQgxjrybpHeDMIf6OTb72dLbhWaimronGxfhrzEyVjulhhNhUd_J8uKNyix1Ml5KO7G06mhkhwIZyBArp0Ax64ZEuTxDAZh0fHQzyRScZreQjUIIRgKqtp",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0l71ywbmYMtl0gpSnTkwM5uQ7p7HAGBvk2Av1el_83iw-H7YDpbHXDvFucfH6kU2rmGdgZi80vMRXtSf8pTXfaJ0_F8Cg8tpTuTE3ur4oh70BbDgfLunqZ81v-TUAkt6NoXwxkA",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Kevin Crummy",
+   "text": "Joe and his team just did an outstanding job mulching my entire property. Communication leading up to the day off was stellar, they were efficient, and prices were very competitive. I would certainly use \"The Wiz\" again for other landscaping or handywork project. Worth a quote for something you want done, he's a master of his craft."
+  },
+  {
+   "who": "Douglas Caracappa",
+   "text": "Joe painted and refinished our garage, and created a custom entry wall coat rack with decorative paneling. He works very hard and is very accommodating. I would highly recommend him for any job or service you’re considering him for!"
+  },
+  {
+   "who": "Amy Hancock",
+   "text": "Joe is simply the best. His work is exceptional and he always goes the extra mile. Reasonably priced and dependable. You will not find a better landscaper than Joe the Wiz!!!!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 338-2774."
+  ],
+  [
+   "What areas do you cover?",
+   "Westfield and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Joe will get back to you.",
+ "footer": "Joe The Wiz Landscaping & Home Improvement · Westfield, NJ · (908) 338-2774",
+ "schema_type": "LandscapingBusiness"
+}

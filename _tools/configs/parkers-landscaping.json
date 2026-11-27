@@ -1,0 +1,132 @@
+{
+ "name": "Parker's Landscaping",
+ "town": "Hamilton",
+ "phone": "(609) 635-6310",
+ "rating": "4.5",
+ "review_count": "17",
+ "areas": [
+  "Hamilton NJ"
+ ],
+ "palette": {
+  "ink": "#16261c",
+  "accent": "#5b8c3a",
+  "paper": "#f4f3ec"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ2anYUrDqWO5oMIktPz29YxaG_3FBVl4Uq4CKMgcqPP89GVTowqdfcPKsV5BjBKN8BGN040ysRkJnqSPfNmsiXuQvWkRUffSZoovjG75YGZYhDcHfjNzRpXLg-Qlm2mv-dklvZ4IlyEld",
+ "title": "Landscaping in Hamilton, NJ | Parker's Landscaping",
+ "meta": "Landscaping in Hamilton, NJ. 4.5 stars from 17 Google reviews. Call (609) 635-6310.",
+ "bar": "Landscaping in Hamilton, NJ",
+ "logo": "Parker's <span>Landscaping</span>",
+ "h1": "Landscaping in Hamilton, done right",
+ "sub": "4.5 stars from 17 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.5★",
+   "Google rating"
+  ],
+  [
+   "17",
+   "Google reviews"
+  ],
+  [
+   "Hamilton",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent projects",
+ "services": [
+  {
+   "name": "Patios and walkways",
+   "photo": 1,
+   "text": "Paver patios, walkways and steps laid to last."
+  },
+  {
+   "name": "Landscape design",
+   "photo": 2,
+   "text": "Planting, beds and curb appeal that fits your home."
+  },
+  {
+   "name": "Outdoor living",
+   "photo": 3,
+   "text": "Fire pits, seating walls and spaces you actually use."
+  },
+  {
+   "name": "Lawn and cleanups",
+   "photo": 4,
+   "text": "Seasonal cleanups and a yard that looks sharp all year."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ2anYUrDqWO5oMIktPz29YxaG_3FBVl4Uq4CKMgcqPP89GVTowqdfcPKsV5BjBKN8BGN040ysRkJnqSPfNmsiXuQvWkRUffSZoovjG75YGZYhDcHfjNzRpXLg-Qlm2mv-dklvZ4IlyEld",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RcrbqJNurHGxJOAYCoT6Yzv9mqC45nk0nbBATmCZWUwzOGt-x_ykBZzd9lP5qKoap4ECFmGgNfoqxmzjiwaQU-hBS24_2baEJJBh0s4gZRUbz_tWNtElWQda_4EHdaVNXh9sz_iUyErd67",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QyiHq5VjmWqLp6zr9cpoqSiD3RxeuLy0usZG6wkV3aC_xXPPkTPTTe0PWsP86T4mrKVeUl7N2LR7h7gIPN-7vrzoV4-swGbOJ6vEcaXi9f7ifC_WWUytFi6oV0tLElfvn3f2UjNg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcq4m_Y8w1IhuE9NGSp5CsABlxNuAJ7--GY3nZjJNQShjME_2yFloJNzwE0iSlsF9ZVz-GMRC4zkERpoGDFeoS6-vjGcbhmCpSyxrTe2BM1jMpSqC9zpuTp9yIuUAuXbRAekhg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchTy-SrADsIWCtvMGjU3uUTGWnNU0r3kZwVPFHm3tCVEn3KmNFQ09k3HJ8dpazOMCyWwXloio4I9CRTh_F3UqM6f4UUv4iV_WPYjtB-73DmX-xJIl9SsJDKZlnRKVH_4gXcaAA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1gXUIbbq25TupsudKXGkp3fsXQUZYstGY899uzDFNCj1PhOKhO5RvNf5cGNKW5Pm-78qLhIKxyiPYSr_mMsI1dhj4mEgZd4vjsw-7Rm9PWXH4_dv5fG5fevWQxCdta7OCGRRL",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRiNPEPaSAzRMFgJzx2KuEAzkqwK7CCRc_pAbyST0ep5iEnrU-1mit6IwYq-v24MuzHv7HbGijhtcwFLfy1uJ7SzpfEuVWHs7HYhp-5aHDuu05boYOsc6zFOixbNDkNpHyMA3_PQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMkK8KosXT0wa2p5kXYjbdU1s8ytI_Wbsipx3vYOG1gjMDDJ1JyYtSbFLDVvAHmGlljCcRYtHxVnr-gbwL8AgO80lzkA_P7v57KZioiP8008CuOt93XI5K-_wO3MFCsWMuvRia",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdo8ufjJzqYWWaAvYK1QfuwjG4AqFKhLsa4GYZ389thNG8UjlgfA74pxH15o4l7yGjDnsTC2ySRr8rBfYsvtQkNgtbsY7ISLosTEEqBSTP1JMNWNIRxmSxN5DvgMt8XcAIruk78",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Shahbaz Khan",
+   "text": "Excellent experience with Parker's Landscaping LLC! They were reliable, showed up on time, and completed the work with great care and professionalism. The quality of their landscaping work was impressive, and the whole process was smooth from start to finish."
+  },
+  {
+   "who": "Paulette Foti-McMullen",
+   "text": "Parker is a very hard worker at 18 yrs Old.  He has helped restore my grass from the destruction of my 5 pups and makes all my projects come to life.  I highly recommend him!!"
+  },
+  {
+   "who": "Niral Kapadia",
+   "text": "I hired Parker in Spring ’25 for a backyard cleanup, and I couldn’t be happier with the results. He handled weeding, mulching, and grass seeding with great care, and even followed up afterward to address my concerns. Parker is reliable, responsive, and respectful. I was surprised to see so few reviews, but I can confidently say I’m very impressed and will gladly use his services again. Highly recommend!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (609) 635-6310."
+  ],
+  [
+   "What areas do you cover?",
+   "Hamilton and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project. Parker will get back to you.",
+ "footer": "Parker's Landscaping · Hamilton, NJ · (609) 635-6310",
+ "schema_type": "LandscapingBusiness"
+}

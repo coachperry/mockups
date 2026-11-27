@@ -1,0 +1,136 @@
+{
+ "name": "Somerset County's Finest",
+ "town": "Belle Mead",
+ "phone": "(908) 642-1902",
+ "rating": "5.0",
+ "review_count": "27",
+ "areas": [
+  "Belle Mead NJ"
+ ],
+ "palette": {
+  "ink": "#0f1f2e",
+  "accent": "#2a8fd0",
+  "paper": "#f2f6f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDMO4faK7naoUdx9ynmLLrOMrwQtJAqj205ox2kWp5NS_R0sUhlGgGsUsrsR9F27HbFMrjgGy9l3_sLwcSAvNV6hrmH8p2MxyYT3BIFp7mPCQIbtJ4D7MncsNyDBKnpwEvytKs",
+ "title": "Power washing in Belle Mead, NJ | Somerset County's Finest",
+ "meta": "Power washing in Belle Mead, NJ. 5.0 stars from 27 Google reviews. Call (908) 642-1902.",
+ "bar": "Power washing in Belle Mead, NJ",
+ "logo": "Somerset <span>County's Finest</span>",
+ "h1": "Power washing in Belle Mead, done right",
+ "sub": "5.0 stars from 27 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "27",
+   "Google reviews"
+  ],
+  [
+   "Belle Mead",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Before and after",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 1,
+   "text": "Soft wash siding that takes off mold and grime without damage."
+  },
+  {
+   "name": "Driveways and patios",
+   "photo": 2,
+   "text": "Concrete and pavers cleaned back to like new."
+  },
+  {
+   "name": "Decks and fences",
+   "photo": 3,
+   "text": "Wood and composite cleaned and ready to stain."
+  },
+  {
+   "name": "Roofs and gutters",
+   "photo": 4,
+   "text": "Black streaks and gutter stains gone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDMO4faK7naoUdx9ynmLLrOMrwQtJAqj205ox2kWp5NS_R0sUhlGgGsUsrsR9F27HbFMrjgGy9l3_sLwcSAvNV6hrmH8p2MxyYT3BIFp7mPCQIbtJ4D7MncsNyDBKnpwEvytKs",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RI7mj_TNX8BM9TIJo-SV_LNHK4yYeVjxECK2B76PhHpK5GbkTUI_ecMwbdEvTvRt2glNMHIwFSMJavc-2_qUIglqokI8oNaJLwi_w3-dXa36WcrkHxcq5y61YgwDnu-nWcb3KS",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHr5rYo_XEIT3jB8nfLH5N7aytBjgbh8XHxecK6CfTEgOEHC-3MSM54-j6TbGsB7uU4QILhLRfLsvdM2GlbgJR1siypxjmqrt_gu2LLXlJ7Btz1zC2OzyJF5BW2kTPuFgA0-g9",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKBz6vhM12uGOVRV7im3KN252uZXsTPnMqTDOFaKHiJwAEcfMrNfLc_42awfw8zeWqBvEKSvL6y1PYKpYFMdVKqnjXfQw3W-mFEZp5w9MgWdXat7by_e4xIyg-F3hz8rss2D4t",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QieEfDP6-sCamMwNQutwx5qGZvNVDbX6Gp5BCqwoKX3RtUmEtSFPhINFuDMu1O-3GzPuJOPoWyUYGU9I0ojwMIZnxSIlCOAE1mKsG4Gg5m4ehR_l0kwZglnnOnE4wbTmU5TV1xQQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSXq2dsF0NhTCNl5dPtmhrCmMBBzPCetKPToLCCtZzFd-R3m5ftfU4H2oLP3ogUQ5Jh1t5DhPsVZotjxgcSiUZBJdqarg8PUC2nbjDKKjJztHVDY1A4JoHKnzUlmyPDZkxFUKB",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TV6bbSZLJVDE_yonUo14EHaDUwfmZBZj0mdgu3MRLiB0yPA81pjfKExWTorbJbB9oZ2rjrwYLcmoH4vHpLYOivht33EOpoQGn9XclkdEXq1CDkcQ6PEm2sWr2gQO4jyzzHEfbg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf16LnY0Iy4fybcboGXO4ZedKrKrDpI8Ew6XwKXGkXj6G-QvPSivBP-2iBdZ1J1SYOUDozT3dbzZhhkPUnj-VO6-wBbmMopz4NonAQVpPrQXVDb01z1aHjV3ErE90Y_O8oyjPvd",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFgF3pRNrxkaKbeUyRX1WstZnNwMF59qazVnieUgCeSfe59yz7SaLaQSprSvHHFtGTDQyxyjVF3JJBzDvIcvcwSHzG6juPzbruedRsYr7juAcIwf0gnQqVIMAL7wkPWEeekzBvuw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5RTWYctnIj4QfOwKgCze9_VhXd64ecFLMioZ89jViNpu0r5N7XBIQR9Nlv0lgo19fHCZp8Qyt3dhLH-gtFtJfLgBOcfoZva2wxV59SnX1DjqFejguJZYt_chWkyqKC-QCXHk",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "William Eng",
+   "text": "After SCF got done with my house, it looks like it did 23 years ago when it was brand new.  Chris and Eli did a fantastic job on my exterior, deck, sidewalk and rear pavers.  They were professional, courteous and thorough.  The whole experience from initial contact to job completion was stress-free.  They are a first class operation and I highly recommend them."
+  },
+  {
+   "who": "Bob Bracale",
+   "text": "Chris Hess knows his trade and performs excellent work.  He works well with his clients to find the best solutions for cleaning and restoration.  Highly recommend his services!"
+  },
+  {
+   "who": "George Markman",
+   "text": "Chris and the team from SCF came to my home today and power washed the house, deck, and took care of our stone pavers. As always they did a phenomenal job and I would recommend them to anyone looking to beautify their home. Very professional and a job well done. Chris is dedicated to his craft and cares for your house as if it is his own."
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (908) 642-1902."
+  ],
+  [
+   "What areas do you cover?",
+   "Belle Mead and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project. Chris will get back to you.",
+ "footer": "Somerset County's Finest · Belle Mead, NJ · (908) 642-1902",
+ "schema_type": "HomeAndConstructionBusiness"
+}

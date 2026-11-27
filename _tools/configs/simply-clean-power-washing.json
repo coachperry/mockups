@@ -1,31 +1,136 @@
-{"name":"Simply Clean Power Washing Plus","town":"Freehold Township","phone":"(732) 850-8450","street":"852 Colts Neck Rd",
-"address":"852 Colts Neck Rd, Freehold Township, NJ 07728","schema_type":"HomeAndConstructionBusiness","rating":"5.0","review_count":"230",
-"areas":["Freehold NJ","Monmouth County NJ"],
-"palette":{"ink":"#0f2537","accent":"#1fa3c9","paper":"#eef7fa"},"font":"Archivo:wght@600;800",
-"hero":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJ7l47QZZHcaRaz4CUCJRr5m_MxIaiS0upfufCJccdwEE_a3WiquXNeYBIHeG3oCmWiJc3vCvSK0XW1ves64Kjd1XWcVyCt0gdDcOgAqA-RysSLFQas-n3xv4yOKgUH4KBlq5Rgg",
-"title":"Power Washing and Shrink Wrapping in Freehold, NJ | Simply Clean Power Washing Plus",
-"meta":"Paver cleaning, power washing and outdoor furniture shrink wrapping in Freehold, NJ. 5.0 stars from 230 Google reviews. Call (732) 850-8450.",
-"bar":"Power washing and shrink wrapping in Freehold and Monmouth County","logo":"Simply Clean <span>Power Washing</span>",
-"h1":"Power washing in Freehold, NJ","sub":"Pavers, patios, walkways and pool decks cleaned and restored. Plus winter shrink wrap for your outdoor furniture.",
-"cta":"Get a free quote",
-"trust":[["5.0★","Google rating"],["230","Google reviews"],["Pavers","Cleaned and restored"],["Shrink","Wrap for winter"]],
-"svc_h2":"Clean it. Protect it.","work_h2":"Recent jobs",
-"services":[
- {"name":"Paver restoration","photo":0,"text":"Patios, walkways and driveways cleaned and restored so the pavers look new again."},
- {"name":"Pool decks","photo":1,"text":"Pool decks and patios washed clean before the season starts."},
- {"name":"Shrink wrapping","photo":2,"text":"Outdoor furniture shrink wrapped tight for winter. No more covers filling with water and blowing off."},
- {"name":"Driveways","photo":5,"text":"Driveways and aprons cleaned edge to edge."}],
-"photos":[
- {"url":"https://lh3.googleusercontent.com/grass-cs/AABkmLcqd9XRG_1mPNdoRJ3LtTgvnoSM_xG1BJK6u7Z9VTRTyhr4XIUE0T15gYGPDdZgzdKEEiVQjx0Fg-mjhe6paT3VkD6oWnzb8dLHPehmIDw9XTqKdDIJsiJgiuVw2CnUuQAEB33BhrRAQJYR","cap":"Walkway before and after"},
- {"url":"https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJ7l47QZZHcaRaz4CUCJRr5m_MxIaiS0upfufCJccdwEE_a3WiquXNeYBIHeG3oCmWiJc3vCvSK0XW1ves64Kjd1XWcVyCt0gdDcOgAqA-RysSLFQas-n3xv4yOKgUH4KBlq5Rgg","cap":"Pool deck pavers"},
- {"url":"https://lh3.googleusercontent.com/grass-cs/AABkmLfe4CHr-2WWj3FxqJ0kwCgs4sp2zjdiQnNY5dEU0IGbNKON-GSVIJOYlnA9Bz3rhWOi3VsrkUOkBqgYMTcvjispxIDpMPY5rIPMlYHXzO_wg3F6oEbTX7ZWQz_PtMgtoMaD9VHp3tG1fM4p","cap":"Furniture shrink wrap"},
- {"url":"https://lh3.googleusercontent.com/grass-cs/AABkmLcciaTsc7Rg7NpKMdlLRDtoq7jwFvdUYO8cjBGUxJ8o_V9KTekoES0anJwCDoLFFIkE3YUv43JsiAUrIc_981JsvMxblzX7J3_6C5mIrK8XbqmPI1AKm-AbE2VWHUygzeEor7yv0bSluKKw","cap":"Clean paver walkway"},
- {"url":"https://lh3.googleusercontent.com/grass-cs/AABkmLf4ef7hOkxhAgE0W_cak8IYi-_6rjWEnO2Q24P8DUnOzO2GqegkGj7__avo_3TGCqUokvr580WIgco3GH6vXxhwLzAIP_M9I6M6-yHIse5NraycLOpQhz0d4GVBvo06D7Vbuvjq0Eh8WfE","cap":"Paver patio"},
- {"url":"https://lh3.googleusercontent.com/grass-cs/AABkmLczQnXDHv3U6svzROdUrCOptsXXAgWATSIUD-d-iKkqxfw0Gb9MfJ8U6CF-EoF57QIWGnU-72qZ9hAajITRar1Gqtp_fVFjGely9-F-B_QbbbOw86bDKgXWCJ7cpWwZ-P9WcVBtVHmH3oI","cap":"Paver driveway"}],
-"reviews":[
- {"who":"Michele Capozzi","text":"I would totally recommend Simply Clean Power Washing  Plus. The did an awesome job cleaning and restoring my patio and walkway pavers. Very reasonably priced as well!"},
- {"who":"Steve Kelso","text":"The guys were Great !  I tried covering up the furniture last year Myself it was a disaster! The cover kept Filling up with water, freezing, and lifting up!\nThe Shrink Wrap is much tighter completely closes in the furniture and keeps it out of the weather. I’m Absolutely going to use them again next year. They did a great job."},
- {"who":"NMD D.","text":"Guys were quick, clean and   efficeint and went right to work on wrapping mynoutdoir furniture. Great job and great team! Best price also,  will use them for power washing in spring on home & patio.  Highly recommend, you wont be sorry!"}],
-"faqs":[["Do you give free quotes?","Yes. Call or text (732) 850-8450 for a price."],["What is shrink wrapping?","A tight plastic wrap sealed around your outdoor furniture for winter. It keeps out rain and snow and will not fill with water like a cover."],["What do you power wash?","Pavers, patios, walkways, driveways and pool decks."]],
-"quote_h2":"Get your free quote","quote_p":"Tell us what needs cleaning or wrapping and we will reach out.",
-"footer":"Power washing and shrink wrapping in Freehold, NJ"}
+{
+ "name": "Simply Clean Power Washing Plus",
+ "town": "Freehold",
+ "phone": "(732) 850-8450",
+ "rating": "4.9",
+ "review_count": "231",
+ "areas": [
+  "Freehold NJ"
+ ],
+ "palette": {
+  "ink": "#0f1f2e",
+  "accent": "#2a8fd0",
+  "paper": "#f2f6f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcbFjp4fnCPXwlGNLaZUBWaXmH4Qhlcmeh4z71ULMoroHTCPR_iSxRaS8Ae7p_-V7jLEzTJ4HQ0tEFwL3w3C3tHqCZI6vcDpu0Hf4bNQq2IZfPhIySdE3GqCFng3zHXs_ZieBBfXvFwrTm",
+ "title": "Power washing in Freehold, NJ | Simply Clean Power Washing Plus",
+ "meta": "Power washing in Freehold, NJ. 4.9 stars from 231 Google reviews. Call (732) 850-8450.",
+ "bar": "Power washing in Freehold, NJ",
+ "logo": "Simply <span>Clean Power Washing Plus</span>",
+ "h1": "Power washing in Freehold, done right",
+ "sub": "4.9 stars from 231 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "4.9★",
+   "Google rating"
+  ],
+  [
+   "231",
+   "Google reviews"
+  ],
+  [
+   "Freehold",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Before and after",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 1,
+   "text": "Soft wash siding that takes off mold and grime without damage."
+  },
+  {
+   "name": "Driveways and patios",
+   "photo": 2,
+   "text": "Concrete and pavers cleaned back to like new."
+  },
+  {
+   "name": "Decks and fences",
+   "photo": 3,
+   "text": "Wood and composite cleaned and ready to stain."
+  },
+  {
+   "name": "Roofs and gutters",
+   "photo": 4,
+   "text": "Black streaks and gutter stains gone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcbFjp4fnCPXwlGNLaZUBWaXmH4Qhlcmeh4z71ULMoroHTCPR_iSxRaS8Ae7p_-V7jLEzTJ4HQ0tEFwL3w3C3tHqCZI6vcDpu0Hf4bNQq2IZfPhIySdE3GqCFng3zHXs_ZieBBfXvFwrTm",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8RZhh8PmqvpVmvB67Llz80Uk5-MBCxdIiFmTsS0aH3H7jj3LhyOMJnKdO11cNCdGsdby_4uW_ly_8dbbHCfo03P-r9XbAWeZ7GMAXK54fxu0eOzJGSe4QL8QYKaplysMPLRCQlo1nE0Hw",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tcl15m30oWwTuc1ZNV2fmzngLiZYvRYOrHEWITi1Sg57E0CMI_gVK_9UwvALngffPGupFLUf8gRIOo3UUV8oj7DPoB4F0ChGVxAFV3wUTmJJMjXYPwJTKCDt9u0xwlwSf3UNa7a9G32huQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyMv9g3hrJsVdBZpryPBFCm8llvKjNsbvcpYK2ztg2b4WWSxxd-MuXsadKuWxVl8UQVK1bPJEGlBrJjRwYypnnHdJkRuqMxvsmOq6Hv84l8sXyuZ6RcoiiH9y2dF4T3EHo_36GEmtc0QI",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T6sBuZceb9AHOBrBGW-7Yz3gwG5pR6EEh-akZrEh7U0QoEGzH4HfA75wHmR5U_54vmS8cMkHEYS0AeTRqDDXsuO-nugCN38VefVbrnYY99mS33SSqTWUQrSVyFXJkWlm2djOHV-2PFmRK7",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sr-2kdUMpcbxVqAMWCX9_OZaELmUoE_aNgmouKDRd07aQnNpqOqyePqwP5gJs3TqiizgYt4YGBwSis5HcD7QTOpYOhTmPhxWb88ucVZEFpNW4rdFUcOIacQvRojzLlgwVwPxr_mg",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tx-f_en-R6hHtPn6dQc3jC2RS1SBzH5HYmQz8GdEwnkCJ1Z0CYckCm9nK7oFiDVfOAhS7JMn2MHhyDYIGK0sbyg0JhBrtEevOPrrPvCbQDzEHHf8smVgmwQmr-YPP8HS0KVLkZgQ",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcENUFB_cCJLZyhuLt-qG_5aWeJjQYCCcZ7Jigh4jvecSy3NiYEUg7p5QYOGbb8QYC8vTvCunRtGIzO0TSzAbOZpDBUyzwPjW7NMVxA3bBuxxPTgH5IakdTmVh6owuiGs4KDO22Mi_VAQC3",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc09qIA22xptljnlnbQB3zP3dvIMcubPYO1xWPeK9iJrfG1_AwMWUWtxV4X6N7hM2odfvfG9X23EYhxeAi4DGxJ5CGJtsy_9V7g-j77462JkbBQEHm8RRGG57FUF5fUXhTjMURSlnQo_YzR",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePd5-vrCrHcM9E8o5PVZW4eXjUQ_V10wY7HzEmfv5rMf5RTA9zoudenIWZrwYRXBCemiRpNo6m6FDfxUQo2vhwWExu_lMecQjpwAekDU_fbVOhotfxnbXt1PP-7wMDocKf-N979kGmqtgY",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Steve Kelso",
+   "text": "The guys were Great !  I tried covering up the furniture last year Myself it was a disaster! The cover kept Filling up with water, freezing, and lifting up!\nThe Shrink Wrap is much tighter completely closes in the furniture and keeps it out of the weather. I’m Absolutely going to use them again next year. They did a great job."
+  },
+  {
+   "who": "Michele Capozzi",
+   "text": "I would totally recommend Simply Clean Power Washing  Plus. The did an awesome job cleaning and restoring my patio and walkway pavers. Very reasonably priced as well!"
+  },
+  {
+   "who": "Michele Rullo",
+   "text": "Service was excellent!! We had our outside furniture shrink wrapped..The guys were very friendly and good at what they did..I would definitely recommend.. Good prices also!  See you next year..Happy Holidays"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 850-8450."
+  ],
+  [
+   "What areas do you cover?",
+   "Freehold and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Simply Clean Power Washing Plus · Freehold, NJ · (732) 850-8450",
+ "schema_type": "HomeAndConstructionBusiness"
+}

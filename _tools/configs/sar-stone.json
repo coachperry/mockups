@@ -1,0 +1,112 @@
+{
+ "name": "Sar Stone",
+ "town": "Boonton",
+ "phone": "(973) 905-1907",
+ "rating": "4.5",
+ "review_count": "16",
+ "areas": [
+  "Boonton NJ"
+ ],
+ "palette": {
+  "ink": "#1b2230",
+  "accent": "#c08a3e",
+  "paper": "#f5f3ef"
+ },
+ "font": "Fraunces:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPyaaOccAMlJsDLtx6UtNJkWowFGK-tqTWmPYbO2vdvQfwyI5eirWWktnxbQbsxJ-ipWVfV5hTYLZCkaPeSCt4GMT_MRB7BnGMjwg8vGyUbxA6G2VEya5Kyn7x_Fa2bO6YK4kp",
+ "title": "Remodeling in Boonton, NJ | Sar Stone",
+ "meta": "Remodeling in Boonton, NJ. 4.5 stars from 16 Google reviews. Call (973) 905-1907.",
+ "bar": "Remodeling in Boonton, NJ",
+ "logo": "Sar <span>Stone</span>",
+ "h1": "Remodeling in Boonton, done right",
+ "sub": "4.5 stars from 16 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free estimate",
+ "trust": [
+  [
+   "4.5★",
+   "Google rating"
+  ],
+  [
+   "16",
+   "Google reviews"
+  ],
+  [
+   "Boonton",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Recent work",
+ "services": [
+  {
+   "name": "Bathrooms",
+   "photo": 1,
+   "text": "Showers, tile and full bathroom remodels."
+  },
+  {
+   "name": "Kitchens",
+   "photo": 2,
+   "text": "Cabinets, counters and full kitchen renovations."
+  },
+  {
+   "name": "Full renovations",
+   "photo": 3,
+   "text": "Whole-home updates handled start to finish."
+  },
+  {
+   "name": "Flooring and finishes",
+   "photo": 3,
+   "text": "Floors, trim and the details that finish a room."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPyaaOccAMlJsDLtx6UtNJkWowFGK-tqTWmPYbO2vdvQfwyI5eirWWktnxbQbsxJ-ipWVfV5hTYLZCkaPeSCt4GMT_MRB7BnGMjwg8vGyUbxA6G2VEya5Kyn7x_Fa2bO6YK4kp",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhdruOuLmtR1siCjJSNxcBh7Y5s05ZTH1Zaxc_o9fBmfkK-RsVxMf3GO6IwhWC4MyRGC3bWlzcxci2sldjNX-Jh3TukPO56-yj1oW7pd3Q-m6Ecstv7I6RRt8hVzY4dgEBm2VHwgRfKGrd",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcr1l7Y1WsqBElJ9h_Lj9VAsgwpMLzeYhrO8Fqqsp4N5PGWBDh9rDXRE3RZTle167IMQU7t6fBNozQLzv6hID13gMKaW1icTIn3tgm5dJ5Vxel49cRkF_ETotKUcF-urUPlqVE",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc72ccLWGczELuL8hJv3njcgi_DSSF4hJ17qp234Icm1pXQnVkw8qEtLeBfFbgxtwSaon_osBMCuxZWAHPCMttjdJjP6fQmOBmDSolokKfVH1jwycDZzm83UZ1m0IXMLHnm8Ug9OE9R0ZM2",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Wahead Shamsudin",
+   "text": "Sar Stone was great from beggining to end.  I have talked to a lot of contractors and something always goes wrong.  They were professional from beginning to end.  They rehabbed my house from A- Z literally.  A 5 bedroom 3 bath house.  I would definitely recommend them for anyone doing rehab/construction on their home."
+  },
+  {
+   "who": "Irfan Coklar",
+   "text": "Sar Stone did some work on my primary residence and we were thrilled with the outcome. Great pricing, amazing work and very professional - everything you could ask for from a construction group. Highly recommend them for anyone looking to do some work around the house"
+  },
+  {
+   "who": "Coop",
+   "text": "Excellent work. Hired to remodel my grandparents living room. Really liked that they explained everything about the job first to make sure my grandparents were comfortable and afterwards my grandparents were very happy with the work that was done. Yes we would recommend Sar Stone"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (973) 905-1907."
+  ],
+  [
+   "What areas do you cover?",
+   "Boonton and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free estimate",
+ "quote_p": "Tell us about your project and we will get back to you.",
+ "footer": "Sar Stone · Boonton, NJ · (973) 905-1907",
+ "schema_type": "GeneralContractor"
+}

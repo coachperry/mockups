@@ -1,0 +1,112 @@
+{
+ "name": "Jet Pro Power Washing",
+ "town": "Manalapan",
+ "phone": "(732) 299-8797",
+ "rating": "5.0",
+ "review_count": "25",
+ "areas": [
+  "Manalapan NJ"
+ ],
+ "palette": {
+  "ink": "#0f1f2e",
+  "accent": "#2a8fd0",
+  "paper": "#f2f6f9"
+ },
+ "font": "Archivo:wght@600;800",
+ "hero": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaXJpdJmNPYBIsuuKXmuNOdYpGCQMuR4vUqVNzr-f6E-9kCOtfQ7LSzBpytzaZv6v0k_Jo3mG6R1P0wfvmqrgz7B5PecGjaCZOtEnszqBfJ6prRAc4NopN-n0kzDg8PsPDCPggDA",
+ "title": "Power washing in Manalapan, NJ | Jet Pro Power Washing",
+ "meta": "Power washing in Manalapan, NJ. 5.0 stars from 25 Google reviews. Call (732) 299-8797.",
+ "bar": "Power washing in Manalapan, NJ",
+ "logo": "Jet <span>Pro Power Washing</span>",
+ "h1": "Power washing in Manalapan, done right",
+ "sub": "5.0 stars from 25 Google reviews. See the work, then get a free estimate.",
+ "cta": "Get a free quote",
+ "trust": [
+  [
+   "5.0★",
+   "Google rating"
+  ],
+  [
+   "25",
+   "Google reviews"
+  ],
+  [
+   "Manalapan",
+   "NJ"
+  ]
+ ],
+ "svc_h2": "What we do",
+ "work_h2": "Before and after",
+ "services": [
+  {
+   "name": "House washing",
+   "photo": 1,
+   "text": "Soft wash siding that takes off mold and grime without damage."
+  },
+  {
+   "name": "Driveways and patios",
+   "photo": 2,
+   "text": "Concrete and pavers cleaned back to like new."
+  },
+  {
+   "name": "Decks and fences",
+   "photo": 3,
+   "text": "Wood and composite cleaned and ready to stain."
+  },
+  {
+   "name": "Roofs and gutters",
+   "photo": 3,
+   "text": "Black streaks and gutter stains gone."
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaXJpdJmNPYBIsuuKXmuNOdYpGCQMuR4vUqVNzr-f6E-9kCOtfQ7LSzBpytzaZv6v0k_Jo3mG6R1P0wfvmqrgz7B5PecGjaCZOtEnszqBfJ6prRAc4NopN-n0kzDg8PsPDCPggDA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqMKkhOnCe1a0hyl61RkiBhhu73WYcVkoBqf9h1yQe1HGP98yFlxYrphOfDLt9Tclw6TRqnjW5e-jg5sCJF47KtapyYFJiWPVi9C8paEQjadpWfKBy_aSKRml4E1I--yRw57382yDAMFk",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6NtqI_wX_3EI69NVa71yJdPDFz1HawuZJbolb0PJgJNJ4KUHnlWfqaUbq72a7E4DR3vjLbt0zSWnpTfngb8f4upwOKOuspb7K5uDKYhY-POnwHDQgE9FaMaeOaSqDP7nDqUA",
+   "cap": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsLWKKJ0IfBc0oNN6h-harU_DOS5fkl3SLx6wzCAyZXbeCqZ53vRexVlah-IX6hDM3X-bN-fsmX47cxilkzSZFcFQ7-ueOJfs1ec5XZzDea71Dz3_K4FGHePdVAW-IVfbAfO75ZEtO6zYP",
+   "cap": ""
+  }
+ ],
+ "reviews": [
+  {
+   "who": "Jaiteg Baidwan",
+   "text": "We hired Sergey to power wash our home’s vinyl siding and roof, and he did a great job. Very professional, great communication, and a great attitude. Would definitely recommend!"
+  },
+  {
+   "who": "Holly Gera",
+   "text": "Jet Pro was great. Came right away to provide an estimate and then did the work on time as promised. The job was done very well, everything was cleaned and fresh looking. Definitely recommend them."
+  },
+  {
+   "who": "Jeff C",
+   "text": "Great work, timely, and professional. Sergey went above and beyond powerwashing our house, windows, and walkway. Highly recommend!!!"
+  }
+ ],
+ "faqs": [
+  [
+   "How do I get an estimate?",
+   "Fill out the form or call (732) 299-8797."
+  ],
+  [
+   "What areas do you cover?",
+   "Manalapan and the surrounding towns."
+  ],
+  [
+   "Can I see more of your work?",
+   "Scroll up for recent projects. Ask and we can send more photos."
+  ]
+ ],
+ "quote_h2": "Get a free quote",
+ "quote_p": "Tell us about your project. Sergey will get back to you.",
+ "footer": "Jet Pro Power Washing · Manalapan, NJ · (732) 299-8797",
+ "schema_type": "HomeAndConstructionBusiness"
+}
